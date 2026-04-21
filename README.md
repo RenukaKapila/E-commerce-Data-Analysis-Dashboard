@@ -24,30 +24,6 @@ Use sales, inventory, and customer-level data to answer practical business quest
 - Excel
 - Jupyter Notebook
 
-## Project Structure
-
-```text
-aday_data_analysis_project/
-│
-├── README.md
-├── requirements.txt
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-├── notebooks/
-│   └── ecommerce_analysis.ipynb
-├── scripts/
-│   └── analysis.py
-├── visuals/
-│   ├── monthly_revenue_trend.png
-│   ├── revenue_by_category.png
-│   ├── revenue_by_channel.png
-│   ├── repeat_customer_rate.png
-│   └── inventory_status_by_category.png
-└── dashboard/
-    └── excel_dashboard.xlsx
-```
-
 ## Dataset Description
 
 The dataset includes the following business fields:
@@ -79,14 +55,8 @@ The cleaned dataset also includes:
 
 ## Cleaning Steps
 
-The raw file intentionally includes a few realistic data quality issues, including:
 
-- inconsistent text formatting
-- missing values
-- mixed revenue formatting
-- inconsistent channel/category capitalization
-
-Cleaning steps performed in the notebook and script:
+Cleaning steps performed in the notebook:
 
 1. standardize column names
 2. convert dates into datetime format
@@ -118,38 +88,6 @@ Cleaning steps performed in the notebook and script:
 - Use channel-specific analysis to allocate marketing budget more efficiently.
 - Monitor low-stock-risk items earlier to prevent lost sales.
 - Build a lightweight dashboard that sales, operations, and marketing teams can use weekly.
-
-## Visuals
-
-### Monthly Revenue Trend
-![Monthly Revenue Trend](visuals/monthly_revenue_trend.png)
-
-### Revenue by Category
-![Revenue by Category](visuals/revenue_by_category.png)
-
-### Revenue by Channel
-![Revenue by Channel](visuals/revenue_by_channel.png)
-
-### Repeat Customer Rate
-![Repeat Customer Rate](visuals/repeat_customer_rate.png)
-
-### Inventory Status by Category
-![Inventory Status by Category](visuals/inventory_status_by_category.png)
-
-## How to Run
-
-1. Clone the repository
-2. Install dependencies
-3. Open the notebook or run the script
-
-```bash
-pip install -r requirements.txt
-python scripts/analysis.py
-```
-
-## Resume-Ready Project Description
-
-Analyzed synthetic e-commerce sales, inventory, and customer data using Python, pandas, matplotlib, and Excel. Cleaned messy business data, built visual reports, identified revenue and retention trends, and developed recommendations to support data-driven decisions across operations, marketing, and inventory planning.
 
 ## Notes
 
