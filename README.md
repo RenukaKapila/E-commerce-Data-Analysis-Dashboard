@@ -88,7 +88,3 @@ Cleaning steps performed in the notebook:
 - Use channel-specific analysis to allocate marketing budget more efficiently.
 - Monitor low-stock-risk items earlier to prevent lost sales.
 - Build a lightweight dashboard that sales, operations, and marketing teams can use weekly.
-
-## Notes
-
-This is a portfolio project created to demonstrate business analysis skills relevant to a remote data analysis internship.
