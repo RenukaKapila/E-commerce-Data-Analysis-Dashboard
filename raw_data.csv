@@ -1,0 +1,1863 @@
+Order ID,Order Date,Customer ID,Customer Segment,Sales Channel,Region,Product ID,Category,Product Name,Unit Price,Quantity,Discount Pct,Revenue,Inventory On Hand,Reorder Level
+O50000,2025-03-08,C10394,Repeat,Organic Search,West,P1000,Tops,Classic Tee,78.0,1,0.2,62.4,244.0,49
+O50001,2025-05-15,C10326,Repeat,Email Campaign,Northeast,P1001,Tops,Air Tunic,62.0,1,0.2,49.6,163.0,72
+O50002,2025-08-15,C10082,Repeat,Mobile App,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,414.0,47
+O50003,2025-12-28,C10282,New,Paid Social,West,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,238.0,67
+O50003,2025-12-28,C10282,New,Paid Social,West,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,243.0,49
+O50004,2025-10-15,C10218,Repeat,Organic Search,West,P1003,Bottoms,Tailored Pant,89.0,3,0.15,226.95,396.0,61
+O50005,2025-02-27,C10004,New,Web,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,428.0,51
+O50005,2025-02-27,C10004,New,Web,South,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,162.0,72
+O50006,2025-12-20,C10038,Repeat,Mobile App,Northeast,P1005,Bottoms,Weekend Skirt,109.0,2,0.1,196.2,290.0,41
+O50006,2025-12-20,C10038,Repeat,Mobile App,Northeast,P1001,Tops,Air Tunic,62.0,3,0.05,176.7,159.0,72
+O50007,2025-10-07,C10076,Repeat,Web,South,P1014,Loungewear,Cozy Hoodie,117.0,2,0.15,198.9,146.0,49
+O50008,2025-07-09,C10018,Repeat,Mobile App,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,145.0,49
+O50009,2025-10-10,C10298,Repeat,Web,Midwest,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,,75
+O50010,2025-08-09,C10075,Repeat,Email Campaign,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,392.0,81
+O50011,2025-01-22,C10065,New,Mobile App,West,P1012,Loungewear,Soft Set,84.24,4,0.2,269.57,388.0,81
+O50012,2025-07-06,C10157,Repeat,Organic Search,Northeast,P1004,Bottoms,Easy Trouser,116.0,2,0.0,232.0,199.0,79
+O50013,2025-01-21,C10407,New,Email Campaign,Northeast,P1013,Loungewear,Relaxed Jogger,91.8,2,0.1,165.24,445.0,79
+O50014,2025-04-18,C10183,Repeat,Web,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,444.0,79
+O50014,2025-04-18,C10183,Repeat,Web,South,P1009,Dresses,Wrap Dress,179.2,2,0.0,358.4,266.0,40
+O50014,2025-04-18,C10183,Repeat,Web,South,P1011,Dresses,Travel Dress,157.92,3,0.2,379.01,224.0,77
+O50015,2025-05-08,C10349,VIP,Mobile App,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.15,185.3,413.0,47
+O50015,2025-05-08,C10349,VIP,Mobile App,Northeast,P1005,Bottoms,Weekend Skirt,109.0,3,0.0,327.0,287.0,41
+O50015,2025-05-08,C10349,VIP,Mobile App,Northeast,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,158.0,72
+O50016,2025-02-22,C10341,New,Web,South,P1012,Loungewear,Soft Set,84.24,1,0.05,80.03,387.0,81
+O50017,2025-10-14,C10181,VIP,Email Campaign,West,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,198.0,79
+O50017,2025-10-14,C10181,VIP,Email Campaign,West,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,395.0,61
+O50018,2025-11-14,C10208,Repeat,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,242.0,49
+O50019,2025-03-21,C10383,New,Paid Social,South,P1007,Outerwear,Layer Jacket,196.0,2,0.05,372.4,311.0,40
+O50020,2025-03-25,C10121,New,Mobile App,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.05,111.15,144.0,49
+O50021,2025-04-01,C10409,New,Mobile App,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.05,142.5,427.0,51
+O50022,2025-01-13,C10211,Repeat,Mobile App,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,286.0,41
+O50022,2025-01-13,C10211,Repeat,MOBILE APP,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.1,135.0,426.0,51
+O50023,2025-06-20,C10091,Repeat,Web,West,P1007,Outerwear,Layer Jacket,196.0,4,0.05,744.8,307.0,40
+O50024,2025-07-30,C10400,Repeat,Mobile App,Midwest,P1010,Dresses,Shift Dress,159.04,3,0.05,453.26,348.0,75
+O50024,2025-07-30,C10400,Repeat,Mobile App,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,2,0.0,170.0,442.0,79
+O50025,2025-12-09,C10410,VIP,Mobile App,Northeast,P1001,Tops,Air Tunic,62.0,2,0.1,111.6,156.0,72
+O50025,2025-12-09,C10410,VIP,Mobile App,Northeast,P1007,Outerwear,Layer Jacket,227.36,2,0.0,454.72,305.0,40
+O50025,2025-12-09,C10410,VIP,Mobile App,Northeast,P1012,Loungewear,Soft Set,84.24,1,0.0,84.24,386.0,81
+O50026,2025-05-08,C10376,Repeat,Mobile App,West,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,236.0,67
+O50027,2025-03-23,C10136,New,Organic Search,South,P1011,Dresses,Travel Dress,141.0,1,0.15,119.85,223.0,77
+O50028,2025-12-26,C10403,Repeat,Mobile App,Northeast,P1001,Tops,Air Tunic,62.0,3,0.0,186.0,153.0,72
+O50029,2025-07-15,C10055,VIP,Web,West,P1011,Dresses,Travel Dress,157.92,2,0.05,300.05,221.0,77
+O50030,2025-08-29,C10019,Repeat,Email Campaign,West,P1000,Tops,Classic Tee,78.0,2,0.2,124.8,240.0,49
+O50031,2025-04-13,C10113,VIP,Email Campaign,Midwest,P1010,Dresses,Shift Dress,159.04,1,0.1,143.14,347.0,75
+O50032,2025-08-24,C10418,VIP,Mobile App,West,P1003,Bottoms,Tailored Pant,89.0,2,0.05,169.1,393.0,61
+O50033,2025-06-06,C10179,New,Organic Search,Midwest,P1005,Bottoms,Weekend Skirt,109.0,2,0.0,218.0,284.0,41
+O50033,2025-06-06,C10179,New,Organic Search,Midwest,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,304.0,40
+O50034,2025-04-27,C10407,Repeat,Mobile App,,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,235.0,67
+O50035,2025-01-13,C10114,New,Web,,P1004,Bottoms,Easy Trouser,116.0,2,0.05,220.4,196.0,79
+O50036,2025-04-09,C10337,VIP,Paid Social,Northeast,P1012,Loungewear,Soft Set,78.0,3,,222.3,383.0,81
+O50037,2025-06-18,C10204,VIP,Email Campaign,South,P1002,Tops,Everyday Shirt,71.0,1,0.1,$63.90,234.0,67
+O50037,2025-06-18,C10204,VIP,Email Campaign,South,P1006,Outerwear,Commuter Blazer,150.0,2,0.1,$270.00,424.0,51
+O50038,2025-02-05,C10142,Repeat,Organic Search,Northeast,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,265.0,40
+O50039,2025-05-23,C10395,New,Organic Search,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,441.0,79
+O50040,2025-11-25,C10179,VIP,Email Campaign,Midwest,P1011,Dresses,Travel Dress,141.0,3,0.1,380.7,218.0,77
+O50040,2025-11-25,C10179,VIP,Email Campaign,Midwest,P1004,Bottoms,Easy Trouser,116.0,1,0.2,$92.80,195.0,79
+O50041,2025-07-24,C10260,Repeat,Web,South,P1000,Tops,Classic Tee,78.0,1,0.2,$62.40,239.0,49
+O50042,2025-10-02,C10347,VIP,Paid Social,South,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,238.0,49
+O50043,2025-01-15,C10169,New,Email Campaign,South,P1011,Dresses,Travel Dress,141.0,2,,253.8,216.0,77
+O50044,2025-05-14,C10059,Repeat,Web,South,P1005,Bottoms,Weekend Skirt,109.0,2,0.05,207.1,282.0,41
+O50045,2025-10-25,C10091,VIP,Web,West,P1006,Outerwear,Commuter Blazer,174.0,1,0.05,$165.30,423.0,51
+O50046,2025-01-20,C10135,New,Paid Social,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,2,0.0,252.72,142.0,49
+O50047,2025-11-02,C10055,VIP,Mobile App,West,P1009,Dresses,Wrap Dress,160.0,2,0.0,320.0,263.0,40
+O50048,2025-06-26,C10222,Repeat,Mobile App,South,P1011,Dresses,Travel Dress,157.92,2,0.2,252.67,214.0,77
+O50049,2025-06-10,C10373,Repeat,Web,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,281.0,41
+O50050,2025-11-07,C10223,VIP,Mobile App,Northeast,P1002,Tops,Everyday Shirt,71.0,3,0.15,181.05,231.0,67
+O50051,2025-03-01,C10261,New,Email Campaign,South,P1010,Dresses,Shift Dress,142.0,1,0.15,120.7,346.0,75
+O50052,2025-10-23,C10197,Repeat,Web,South,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,382.0,81
+O50053,2025-05-11,C10097,VIP,Mobile App,Midwest,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,152.0,72
+O50053,2025-05-11,C10097,VIP,Mobile App,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,280.0,41
+O50054,2025-12-29,C10022,Repeat,Mobile App,South,P1011,Dresses,Travel Dress,141.0,2,,225.6,212.0,77
+O50055,2025-01-01,C10223,Repeat,Organic Search,South,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,,61
+O50056,2025-10-03,C10266,VIP,Organic Search,West,P1010,Dresses,Shift Dress,142.0,2,0.05,269.8,344.0,75
+O50057,2025-12-10,C10351,VIP,Paid Social,South,P1010,Dresses,Shift Dress,142.0,4,0.1,511.2,340.0,75
+O50058,2025-07-06,C10100,Repeat,Mobile App,West,P1005,Bottoms,Weekend Skirt,109.0,3,0.1,294.3,277.0,41
+O50059,2025-02-05,C10220,New,Paid Social,Midwest,P1006,Outerwear,Commuter Blazer,150.0,3,0.15,382.5,420.0,51
+O50059,2025-02-05,C10220,New,Paid Social,Midwest,P1002,Tops,Everyday Shirt,71.0,2,,134.9,229.0,67
+O50060,2025-06-19,C10340,New,Web,West,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,303.0,40
+O50061,2025-06-10,C10319,New,Web,Midwest,P1009,Dresses,Wrap Dress,179.2,1,0.05,170.24,262.0,40
+O50062,2025-03-05,C10339,New,Paid Social,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,391.0,61
+O50063,2025-06-03,C10368,Repeat,Paid Social,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,276.0,41
+O50063,2025-06-03,C10368,Repeat,Paid Social,West,P1009,Dresses,Wrap Dress,179.2,1,0.2,143.36,261.0,40
+O50064,2025-06-08,C10259,VIP,Web,West,P1008,Outerwear,Transit Coat,218.0,1,0.15,185.3,412.0,47
+O50064,2025-06-08,C10259,VIP,Web,West,P1007,Outerwear,Layer Jacket,196.0,2,0.0,392.0,301.0,40
+O50064,2025-06-08,C10259,VIP,Web,West,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,389.0,61
+O50065,2025-07-29,C10341,Repeat,WEB,Northeast,P1005,Bottoms,Weekend Skirt,109.0,2,0.15,185.3,274.0,41
+O50066,2025-07-26,C10167,Repeat,Web,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,2,0.15,198.9,140.0,49
+O50066,2025-07-26,C10167,Repeat,Web,,P1008,Outerwear,Transit Coat,218.0,4,0.1,784.8,408.0,47
+O50067,2025-06-01,C10356,Repeat,Mobile App,West,P1009,Dresses,Wrap Dress,179.2,2,0.0,$358.40,259.0,40
+O50068,2025-03-07,C10283,VIP,Paid Social,Northeast,P1004,Bottoms,Easy Trouser,116.0,2,0.05,220.4,193.0,79
+O50069,2025-08-04,C10098,Repeat,Web,South,P1010,Dresses,Shift Dress,142.0,1,0.05,134.9,339.0,75
+O50070,2025-07-14,C10340,Repeat,Organic Search,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.15,72.25,440.0,79
+O50071,2025-03-31,C10346,New,Web,West,P1008,Outerwear,Transit Coat,218.0,3,0.05,621.3,405.0,47
+O50071,2025-03-31,C10346,New,Web,West,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,228.0,67
+O50072,2025-10-19,C10315,VIP,Web,Midwest,P1001,Tops,Air Tunic,62.0,3,0.0,186.0,149.0,72
+O50073,2025-07-27,C10154,New,Web,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,273.0,41
+O50073,2025-07-27,C10154,New,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,439.0,79
+O50073,2025-07-27,C10154,New,Web,West,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,237.0,49
+O50074,2025-01-01,C10280,New,Web,West,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,236.0,49
+O50075,2025-05-27,C10155,Repeat,Email Campaign,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.15,92.65,272.0,41
+O50075,2025-05-27,C10155,Repeat,Email Campaign,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.2,120.0,419.0,51
+O50076,2025-08-09,C10107,Repeat,Mobile App,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.05,133.95,211.0,77
+O50076,2025-08-09,C10107,Repeat,Mobile App,,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,404.0,47
+O50077,2025-10-24,C10402,New,MOBILE APP,West,P1013,Loungewear,Relaxed Jogger,85.0,2,0.15,144.5,437.0,79
+O50078,2025-12-02,C10310,VIP,Email Campaign,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.15,98.6,192.0,79
+O50079,2025-08-27,C10164,Repeat,Paid Social,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,418.0,51
+O50080,2025-08-15,C10226,Repeat,Web,South,P1003,Bottoms,Tailored Pant,89.0,1,0.2,71.2,388.0,61
+O50081,2025-04-20,C10345,New,Email Campaign,West,P1012,Loungewear,Soft Set,78.0,2,0.15,132.6,380.0,81
+O50082,2025-08-31,C10261,Repeat,Organic Search,Midwest,P1010,Dresses,Shift Dress,142.0,1,0.2,113.6,338.0,75
+O50082,2025-08-31,C10261,Repeat,Organic Search,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,436.0,79
+O50083,2025-03-28,C10406,New,Email Campaign,South,P1011,Dresses,Travel Dress,141.0,1,0.1,126.9,210.0,77
+O50084,2025-02-13,C10337,Repeat,Paid Social,West,P1005,Bottoms,Weekend Skirt,109.0,2,0.05,207.1,270.0,41
+O50085,2025-09-21,C10145,VIP,EMAIL CAMPAIGN,West,P1008,Outerwear,Transit Coat,252.88,1,0.1,227.59,403.0,47
+O50086,2025-11-21,C10339,Repeat,Web,South,P1004,Bottoms,Easy Trouser,116.0,1,0.05,110.2,191.0,79
+O50087,2025-06-21,C10317,Repeat,Mobile App,South,P1012,loungewear,Soft Set,78.0,1,0.0,78.0,379.0,81
+O50088,2025-05-01,C10047,Repeat,Web,Midwest,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,226.0,67
+O50088,2025-05-01,C10047,Repeat,Web,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.0,78.0,378.0,81
+O50089,2025-06-08,C10344,Repeat,Email Campaign,Midwest,P1006,Outerwear,Commuter Blazer,150.0,1,0.1,135.0,417.0,51
+O50090,2025-04-12,C10115,Repeat,Paid Social,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,435.0,79
+O50091,2025-01-13,C10075,Repeat,Paid Social,Northeast,P1011,Dresses,Travel Dress,141.0,4,0.0,564.0,206.0,77
+O50091,2025-01-13,C10075,Repeat,Paid Social,Northeast,P1012,Loungewear,Soft Set,84.24,3,0.1,227.45,,81
+O50092,2025-05-06,C10023,Repeat,Paid Social,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.05,111.15,139.0,49
+O50093,2025-11-09,C10243,Repeat,Email Campaign,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,2,0.1,153.0,433.0,79
+O50094,2025-02-07,C10393,New,Organic Search,Midwest,P1000,Tops,Classic Tee,78.0,2,0.1,140.4,234.0,49
+O50095,2025-08-01,C10233,Repeat,Paid Social,South,P1006,Outerwear,Commuter Blazer,150.0,2,0.05,285.0,415.0,51
+O50095,2025-08-01,C10233,Repeat,Paid Social,South,P1000,Tops,Classic Tee,78.0,2,0.15,132.6,232.0,49
+O50096,2025-10-22,C10322,Repeat,Email Campaign,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,269.0,41
+O50096,2025-10-22,C10322,Repeat,Email Campaign,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,4,0.15,289.0,429.0,79
+O50097,2025-12-23,C10099,Repeat,Web,Midwest,P1003,Bottoms,Tailored Pant,89.0,2,0.05,169.1,386.0,61
+O50097,2025-12-23,C10099,Repeat,Web,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,225.0,67
+O50097,2025-12-23,C10099,Repeat,Web,Midwest,P1010,Dresses,Shift Dress,142.0,2,0.15,241.4,336.0,75
+O50098,2025-09-11,C10196,VIP,Paid Social,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,268.0,41
+O50099,2025-05-05,C10204,Repeat,Email Campaign,Northeast,P1007,Outerwear,Layer Jacket,196.0,1,0.15,166.6,300.0,40
+O50100,2025-12-02,C10075,Repeat,Web,Northeast,P1011,Dresses,Travel Dress,141.0,2,0.0,282.0,204.0,77
+O50101,2025-01-03,C10352,New,Organic Search,Midwest,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,299.0,40
+O50102,2025-02-24,C10384,Repeat,Organic Search,Northeast,P1012,Loungewear,Soft Set,84.24,1,0.1,75.82,374.0,81
+O50102,2025-02-24,C10384,Repeat,Organic Search,Northeast,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,147.0,72
+O50103,2025-08-06,C10398,New,Web,South,P1008,Outerwear,Transit Coat,218.0,1,,218.0,402.0,47
+O50103,2025-08-06,C10398,New,Web,South,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,224.0,67
+O50104,2025-04-01,C10112,New,Organic Search,West,P1008,Outerwear,Transit Coat,218.0,1,0.1,196.2,401.0,47
+O50105,2025-12-23,C10411,Repeat,Web,West,P1012,Loungewear,Soft Set,84.24,1,0.05,80.03,373.0,81
+O50106,2025-08-26,C10265,Repeat,Organic Search,West,P1012,Loungewear,Soft Set,78.0,2,0.0,156.0,371.0,81
+O50107,2025-10-13,C10025,Repeat,Organic Search,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.2,$68.00,428.0,79
+O50108,2025-03-04,C10127,New,Email Campaign,West,P1009,Dresses,Wrap Dress,160.0,2,0.15,272.0,257.0,40
+O50109,2025-03-10,C10233,New,Mobile App,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,385.0,61
+O50110,2025-08-26,C10410,Repeat,Mobile App,Northeast,P1010,Dresses,Shift Dress,142.0,2,0.0,284.0,334.0,75
+O50111,2025-09-29,C10341,Repeat,WEB,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,427.0,79
+O50111,2025-09-29,C10341,Repeat,Web,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,138.0,49
+O50112,2025-11-01,C10286,VIP,Web,West,P1012,Loungewear,Soft Set,78.0,1,0.2,62.4,370.0,81
+O50113,2025-08-15,C10162,Repeat,Web,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.1,196.2,400.0,47
+O50113,2025-08-15,C10162,Repeat,Web,Northeast,P1006,Outerwear,Commuter Blazer,150.0,2,0.0,300.0,413.0,51
+O50114,2025-09-16,C10313,Repeat,Web,Midwest,P1003,Bottoms,Tailored Pant,89.0,2,0.05,169.1,383.0,61
+O50114,2025-09-16,C10313,Repeat,Web,Midwest,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,190.0,79
+O50115,2025-10-08,C10218,New,Paid Social,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.05,80.75,426.0,79
+O50115,2025-10-08,C10218,New,PAID SOCIAL,South,P1006,Outerwear,Commuter Blazer,174.0,3,0.0,522.0,410.0,51
+O50115,2025-10-08,C10218,New,Paid Social,South,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,223.0,67
+O50116,2025-03-23,C10228,Repeat,Email Campaign,South,P1012,Loungewear,Soft Set,78.0,1,0.2,62.4,369.0,81
+O50116,2025-03-23,C10228,Repeat,Email Campaign,South,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,256.0,40
+O50117,2025-09-01,C10380,New,Paid Social,Northeast,P1003,Bottoms,Tailored Pant,89.0,3,0.05,253.65,380.0,61
+O50118,2025-05-13,C10230,New,Web,South,P1012,Loungewear,Soft Set,78.0,2,0.05,148.2,367.0,81
+O50119,2025-05-07,C10384,Repeat,Web,West,P1007,Outerwear,Layer Jacket,196.0,1,0.15,166.6,298.0,40
+O50120,2025-05-22,C10326,VIP,Mobile App,South,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,231.0,49
+O50120,2025-05-22,C10326,VIP,Mobile App,South,P1012,Loungewear,Soft Set,78.0,1,0.15,66.3,366.0,81
+O50121,2025-09-24,C10392,Repeat,Paid Social,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,267.0,41
+O50122,2025-11-17,C10248,VIP,Organic Search,Northeast,P1007,Outerwear,Layer Jacket,227.36,4,0.15,773.02,294.0,40
+O50122,2025-11-17,C10248,VIP,Organic Search,Northeast,P1004,Bottoms,Easy Trouser,116.0,2,0.05,220.4,188.0,79
+O50123,2025-05-21,C10122,Repeat,Paid Social,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,2,0.05,222.3,136.0,49
+O50124,2025-02-09,C10225,New,Email Campaign,West,P1010,Dresses,Shift Dress,142.0,1,0.15,120.7,333.0,75
+O50124,2025-02-09,C10225,New,EMAIL CAMPAIGN,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.15,$92.65,266.0,41
+O50125,2025-05-27,C10365,New,Web,Midwest,P1006,Outerwear,Commuter Blazer,150.0,3,0.0,450.0,407.0,51
+O50126,2025-05-20,C10120,Repeat,Paid Social,South,P1006,Outerwear,Commuter Blazer,150.0,2,0.0,300.0,405.0,51
+O50126,2025-05-20,C10120,Repeat,Paid Social,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,265.0,41
+O50127,2025-06-13,C10171,Repeat,Web,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.2,120.0,404.0,51
+O50128,2025-02-11,C10276,Repeat,Web,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,222.0,67
+O50128,2025-02-11,C10276,Repeat,Web,Northeast,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,293.0,40
+O50129,2025-03-19,C10070,New,Mobile App,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,187.0,79
+O50129,2025-03-19,C10070,New,Mobile App,Northeast,P1000,tops,Classic Tee,78.0,1,0.0,78.0,230.0,49
+O50129,2025-03-19,C10070,New,Mobile App,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,203.0,77
+O50130,2025-07-16,C10118,New,Mobile App,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.0,$116.00,186.0,79
+O50130,2025-07-16,C10118,New,Mobile App,Northeast,P1009,Dresses,Wrap Dress,179.2,2,0.1,322.56,254.0,40
+O50131,2025-03-20,C10355,Repeat,PAID SOCIAL,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,264.0,41
+O50132,2025-04-20,C10361,New,Organic Search,Northeast,P1009,Dresses,Wrap Dress,179.2,2,0.0,358.4,,40
+O50133,2025-08-01,C10032,VIP,Mobile App,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.1,196.2,399.0,47
+O50133,2025-08-01,C10032,VIP,Mobile App,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.15,120.7,332.0,75
+O50134,2025-06-19,C10208,VIP,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,229.0,49
+O50135,2025-08-27,C10277,Repeat,Paid Social,South,P1011,Dresses,Travel Dress,141.0,2,0.0,282.0,201.0,77
+O50135,2025-08-27,C10277,Repeat,Paid Social,South,P1007,Outerwear,Layer Jacket,196.0,2,0.0,392.0,291.0,40
+O50135,2025-08-27,C10277,Repeat,Paid Social,South,P1012,Loungewear,Soft Set,78.0,2,0.0,156.0,364.0,81
+O50136,2025-02-01,C10212,New,Organic Search,South,P1014,Loungewear,Cozy Hoodie,126.36,3,0.1,341.17,133.0,49
+O50136,2025-02-01,C10212,New,Organic Search,South,P1007,Outerwear,Layer Jacket,196.0,2,0.1,352.8,289.0,40
+O50137,2025-08-04,C10105,Repeat,Organic Search,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,425.0,79
+O50138,2025-10-27,C10199,New,Web,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,$98.10,263.0,41
+O50138,2025-10-27,C10199,New,Web,West,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,146.0,72
+O50138,2025-10-27,C10199,New,Web,West,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,185.0,79
+O50139,2025-01-11,C10356,New,Web,,P1012,Loungewear,Soft Set,84.24,1,0.0,84.24,363.0,81
+O50140,2025-10-22,C10391,VIP,Web,Midwest,P1014,Loungewear,Cozy Hoodie,117.0,2,0.1,$210.60,131.0,49
+O50140,2025-10-22,C10391,VIP,Web,Midwest,P1008,Outerwear,Transit Coat,252.88,3,0.05,720.71,396.0,47
+O50140,2025-10-22,C10391,VIP,Web,Midwest,P1007,Outerwear,Layer Jacket,227.36,1,0.05,215.99,288.0,40
+O50141,2025-09-02,C10194,Repeat,Mobile App,West,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,145.0,72
+O50142,2025-06-30,C10003,New,Organic Search,South,P1002,Tops,Everyday Shirt,71.0,2,0.15,120.7,220.0,67
+O50143,2025-07-19,C10152,Repeat,Mobile App,South,P1004,Bottoms,Easy Trouser,116.0,1,0.05,110.2,184.0,79
+O50144,2025-10-03,C10214,Repeat,Mobile App,Northeast,P1005,Bottoms,Weekend Skirt,109.0,4,0.0,436.0,259.0,41
+O50145,2025-10-07,C10382,Repeat,Mobile App,South,P1014,Loungewear,Cozy Hoodie,117.0,2,0.1,210.6,129.0,49
+O50146,2025-11-05,C10409,Repeat,Organic Search,South,P1011,Dresses,Travel Dress,141.0,3,0.1,380.7,198.0,77
+O50146,2025-11-05,C10409,Repeat,Organic Search,South,P1006,Outerwear,Commuter Blazer,174.0,2,0.0,348.0,402.0,51
+O50147,2025-09-07,C10112,Repeat,Web,Midwest,P1000,Tops,Classic Tee,78.0,2,0.1,140.4,227.0,49
+O50147,2025-09-07,C10112,Repeat,Web,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.05,80.75,424.0,79
+O50147,2025-09-07,C10112,Repeat,Web,Midwest,P1007,Outerwear,Layer Jacket,227.36,1,0.0,227.36,287.0,40
+O50148,2025-05-20,C10112,VIP,Paid Social,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,2,0.0,234.0,127.0,49
+O50149,2025-09-06,C10223,Repeat,Mobile App,Midwest,P1004,Bottoms,Easy Trouser,116.0,1,0.15,98.6,183.0,79
+O50149,2025-09-06,C10223,Repeat,Mobile App,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,219.0,67
+O50150,2025-07-19,C10014,Repeat,Email Campaign,Midwest,P1008,Outerwear,Transit Coat,218.0,2,0.1,392.4,394.0,47
+O50151,2025-12-09,C10172,Repeat,Mobile App,West,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,379.0,61
+O50152,2025-07-27,C10347,Repeat,Mobile App,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,126.0,49
+O50153,2025-03-26,C10370,New,Paid Social,South,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,144.0,72
+O50153,2025-03-26,C10370,New,Paid Social,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.1,105.3,125.0,49
+O50154,2025-03-07,C10239,New,Web,South,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,142.0,72
+O50154,2025-03-07,C10239,New,Web,South,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,393.0,47
+O50155,2025-10-01,C10318,VIP,Mobile App,Northeast,P1007,Outerwear,Layer Jacket,227.36,1,0.05,215.99,286.0,40
+O50155,2025-10-01,C10318,VIP,Mobile App,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,362.0,81
+O50156,2025-07-21,C10013,Repeat,Email Campaign,West,P1011,Dresses,Travel Dress,157.92,2,0.1,284.26,196.0,77
+O50157,2025-10-16,C10303,Repeat,Web,Northeast,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,251.0,40
+O50157,2025-10-16,C10303,Repeat,Web,Northeast,P1000,Tops,Classic Tee,78.0,3,0.0,234.0,224.0,49
+O50157,2025-10-16,C10303,Repeat,Web,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,4,0.1,306.0,420.0,79
+O50158,2025-01-14,C10339,Repeat,Web,Northeast,P1014,Loungewear,Cozy Hoodie,126.36,1,0.05,120.04,124.0,49
+O50158,2025-01-14,C10339,Repeat,Web,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,258.0,41
+O50159,2025-11-26,C10042,Repeat,Web,South,P1006,outerwear,Commuter Blazer,174.0,1,0.1,156.6,401.0,51
+O50160,2025-03-11,C10219,New,Web,West,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,218.0,67
+O50161,2025-04-04,C10236,New,Paid Social,Northeast,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,223.0,49
+O50161,2025-04-04,C10236,New,PAID SOCIAL,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,217.0,67
+O50162,2025-05-14,C10025,VIP,Paid Social,South,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,378.0,61
+O50163,2025-06-17,C10194,Repeat,Paid Social,Northeast,P1006,Outerwear,Commuter Blazer,150.0,3,0.05,427.5,398.0,51
+O50164,2025-08-21,C10108,Repeat,Organic Search,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,4,0.1,306.0,416.0,79
+O50165,2025-06-22,C10167,VIP,Paid Social,South,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,392.0,47
+O50166,2025-07-14,C10389,Repeat,Web,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,123.0,49
+O50167,2025-08-04,C10142,New,Web,West,P1001,Tops,Air Tunic,62.0,2,0.1,111.6,140.0,72
+O50167,2025-08-04,C10142,New,Web,West,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,250.0,40
+O50167,2025-08-04,C10142,New,Web,West,P1008,Outerwear,Transit Coat,218.0,2,0.0,436.0,390.0,47
+O50168,2025-02-11,C10129,Repeat,Paid Social,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.1,135.0,397.0,51
+O50168,2025-02-11,C10129,Repeat,Paid Social,West,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,249.0,40
+O50168,2025-02-11,C10129,Repeat,Paid Social,West,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,139.0,72
+O50169,2025-01-10,C10240,Repeat,Mobile App,,P1009,dresses,Wrap Dress,160.0,1,0.0,160.0,248.0,40
+O50170,2025-10-04,C10383,VIP,Organic Search,West,P1001,Tops,Air Tunic,62.0,1,0.0,$62.00,138.0,72
+O50171,2025-06-29,C10026,Repeat,Paid Social,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,257.0,41
+O50172,2025-11-29,C10114,VIP,Paid Social,Midwest,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,136.0,72
+O50173,2025-11-30,C10035,Repeat,Web,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,415.0,79
+O50174,2025-01-16,C10020,New,Mobile App,Northeast,P1013,Loungewear,Relaxed Jogger,91.8,1,0.0,91.8,414.0,79
+O50175,2025-04-13,C10126,Repeat,Organic Search,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.05,207.1,389.0,47
+O50176,2025-11-15,C10010,VIP,Web,Midwest,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,215.0,67
+O50176,2025-11-15,C10010,VIP,Web,Midwest,P1000,Tops,Classic Tee,78.0,1,0.15,66.3,222.0,49
+O50177,2025-05-03,C10078,New,Web,South,P1010,Dresses,Shift Dress,159.04,1,0.05,151.09,331.0,75
+O50178,2025-08-31,C10064,VIP,Web,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,1,0.15,99.45,122.0,49
+O50179,2025-02-28,C10342,New,Mobile App,South,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,330.0,75
+O50180,2025-04-22,C10288,New,Web,West,P1002,Tops,Everyday Shirt,71.0,1,,60.35,214.0,67
+O50180,2025-04-22,C10288,New,Web,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,121.0,49
+O50180,2025-04-22,C10288,New,Web,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.2,87.2,256.0,41
+O50181,2025-12-25,C10238,Repeat,Mobile App,West,P1008,Outerwear,Transit Coat,252.88,1,0.15,214.95,388.0,47
+O50181,2025-12-25,C10238,Repeat,Mobile App,West,P1006,Outerwear,Commuter Blazer,174.0,1,0.05,165.3,396.0,51
+O50182,2025-07-08,C10131,Repeat,Email Campaign,Northeast,P1000,Tops,Classic Tee,78.0,4,0.15,265.2,218.0,49
+O50183,2025-11-07,C10085,VIP,Organic Search,South,P1011,Dresses,Travel Dress,141.0,2,0.0,282.0,194.0,77
+O50184,2025-02-28,C10310,New,Paid Social,Northeast,P1004,Bottoms,Easy Trouser,116.0,2,,208.8,181.0,79
+O50184,2025-02-28,C10310,New,Paid Social,Northeast,P1001,Tops,Air Tunic,62.0,1,0.2,49.6,135.0,72
+O50185,2025-03-25,C10398,New,Web,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.2,113.6,329.0,75
+O50186,2025-02-25,C10159,Repeat,Paid Social,West,P1014,Loungewear,Cozy Hoodie,126.36,2,0.05,240.08,119.0,49
+O50187,2025-01-14,C10296,Repeat,Web,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,3,0.0,379.08,116.0,49
+O50188,2025-10-22,C10159,VIP,Paid Social,Midwest,P1009,Dresses,Wrap Dress,160.0,2,0.0,320.0,246.0,40
+O50188,2025-10-22,C10159,VIP,Paid Social,Midwest,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,217.0,49
+O50189,2025-07-12,C10346,Repeat,Mobile App,Northeast,P1010,Dresses,Shift Dress,159.04,2,0.0,318.08,327.0,75
+O50190,2025-04-12,C10203,Repeat,Mobile App,West,P1008,outerwear,Transit Coat,218.0,1,0.0,218.0,387.0,47
+O50190,2025-04-12,C10203,Repeat,Mobile App,West,P1011,Dresses,Travel Dress,157.92,4,0.0,631.68,190.0,77
+O50191,2025-10-31,C10038,Repeat,Paid Social,West,P1007,Outerwear,Layer Jacket,227.36,4,0.05,863.97,282.0,40
+O50192,2025-11-18,C10353,Repeat,Web,West,P1010,Dresses,Shift Dress,142.0,2,0.1,255.6,325.0,75
+O50193,2025-02-22,C10124,Repeat,Web,South,P1001,Tops,Air Tunic,62.0,2,0.05,117.8,133.0,72
+O50194,2025-06-04,C10356,Repeat,Web,Midwest,P1007,Outerwear,Layer Jacket,196.0,2,0.05,372.4,280.0,40
+O50195,2025-11-04,C10350,VIP,Web,West,P1004,Bottoms,Easy Trouser,116.0,2,0.0,232.0,179.0,79
+O50196,2025-03-03,C10412,New,Paid Social,Northeast,P1006,Outerwear,Commuter Blazer,150.0,2,0.0,300.0,394.0,51
+O50196,2025-03-03,C10412,New,Paid Social,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,3,0.1,229.5,411.0,79
+O50196,2025-03-03,C10412,New,Paid Social,Northeast,P1003,Bottoms,Tailored Pant,89.0,2,0.1,160.2,376.0,61
+O50197,2025-10-17,C10407,New,Mobile App,Northeast,P1001,tops,Air Tunic,62.0,3,0.15,158.1,130.0,72
+O50198,2025-01-22,C10400,Repeat,Web,West,P1012,Loungewear,Soft Set,84.24,1,0.05,80.03,361.0,81
+O50199,2025-09-30,C10177,VIP,Email Campaign,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,410.0,79
+O50200,2025-12-05,C10219,Repeat,Email Campaign,,P1010,Dresses,Shift Dress,142.0,2,0.2,227.2,323.0,75
+O50200,2025-12-05,C10219,Repeat,Email Campaign,West,P1006,Outerwear,Commuter Blazer,174.0,2,0.15,295.8,392.0,51
+O50201,2025-02-05,C10189,New,Email Campaign,South,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,375.0,61
+O50202,2025-11-28,C10259,Repeat,Web,South,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,189.0,77
+O50203,2025-01-07,C10174,New,Paid Social,West,P1000,Tops,Classic Tee,78.0,3,0.05,222.3,214.0,49
+O50204,2025-09-08,C10215,Repeat,Mobile App,South,P1013,Loungewear,Relaxed Jogger,85.0,2,0.05,161.5,408.0,79
+O50205,2025-08-10,C10054,VIP,MOBILE APP,West,P1003,Bottoms,Tailored Pant,89.0,1,0.05,84.55,374.0,61
+O50206,2025-11-22,C10185,Repeat,Email Campaign,Midwest,P1009,Dresses,Wrap Dress,160.0,2,0.1,288.0,244.0,40
+O50207,2025-12-29,C10235,VIP,Organic Search,South,P1004,Bottoms,Easy Trouser,116.0,1,0.2,92.8,178.0,79
+O50208,2025-08-11,C10078,Repeat,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,0.15,66.3,213.0,49
+O50209,2025-09-25,C10090,Repeat,Paid Social,West,P1002,Tops,Everyday Shirt,71.0,2,0.05,134.9,212.0,67
+O50210,2025-05-19,C10333,Repeat,Email Campaign,Midwest,P1012,Loungewear,Soft Set,78.0,3,0.15,198.9,358.0,81
+O50210,2025-05-19,C10333,Repeat,Email Campaign,Midwest,P1010,Dresses,Shift Dress,159.04,1,0.15,135.18,322.0,75
+O50211,2025-10-03,C10315,Repeat,Email Campaign,Northeast,P1012,Loungewear,Soft Set,78.0,2,0.15,132.6,356.0,81
+O50212,2025-09-05,C10396,Repeat,Organic Search,Midwest,P1008,Outerwear,Transit Coat,252.88,1,0.0,252.88,386.0,47
+O50213,2025-08-12,C10238,VIP,Mobile App,South,P1010,Dresses,Shift Dress,142.0,1,0.1,$127.80,321.0,75
+O50214,2025-10-31,C10374,Repeat,Email Campaign,Northeast,P1001,Tops,Air Tunic,62.0,1,0.15,52.7,129.0,72
+O50214,2025-10-31,C10374,Repeat,Email Campaign,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.15,119.85,188.0,77
+O50215,2025-06-15,C10137,Repeat,Web,West,P1005,Bottoms,Weekend Skirt,109.0,2,0.05,207.1,254.0,41
+O50215,2025-06-15,C10137,Repeat,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,2,0.0,170.0,406.0,79
+O50216,2025-02-14,C10125,New,Email Campaign,West,P1009,Dresses,Wrap Dress,160.0,1,0.2,128.0,243.0,40
+O50216,2025-02-14,C10125,New,Email Campaign,West,P1008,Outerwear,Transit Coat,218.0,1,0.15,185.3,385.0,47
+O50216,2025-02-14,C10125,New,EMAIL CAMPAIGN,West,P1005,Bottoms,Weekend Skirt,109.0,3,0.1,294.3,251.0,41
+O50217,2025-08-19,C10142,VIP,Organic Search,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.1,196.2,384.0,47
+O50218,2025-08-26,C10124,VIP,Email Campaign,West,P1006,Outerwear,Commuter Blazer,150.0,2,0.15,255.0,390.0,51
+O50218,2025-08-26,C10124,VIP,Email Campaign,West,P1012,Loungewear,Soft Set,78.0,2,0.1,140.4,354.0,81
+O50219,2025-11-09,C10291,New,Email Campaign,South,P1003,Bottoms,Tailored Pant,89.0,2,0.15,$151.30,372.0,61
+O50219,2025-11-09,C10291,New,Email Campaign,South,P1001,Tops,Air Tunic,62.0,3,0.1,167.4,126.0,72
+O50220,2025-07-14,C10342,Repeat,Mobile App,South,P1000,Tops,Classic Tee,78.0,3,0.0,234.0,210.0,49
+O50220,2025-07-14,C10342,Repeat,Mobile App,South,P1007,Outerwear,Layer Jacket,196.0,1,0.05,186.2,279.0,40
+O50221,2025-01-15,C10172,Repeat,Web,Northeast,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,210.0,67
+O50222,2025-06-16,C10253,Repeat,Organic Search,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.05,80.75,405.0,79
+O50223,2025-09-07,C10093,Repeat,Paid Social,Northeast,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,242.0,40
+O50224,2025-07-01,C10108,Repeat,Paid Social,South,P1004,Bottoms,Easy Trouser,116.0,1,0.2,92.8,177.0,79
+O50225,2025-05-13,C10408,New,Mobile App,Midwest,P1010,Dresses,Shift Dress,159.04,1,0.0,159.04,,75
+O50226,2025-05-24,C10174,VIP,Web,West,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,124.0,72
+O50226,2025-05-24,C10174,VIP,Web,West,P1004,Bottoms,Easy Trouser,116.0,2,0.0,232.0,175.0,79
+O50226,2025-05-24,C10174,VIP,Web,West,P1011,Dresses,Travel Dress,157.92,1,0.15,134.23,187.0,77
+O50227,2025-12-26,C10305,Repeat,Web,Northeast,P1009,Dresses,Wrap Dress,160.0,3,0.0,480.0,239.0,40
+O50227,2025-12-26,C10305,Repeat,Web,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,209.0,67
+O50228,2025-10-12,C10141,Repeat,Organic Search,,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,371.0,61
+O50229,2025-09-22,C10005,VIP,Web,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,208.0,67
+O50230,2025-02-13,C10097,New,Web,Northeast,P1012,loungewear,Soft Set,84.24,2,0.0,168.48,352.0,81
+O50230,2025-02-13,C10097,New,Web,Northeast,P1009,Dresses,Wrap Dress,160.0,2,0.05,304.0,237.0,40
+O50231,2025-07-28,C10123,New,Mobile App,Northeast,P1006,Outerwear,Commuter Blazer,150.0,3,0.0,450.0,387.0,51
+O50232,2025-10-12,C10250,VIP,Email Campaign,South,P1008,Outerwear,Transit Coat,252.88,1,0.1,227.59,383.0,47
+O50232,2025-10-12,C10250,VIP,Email Campaign,South,P1007,Outerwear,Layer Jacket,227.36,2,0.1,409.25,277.0,40
+O50233,2025-05-04,C10388,Repeat,Organic Search,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.15,185.3,382.0,47
+O50233,2025-05-04,C10388,Repeat,Organic Search,Northeast,P1010,Dresses,Shift Dress,159.04,1,0.0,159.04,319.0,75
+O50233,2025-05-04,C10388,Repeat,Organic Search,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.15,98.6,174.0,79
+O50234,2025-09-01,C10353,VIP,Web,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.1,126.9,186.0,77
+O50235,2025-12-31,C10330,Repeat,Web,Northeast,P1014,Loungewear,Cozy Hoodie,126.36,2,0.05,240.08,114.0,49
+O50236,2025-08-18,C10251,Repeat,Mobile App,South,P1007,Outerwear,Layer Jacket,196.0,1,0.1,176.4,276.0,40
+O50237,2025-01-09,C10405,Repeat,Web,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,2,0.1,227.45,112.0,49
+O50238,2025-05-31,C10047,Repeat,Web,South,P1010,Dresses,Shift Dress,159.04,1,0.1,143.14,318.0,75
+O50238,2025-05-31,C10047,Repeat,Web,South,P1013,Loungewear,Relaxed Jogger,85.0,3,0.1,229.5,402.0,79
+O50239,2025-07-27,C10113,Repeat,Organic Search,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.05,142.5,386.0,51
+O50240,2025-05-05,C10354,New,Paid Social,South,P1007,Outerwear,Layer Jacket,196.0,2,0.05,372.4,274.0,40
+O50241,2025-12-06,C10156,Repeat,ORGANIC SEARCH,West,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,236.0,40
+O50242,2025-07-08,C10297,Repeat,Organic Search,West,P1010,Dresses,Shift Dress,159.04,1,0.1,143.14,317.0,75
+O50243,2025-10-11,C10242,Repeat,Web,West,P1005,Bottoms,Weekend Skirt,109.0,2,0.05,207.1,249.0,41
+O50244,2025-06-26,C10271,New,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,209.0,49
+O50244,2025-06-26,C10271,New,Mobile App,West,P1008,Outerwear,Transit Coat,218.0,3,0.0,654.0,379.0,47
+O50245,2025-10-09,C10217,VIP,Mobile App,West,P1009,Dresses,Wrap Dress,160.0,2,0.05,304.0,234.0,40
+O50245,2025-10-09,C10217,VIP,Mobile App,West,P1006,Outerwear,Commuter Blazer,174.0,2,0.2,278.4,384.0,51
+O50246,2025-06-30,C10169,Repeat,Mobile App,South,P1010,Dresses,Shift Dress,159.04,2,0.1,286.27,315.0,75
+O50247,2025-08-21,C10359,New,Web,West,P1010,Dresses,Shift Dress,142.0,3,0.0,426.0,312.0,75
+O50248,2025-06-06,C10138,Repeat,Web,West,P1007,Outerwear,Layer Jacket,196.0,1,0.15,166.6,273.0,40
+O50248,2025-06-06,C10138,Repeat,Web,West,P1000,Tops,Classic Tee,78.0,1,0.05,74.1,208.0,49
+O50249,2025-04-29,C10128,Repeat,Mobile App,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,248.0,41
+O50249,2025-04-29,C10128,Repeat,Mobile App,,P1009,Dresses,Wrap Dress,179.2,2,0.15,304.64,232.0,40
+O50250,2025-04-09,C10061,New,Paid Social,South,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,378.0,47
+O50250,2025-04-09,C10061,New,Paid Social,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,247.0,41
+O50251,2025-03-03,C10161,Repeat,Web,West,P1007,outerwear,Layer Jacket,196.0,2,0.1,352.8,271.0,40
+O50252,2025-10-02,C10380,VIP,Paid Social,South,P1011,Dresses,Travel Dress,141.0,4,0.1,507.6,182.0,77
+O50253,2025-12-20,C10390,VIP,Mobile App,West,P1006,Outerwear,Commuter Blazer,174.0,2,0.05,330.6,382.0,51
+O50254,2025-04-09,C10094,New,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,4,0.1,306.0,398.0,79
+O50255,2025-09-05,C10110,VIP,Web,Midwest,P1006,Outerwear,Commuter Blazer,174.0,1,0.1,156.6,381.0,51
+O50256,2025-10-29,C10141,VIP,Web,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.05,$67.45,207.0,67
+O50257,2025-09-26,C10389,VIP,Organic Search,South,P1006,Outerwear,Commuter Blazer,174.0,1,0.0,174.0,380.0,51
+O50257,2025-09-26,C10389,VIP,ORGANIC SEARCH,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.05,111.15,111.0,49
+O50258,2025-05-25,C10305,Repeat,ORGANIC SEARCH,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,379.0,51
+O50259,2025-04-10,C10051,New,Web,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,206.0,67
+O50259,2025-04-10,C10051,New,Web,Midwest,P1007,Outerwear,Layer Jacket,196.0,3,0.05,558.6,268.0,40
+O50260,2025-04-27,C10151,Repeat,Web,West,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,123.0,72
+O50261,2025-04-02,C10184,Repeat,Email Campaign,South,P1013,Loungewear,Relaxed Jogger,85.0,2,0.1,153.0,396.0,79
+O50262,2025-01-08,C10154,New,Mobile App,Midwest,P1007,Outerwear,Layer Jacket,196.0,2,0.05,372.4,266.0,40
+O50262,2025-01-08,C10154,New,Mobile App,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,246.0,41
+O50263,2025-10-01,C10362,Repeat,Mobile App,Midwest,P1005,Bottoms,Weekend Skirt,109.0,2,0.1,196.2,244.0,41
+O50263,2025-10-01,C10362,Repeat,Mobile App,Midwest,P1011,Dresses,Travel Dress,141.0,4,0.05,535.8,,77
+O50264,2025-05-21,C10064,Repeat,WEB,South,P1009,Dresses,Wrap Dress,179.2,2,0.0,358.4,230.0,40
+O50264,2025-05-21,C10064,Repeat,Web,South,P1007,outerwear,Layer Jacket,196.0,2,,372.4,264.0,40
+O50264,2025-05-21,C10064,Repeat,Web,South,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,173.0,79
+O50265,2025-01-28,C10023,New,Web,West,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,122.0,72
+O50266,2025-05-30,C10283,VIP,Web,Northeast,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,263.0,40
+O50267,2025-03-06,C10357,Repeat,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,3,,$255.00,393.0,79
+O50268,2025-09-09,C10326,Repeat,Email Campaign,Midwest,P1010,Dresses,Shift Dress,142.0,2,0.15,241.4,310.0,75
+O50269,2025-01-07,C10052,New,PAID SOCIAL,Midwest,P1012,Loungewear,Soft Set,84.24,2,0.0,168.48,350.0,81
+O50270,2025-05-26,C10293,Repeat,Email Campaign,West,P1002,Tops,Everyday Shirt,71.0,1,0.2,$56.80,205.0,67
+O50270,2025-05-26,C10293,Repeat,Email Campaign,West,P1011,Dresses,Travel Dress,157.92,2,0.15,268.46,176.0,77
+O50271,2025-09-03,C10240,New,Web,West,P1007,Outerwear,Layer Jacket,227.36,1,0.1,204.62,262.0,40
+O50272,2025-06-24,C10225,VIP,Paid Social,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,172.0,79
+O50273,2025-01-27,C10094,Repeat,Web,South,P1014,Loungewear,Cozy Hoodie,126.36,1,0.05,120.04,110.0,49
+O50274,2025-09-02,C10129,Repeat,Web,Northeast,P1008,Outerwear,Transit Coat,252.88,1,0.05,240.24,377.0,47
+O50275,2025-02-03,C10058,New,Organic Search,Midwest,P1002,Tops,Everyday Shirt,71.0,2,0.05,134.9,203.0,67
+O50275,2025-02-03,C10058,New,Organic Search,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.15,136.0,229.0,40
+O50275,2025-02-03,C10058,New,Organic Search,Midwest,P1010,Dresses,Shift Dress,142.0,4,0.1,511.2,306.0,75
+O50276,2025-09-09,C10205,New,Email Campaign,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,1,0.2,93.6,109.0,49
+O50277,2025-10-23,C10037,Repeat,Paid Social,South,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,207.0,49
+O50278,2025-12-18,C10322,Repeat,Paid Social,West,P1009,Dresses,Wrap Dress,160.0,1,0.05,152.0,228.0,40
+O50279,2025-03-19,C10027,Repeat,Paid Social,West,P1000,Tops,Classic Tee,78.0,4,0.0,312.0,203.0,49
+O50280,2025-10-16,C10076,VIP,Mobile App,South,P1003,Bottoms,Tailored Pant,89.0,1,0.05,84.55,370.0,61
+O50281,2025-02-13,C10155,New,Mobile App,Northeast,P1010,Dresses,Shift Dress,142.0,2,0.05,269.8,304.0,75
+O50281,2025-02-13,C10155,New,Mobile App,Northeast,P1012,Loungewear,Soft Set,84.24,1,0.0,84.24,349.0,81
+O50282,2025-03-02,C10127,New,Mobile App,Midwest,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,378.0,51
+O50283,2025-08-02,C10285,Repeat,Paid Social,South,P1006,Outerwear,Commuter Blazer,150.0,2,0.15,255.0,376.0,51
+O50284,2025-11-02,C10310,Repeat,Web,South,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,175.0,77
+O50285,2025-11-13,C10404,Repeat,Paid Social,Northeast,P1007,outerwear,Layer Jacket,227.36,3,0.1,613.87,259.0,40
+O50285,2025-11-13,C10404,Repeat,Paid Social,Northeast,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,121.0,72
+O50286,2025-09-25,C10115,Repeat,Web,,P1011,dresses,Travel Dress,141.0,1,0.1,126.9,174.0,77
+O50287,2025-08-19,C10194,VIP,Email Campaign,West,P1007,Outerwear,Layer Jacket,196.0,2,0.15,333.2,257.0,40
+O50288,2025-06-02,C10226,Repeat,Mobile App,South,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,120.0,72
+O50289,2025-08-08,C10301,VIP,Web,West,P1006,Outerwear,Commuter Blazer,150.0,2,0.0,300.0,374.0,51
+O50289,2025-08-08,C10301,VIP,Web,West,P1011,Dresses,Travel Dress,141.0,2,0.2,225.6,172.0,77
+O50289,2025-08-08,C10301,VIP,Web,West,P1009,Dresses,Wrap Dress,160.0,2,0.0,320.0,226.0,40
+O50290,2025-10-19,C10156,Repeat,Email Campaign,Midwest,P1000,Tops,Classic Tee,78.0,1,,66.3,202.0,49
+O50291,2025-01-31,C10317,Repeat,Email Campaign,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.15,98.6,171.0,79
+O50291,2025-01-31,C10317,Repeat,Email Campaign,Northeast,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,119.0,72
+O50292,2025-02-20,C10312,Repeat,PAID SOCIAL,West,P1011,Dresses,Travel Dress,141.0,1,0.15,119.85,171.0,77
+O50293,2025-04-17,C10390,Repeat,Email Campaign,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.15,66.3,348.0,81
+O50293,2025-04-17,C10390,Repeat,Email Campaign,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.2,56.8,202.0,67
+O50294,2025-04-19,C10320,Repeat,Web,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,392.0,79
+O50295,2025-12-05,C10135,Repeat,Web,Midwest,P1012,Loungewear,Soft Set,84.24,3,0.15,214.81,345.0,81
+O50295,2025-12-05,C10135,Repeat,Web,Midwest,P1011,Dresses,Travel Dress,141.0,2,0.0,282.0,169.0,77
+O50295,2025-12-05,C10135,Repeat,Web,Midwest,P1006,Outerwear,Commuter Blazer,174.0,1,0.0,174.0,373.0,51
+O50296,2025-03-22,C10041,New,Organic Search,South,P1009,Dresses,Wrap Dress,160.0,1,0.05,152.0,225.0,40
+O50297,2025-03-30,C10122,New,Mobile App,West,P1004,Bottoms,Easy Trouser,116.0,1,0.2,92.8,170.0,79
+O50297,2025-03-30,C10122,New,Mobile App,West,P1014,loungewear,Cozy Hoodie,117.0,2,0.0,234.0,107.0,49
+O50298,2025-02-08,C10282,New,Organic Search,West,P1014,Loungewear,Cozy Hoodie,126.36,1,0.0,126.36,106.0,49
+O50299,2025-01-02,C10080,New,Web,Midwest,P1004,Bottoms,Easy Trouser,116.0,2,0.2,185.6,168.0,79
+O50300,2025-08-19,C10209,Repeat,Email Campaign,West,P1010,Dresses,Shift Dress,142.0,1,0.2,113.6,303.0,75
+O50300,2025-08-19,C10209,Repeat,Email Campaign,West,P1013,Loungewear,Relaxed Jogger,85.0,3,0.2,204.0,389.0,79
+O50300,2025-08-19,C10209,Repeat,Email Campaign,West,P1012,Loungewear,Soft Set,78.0,1,0.15,66.3,344.0,81
+O50301,2025-11-01,C10352,New,Organic Search,West,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,224.0,40
+O50301,2025-11-01,C10352,New,Organic Search,West,P1008,Outerwear,Transit Coat,252.88,2,0.05,480.47,375.0,47
+O50302,2025-05-30,C10240,Repeat,Mobile App,Northeast,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,118.0,72
+O50303,2025-04-29,C10016,Repeat,Email Campaign,South,P1010,Dresses,Shift Dress,159.04,3,0.15,405.55,300.0,75
+O50304,2025-12-28,C10147,VIP,Organic Search,Midwest,P1012,Loungewear,Soft Set,84.24,1,0.1,75.82,343.0,81
+O50304,2025-12-28,C10147,VIP,Organic Search,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,$103.55,243.0,41
+O50305,2025-12-26,C10144,VIP,Web,Northeast,P1012,Loungewear,Soft Set,84.24,1,0.0,84.24,,81
+O50305,2025-12-26,C10144,VIP,Web,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,299.0,75
+O50306,2025-02-06,C10232,New,Organic Search,Northeast,P1012,Loungewear,Soft Set,84.24,3,0.05,240.08,339.0,81
+O50307,2025-04-30,C10351,Repeat,Web,Northeast,P1009,Dresses,Wrap Dress,179.2,1,0.0,179.2,223.0,40
+O50307,2025-04-30,C10351,Repeat,Web,Northeast,P1005,Bottoms,Weekend Skirt,109.0,3,0.0,327.0,240.0,41
+O50307,2025-04-30,C10351,Repeat,Web,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,167.0,79
+O50308,2025-11-17,C10135,Repeat,Email Campaign,West,P1003,Bottoms,Tailored Pant,89.0,4,0.15,302.6,366.0,61
+O50309,2025-12-05,C10301,Repeat,Mobile App,Northeast,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,117.0,72
+O50309,2025-12-05,C10301,Repeat,Mobile App,Northeast,P1013,Loungewear,Relaxed Jogger,91.8,2,0.05,174.42,387.0,79
+O50310,2025-04-12,C10411,Repeat,Mobile App,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,201.0,67
+O50311,2025-02-28,C10217,Repeat,Organic Search,South,P1004,Bottoms,Easy Trouser,116.0,1,0.15,98.6,166.0,79
+O50311,2025-02-28,C10217,Repeat,Organic Search,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,239.0,41
+O50312,2025-04-26,C10278,VIP,Email Campaign,South,P1012,Loungewear,Soft Set,78.0,2,0.1,140.4,337.0,81
+O50313,2025-03-18,C10331,Repeat,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,201.0,49
+O50313,2025-03-18,C10331,Repeat,Mobile App,West,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,165.0,79
+O50314,2025-03-14,C10136,New,Mobile App,Midwest,P1011,Dresses,Travel Dress,141.0,1,0.1,126.9,168.0,77
+O50315,2025-01-31,C10036,New,Email Campaign,South,P1002,Tops,Everyday Shirt,71.0,3,0.15,181.05,198.0,67
+O50316,2025-06-07,C10084,Repeat,Web,West,P1007,Outerwear,Layer Jacket,196.0,2,0.05,372.4,255.0,40
+O50317,2025-10-19,C10304,Repeat,Organic Search,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,197.0,67
+O50318,2025-08-13,C10147,Repeat,Organic Search,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.05,80.75,386.0,79
+O50318,2025-08-13,C10147,Repeat,Organic Search,South,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,196.0,67
+O50319,2025-08-28,C10063,Repeat,Web,South,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,194.0,67
+O50320,2025-06-05,C10352,Repeat,Web,Northeast,P1011,dresses,Travel Dress,157.92,3,0.05,450.07,165.0,77
+O50321,2025-07-26,C10358,Repeat,Web,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,374.0,47
+O50321,2025-07-26,C10358,Repeat,Web,Northeast,P1009,Dresses,Wrap Dress,179.2,2,0.0,358.4,221.0,40
+O50321,2025-07-26,C10358,Repeat,Web,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.15,60.35,193.0,67
+O50322,2025-09-14,C10139,Repeat,Email Campaign,South,P1001,Tops,Air Tunic,62.0,2,0.2,99.2,115.0,72
+O50323,2025-09-10,C10276,Repeat,ORGANIC SEARCH,West,P1006,Outerwear,Commuter Blazer,174.0,2,0.0,348.0,371.0,51
+O50323,2025-09-10,C10276,Repeat,Organic Search,West,P1002,Tops,Everyday Shirt,71.0,3,0.1,191.7,190.0,67
+O50324,2025-02-11,C10224,Repeat,Email Campaign,South,P1014,Loungewear,Cozy Hoodie,126.36,1,0.1,113.72,105.0,49
+O50324,2025-02-11,C10224,Repeat,Email Campaign,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.2,87.2,238.0,41
+O50324,2025-02-11,C10224,Repeat,Email Campaign,South,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,,40
+O50325,2025-01-21,C10306,New,Email Campaign,Midwest,P1011,Dresses,Travel Dress,141.0,1,0.1,126.9,164.0,77
+O50325,2025-01-21,C10306,New,Email Campaign,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,219.0,40
+O50326,2025-06-15,C10221,Repeat,EMAIL CAMPAIGN,West,P1010,Dresses,Shift Dress,159.04,1,0.2,127.23,298.0,75
+O50327,2025-05-09,C10309,Repeat,Mobile App,West,P1004,Bottoms,Easy Trouser,116.0,1,0.05,110.2,164.0,79
+O50327,2025-05-09,C10309,Repeat,Mobile App,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.15,72.25,385.0,79
+O50328,2025-02-16,C10013,New,Paid Social,Midwest,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,254.0,40
+O50329,2025-12-12,C10117,Repeat,Mobile App,West,P1013,Loungewear,Relaxed Jogger,91.8,4,0.05,348.84,381.0,79
+O50330,2025-10-28,C10294,VIP,Web,Northeast,P1008,Outerwear,Transit Coat,252.88,1,0.05,240.24,373.0,47
+O50331,2025-12-11,C10010,Repeat,Organic Search,West,P1002,Tops,Everyday Shirt,71.0,1,0.2,56.8,189.0,67
+O50332,2025-10-23,C10137,VIP,Paid Social,Midwest,P1011,Dresses,Travel Dress,141.0,4,0.2,451.2,160.0,77
+O50332,2025-10-23,C10137,VIP,Paid Social,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.05,152.0,218.0,40
+O50333,2025-03-31,C10020,VIP,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,4,0.0,340.0,377.0,79
+O50333,2025-03-31,C10020,VIP,Web,West,P1004,Bottoms,Easy Trouser,116.0,1,0.05,110.2,163.0,79
+O50333,2025-03-31,C10020,VIP,Web,West,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,253.0,40
+O50334,2025-09-23,C10240,New,Organic Search,South,P1006,Outerwear,Commuter Blazer,174.0,1,0.15,147.9,370.0,51
+O50335,2025-08-15,C10333,Repeat,Web,Northeast,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,369.0,51
+O50336,2025-04-03,C10142,Repeat,Organic Search,Northeast,P1004,Bottoms,Easy Trouser,116.0,2,0.1,208.8,161.0,79
+O50336,2025-04-03,C10142,Repeat,Organic Search,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,336.0,81
+O50337,2025-08-12,C10299,Repeat,Mobile App,Midwest,P1012,Loungewear,Soft Set,78.0,2,0.0,156.0,334.0,81
+O50337,2025-08-12,C10299,Repeat,Mobile App,Midwest,P1009,Dresses,Wrap Dress,160.0,3,0.1,432.0,215.0,40
+O50338,2025-09-09,C10325,Repeat,Paid Social,Midwest,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,113.0,72
+O50338,2025-09-09,C10325,Repeat,Paid Social,Midwest,P1008,Outerwear,Transit Coat,252.88,2,0.1,455.18,371.0,47
+O50339,2025-08-29,C10046,Repeat,Organic Search,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,1,0.15,99.45,104.0,49
+O50339,2025-08-29,C10046,Repeat,Organic Search,Northeast,P1007,Outerwear,Layer Jacket,196.0,1,0.1,176.4,252.0,40
+O50340,2025-07-29,C10178,Repeat,Paid Social,West,P1010,Dresses,Shift Dress,159.04,2,0.0,318.08,296.0,75
+O50341,2025-06-14,C10170,Repeat,Mobile App,Northeast,P1009,Dresses,Wrap Dress,179.2,1,0.0,179.2,214.0,40
+O50341,2025-06-14,C10170,Repeat,Mobile App,Northeast,P1004,Bottoms,Easy Trouser,116.0,3,0.05,$330.60,158.0,79
+O50342,2025-02-23,C10343,New,Organic Search,West,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,188.0,67
+O50342,2025-02-23,C10343,New,Organic Search,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,237.0,41
+O50342,2025-02-23,C10343,New,Organic Search,West,P1011,Dresses,Travel Dress,141.0,1,0.1,126.9,159.0,77
+O50343,2025-06-18,C10082,Repeat,Mobile App,West,P1002,Tops,Everyday Shirt,71.0,1,0.15,60.35,187.0,67
+O50344,2025-12-22,C10210,VIP,Paid Social,Northeast,P1011,Dresses,Travel Dress,141.0,2,0.0,282.0,157.0,77
+O50344,2025-12-22,C10210,VIP,Paid Social,Northeast,P1006,Outerwear,Commuter Blazer,174.0,3,0.05,495.9,366.0,51
+O50345,2025-05-28,C10253,Repeat,Web,South,P1003,Bottoms,Tailored Pant,89.0,3,0.1,240.3,363.0,61
+O50345,2025-05-28,C10253,Repeat,Web,South,P1008,Outerwear,Transit Coat,218.0,2,0.0,436.0,369.0,47
+O50345,2025-05-28,C10253,Repeat,Web,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,103.0,49
+O50346,2025-07-25,C10339,Repeat,Web,South,P1003,Bottoms,Tailored Pant,89.0,4,0.0,356.0,359.0,61
+O50347,2025-10-09,C10416,Repeat,Organic Search,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,102.0,49
+O50347,2025-10-09,C10416,Repeat,Organic Search,Northeast,P1008,Outerwear,Transit Coat,252.88,2,0.1,455.18,367.0,47
+O50348,2025-08-21,C10018,Repeat,Web,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.2,56.8,,67
+O50349,2025-06-11,C10045,Repeat,Mobile App,South,P1001,Tops,Air Tunic,62.0,3,0.15,158.1,110.0,72
+O50349,2025-06-11,C10045,Repeat,Mobile App,South,P1010,Dresses,Shift Dress,159.04,1,0.05,$151.09,295.0,75
+O50350,2025-06-15,C10129,Repeat,Email Campaign,West,P1012,Loungewear,Soft Set,78.0,2,0.1,140.4,332.0,81
+O50351,2025-07-26,C10059,VIP,Mobile App,South,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,185.0,67
+O50352,2025-01-01,C10263,New,Organic Search,Midwest,P1011,Dresses,Travel Dress,141.0,1,0.1,126.9,156.0,77
+O50353,2025-10-05,C10336,Repeat,Paid Social,Midwest,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,200.0,49
+O50354,2025-07-31,C10236,VIP,Web,Midwest,P1010,Dresses,Shift Dress,159.04,1,0.1,143.14,294.0,75
+O50355,2025-04-07,C10027,New,ORGANIC SEARCH,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,101.0,49
+O50355,2025-04-07,C10027,New,Organic Search,Northeast,P1007,Outerwear,Layer Jacket,196.0,1,0.05,186.2,251.0,40
+O50356,2025-07-05,C10265,Repeat,Organic Search,South,P1005,Bottoms,Weekend Skirt,109.0,2,0.0,218.0,235.0,41
+O50356,2025-07-05,C10265,Repeat,Organic Search,South,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,331.0,81
+O50357,2025-09-13,C10318,Repeat,Web,South,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,184.0,67
+O50358,2025-08-15,C10320,VIP,Email Campaign,South,P1006,Outerwear,Commuter Blazer,150.0,2,0.15,255.0,364.0,51
+O50359,2025-01-27,C10389,New,Paid Social,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,234.0,41
+O50360,2025-05-17,C10104,Repeat,Organic Search,South,P1004,Bottoms,Easy Trouser,116.0,3,0.2,278.4,155.0,79
+O50361,2025-03-09,C10281,Repeat,Web,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,183.0,67
+O50362,2025-08-13,C10147,Repeat,Organic Search,West,P1010,Dresses,Shift Dress,142.0,2,0.0,284.0,292.0,75
+O50363,2025-09-06,C10357,Repeat,Organic Search,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.05,111.15,100.0,49
+O50364,2025-01-15,C10062,New,Mobile App,Midwest,P1011,Dresses,Travel Dress,141.0,3,0.0,423.0,153.0,77
+O50364,2025-01-15,C10062,New,Mobile App,Midwest,P1010,Dresses,Shift Dress,142.0,2,0.0,284.0,290.0,75
+O50364,2025-01-15,C10062,New,Mobile App,Midwest,P1002,Tops,Everyday Shirt,71.0,2,0.0,$142.00,181.0,67
+O50365,2025-11-08,C10322,Repeat,Web,Northeast,P1000,Tops,Classic Tee,78.0,2,0.05,148.2,198.0,49
+O50365,2025-11-08,C10322,Repeat,Web,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,99.0,49
+O50366,2025-05-03,C10409,New,Paid Social,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.05,84.55,358.0,61
+O50366,2025-05-03,C10409,New,Paid Social,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,330.0,81
+O50367,2025-03-23,C10363,New,Organic Search,West,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,154.0,79
+O50368,2025-10-10,C10159,New,Web,West,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,152.0,77
+O50369,2025-10-10,C10007,Repeat,Organic Search,West,P1003,Bottoms,Tailored Pant,89.0,1,0.05,84.55,357.0,61
+O50369,2025-10-10,C10007,Repeat,Organic Search,West,P1008,Outerwear,Transit Coat,252.88,1,0.1,227.59,366.0,47
+O50369,2025-10-10,C10007,Repeat,Organic Search,West,P1004,Bottoms,Easy Trouser,116.0,2,0.1,208.8,152.0,79
+O50370,2025-02-17,C10208,New,Organic Search,Northeast,P1009,Dresses,Wrap Dress,160.0,3,0.2,384.0,211.0,40
+O50371,2025-02-28,C10115,New,Web,Northeast,P1006,Outerwear,Commuter Blazer,150.0,2,0.1,270.0,362.0,51
+O50371,2025-02-28,C10115,New,Web,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.2,71.2,356.0,61
+O50372,2025-03-02,C10236,New,Paid Social,South,P1008,Outerwear,Transit Coat,218.0,1,0.05,207.1,365.0,47
+O50372,2025-03-02,C10236,New,Paid Social,South,P1011,Dresses,Travel Dress,141.0,1,0.2,112.8,151.0,77
+O50373,2025-03-20,C10331,Repeat,Mobile App,West,P1009,Dresses,Wrap Dress,160.0,1,0.05,152.0,210.0,40
+O50374,2025-05-30,C10255,Repeat,Web,Midwest,P1001,Tops,Air Tunic,62.0,4,0.05,235.6,106.0,72
+O50375,2025-12-28,C10260,Repeat,Email Campaign,South,P1006,Outerwear,Commuter Blazer,174.0,1,0.2,139.2,361.0,51
+O50375,2025-12-28,C10260,Repeat,Email Campaign,South,P1014,Loungewear,Cozy Hoodie,126.36,1,0.1,113.72,98.0,49
+O50376,2025-08-01,C10139,VIP,Web,West,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,180.0,67
+O50377,2025-08-30,C10247,Repeat,Mobile App,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.15,92.65,233.0,41
+O50378,2025-08-22,C10124,Repeat,Mobile App,South,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,151.0,79
+O50378,2025-08-22,C10124,Repeat,Mobile App,South,P1012,Loungewear,Soft Set,78.0,1,0.2,62.4,329.0,81
+O50379,2025-03-16,C10282,Repeat,Web,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.1,105.3,97.0,49
+O50380,2025-04-08,C10196,Repeat,Paid Social,Northeast,P1003,Bottoms,Tailored Pant,89.0,3,0.0,267.0,353.0,61
+O50381,2025-09-18,C10306,VIP,Web,West,P1006,outerwear,Commuter Blazer,174.0,3,0.05,495.9,358.0,51
+O50382,2025-03-11,C10382,New,Web,West,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,105.0,72
+O50383,2025-05-22,C10035,Repeat,Web,Northeast,P1011,Dresses,Travel Dress,157.92,2,0.0,315.84,149.0,77
+O50384,2025-08-01,C10395,Repeat,Mobile App,Midwest,P1008,Outerwear,Transit Coat,218.0,1,0.1,$196.20,364.0,47
+O50384,2025-08-01,C10395,Repeat,Mobile App,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,232.0,41
+O50384,2025-08-01,C10395,Repeat,Mobile App,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,209.0,40
+O50385,2025-09-17,C10174,Repeat,Mobile App,South,P1006,Outerwear,Commuter Blazer,174.0,1,0.0,174.0,357.0,51
+O50385,2025-09-17,C10174,Repeat,Mobile App,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,231.0,41
+O50385,2025-09-17,C10174,Repeat,Mobile App,South,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,351.0,61
+O50386,2025-01-02,C10136,New,Organic Search,Northeast,P1000,Tops,Classic Tee,78.0,1,0.15,66.3,197.0,49
+O50386,2025-01-02,C10136,New,Organic Search,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,363.0,47
+O50387,2025-06-02,C10144,New,Mobile App,West,P1007,outerwear,Layer Jacket,196.0,2,0.1,352.8,249.0,40
+O50387,2025-06-02,C10144,New,Mobile App,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,356.0,51
+O50388,2025-10-24,C10300,Repeat,Web,West,P1008,Outerwear,Transit Coat,252.88,1,0.0,252.88,362.0,47
+O50388,2025-10-24,C10300,Repeat,Web,West,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,179.0,67
+O50389,2025-09-08,C10337,New,Web,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,230.0,41
+O50390,2025-08-17,C10076,Repeat,Organic Search,South,P1006,Outerwear,Commuter Blazer,150.0,3,0.0,$450.00,353.0,51
+O50391,2025-09-05,C10275,VIP,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,376.0,79
+O50391,2025-09-05,C10275,VIP,Web,West,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,289.0,75
+O50391,2025-09-05,C10275,VIP,Web,West,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,177.0,67
+O50392,2025-06-20,C10176,Repeat,Organic Search,South,P1012,Loungewear,Soft Set,78.0,1,0.0,78.0,328.0,81
+O50392,2025-06-20,C10176,Repeat,Organic Search,South,P1010,Dresses,Shift Dress,159.04,2,0.0,318.08,287.0,75
+O50392,2025-06-20,C10176,Repeat,Organic Search,South,P1000,Tops,Classic Tee,78.0,2,0.05,148.2,195.0,49
+O50393,2025-10-06,C10282,Repeat,Paid Social,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,375.0,79
+O50394,2025-08-22,C10193,Repeat,Email Campaign,West,P1004,Bottoms,Easy Trouser,116.0,4,0.1,417.6,147.0,79
+O50395,2025-04-07,C10164,Repeat,Web,Northeast,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,194.0,49
+O50396,2025-05-03,C10357,Repeat,Organic Search,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,2,0.15,198.9,95.0,49
+O50397,2025-07-16,C10292,Repeat,Email Campaign,South,P1001,Tops,Air Tunic,62.0,2,0.2,99.2,103.0,72
+O50397,2025-07-16,C10292,Repeat,Email Campaign,South,P1011,Dresses,Travel Dress,157.92,1,0.15,134.23,148.0,77
+O50398,2025-07-30,C10119,VIP,Organic Search,West,P1011,Dresses,Travel Dress,157.92,4,0.0,631.68,144.0,77
+O50399,2025-06-12,C10022,Repeat,Web,South,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,361.0,47
+O50399,2025-06-12,C10022,Repeat,Web,South,P1011,Dresses,Travel Dress,157.92,3,0.0,$473.76,141.0,77
+O50400,2025-08-31,C10381,Repeat,Mobile App,South,P1008,Outerwear,Transit Coat,218.0,1,0.1,196.2,360.0,47
+O50400,2025-08-31,C10381,Repeat,Mobile App,South,P1012,loungewear,Soft Set,78.0,1,0.0,78.0,327.0,81
+O50400,2025-08-31,C10381,Repeat,Mobile App,South,P1004,Bottoms,Easy Trouser,116.0,2,0.0,232.0,145.0,79
+O50401,2025-07-15,C10361,Repeat,Web,Midwest,P1012,Loungewear,Soft Set,78.0,2,0.05,148.2,325.0,81
+O50401,2025-07-15,C10361,Repeat,Web,Midwest,P1000,Tops,Classic Tee,78.0,1,0.05,74.1,193.0,49
+O50402,2025-12-06,C10197,Repeat,Web,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,144.0,79
+O50403,2025-11-30,C10405,Repeat,Mobile App,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,176.0,67
+O50403,2025-11-30,C10405,Repeat,Mobile App,Northeast,P1007,Outerwear,Layer Jacket,227.36,2,0.05,431.98,247.0,40
+O50403,2025-11-30,C10405,Repeat,Mobile App,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,143.0,79
+O50404,2025-09-11,C10077,New,Web,South,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,102.0,72
+O50405,2025-03-06,C10018,Repeat,Email Campaign,West,P1007,Outerwear,Layer Jacket,196.0,1,0.15,166.6,246.0,40
+O50405,2025-03-06,C10018,Repeat,Email Campaign,West,P1005,Bottoms,Weekend Skirt,109.0,2,0.15,185.3,228.0,41
+O50406,2025-10-30,C10257,VIP,Email Campaign,South,P1009,Dresses,Wrap Dress,160.0,3,0.1,432.0,,40
+O50406,2025-10-30,C10257,VIP,Email Campaign,South,P1003,Bottoms,Tailored Pant,89.0,1,0.2,71.2,350.0,61
+O50406,2025-10-30,C10257,VIP,Email Campaign,,P1007,Outerwear,Layer Jacket,227.36,1,0.1,204.62,245.0,40
+O50407,2025-02-21,C10169,VIP,Organic Search,South,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,286.0,75
+O50408,2025-02-21,C10225,New,Web,South,P1002,Tops,Everyday Shirt,71.0,1,0.05,$67.45,175.0,67
+O50408,2025-02-21,C10225,New,Web,South,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,285.0,75
+O50409,2025-08-22,C10269,Repeat,Organic Search,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,227.0,41
+O50409,2025-08-22,C10269,Repeat,Organic Search,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,374.0,79
+O50410,2025-03-15,C10007,Repeat,Web,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,101.0,72
+O50411,2025-12-02,C10209,Repeat,Mobile App,West,P1014,Loungewear,Cozy Hoodie,126.36,1,0.0,126.36,94.0,49
+O50412,2025-02-08,C10079,New,Mobile App,Midwest,P1008,Outerwear,Transit Coat,218.0,3,0.2,523.2,357.0,47
+O50412,2025-02-08,C10079,New,Mobile App,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,1,0.05,120.04,93.0,49
+O50413,2025-05-16,C10240,Repeat,Web,South,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,324.0,81
+O50413,2025-05-16,C10240,Repeat,Web,South,P1004,Bottoms,Easy Trouser,116.0,1,0.05,110.2,142.0,79
+O50414,2025-11-16,C10173,Repeat,Mobile App,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.15,92.65,226.0,41
+O50415,2025-07-23,C10354,Repeat,Paid Social,South,P1008,Outerwear,Transit Coat,218.0,1,0.05,207.1,356.0,47
+O50415,2025-07-23,C10354,Repeat,Paid Social,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,92.0,49
+O50416,2025-02-11,C10332,New,Email Campaign,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.1,$196.20,355.0,47
+O50416,2025-02-11,C10332,New,Email Campaign,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.15,75.65,349.0,61
+O50417,2025-12-12,C10168,Repeat,Web,South,P1011,Dresses,Travel Dress,141.0,1,0.1,$126.90,140.0,77
+O50418,2025-07-14,C10273,Repeat,Email Campaign,Northeast,P1007,Outerwear,Layer Jacket,196.0,1,0.2,156.8,244.0,40
+O50419,2025-11-17,C10162,Repeat,Web,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,348.0,61
+O50419,2025-11-17,C10162,Repeat,Web,Midwest,P1011,Dresses,Travel Dress,141.0,1,0.1,126.9,139.0,77
+O50420,2025-09-07,C10367,Repeat,Organic Search,South,P1014,Loungewear,Cozy Hoodie,117.0,2,0.0,234.0,90.0,49
+O50421,2025-01-19,C10277,New,Paid Social,Northeast,P1002,Tops,Everyday Shirt,71.0,3,0.15,181.05,172.0,67
+O50422,2025-02-05,C10316,Repeat,Organic Search,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,1,0.05,120.04,89.0,49
+O50422,2025-02-05,C10316,Repeat,Organic Search,Midwest,P1013,Loungewear,Relaxed Jogger,91.8,1,,87.21,373.0,79
+O50423,2025-11-20,C10120,VIP,Paid Social,West,P1008,Outerwear,Transit Coat,252.88,3,0.1,682.78,352.0,47
+O50423,2025-11-20,C10120,VIP,Paid Social,West,P1002,Tops,Everyday Shirt,71.0,1,0.05,$67.45,171.0,67
+O50424,2025-05-28,C10350,VIP,ORGANIC SEARCH,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.0,78.0,323.0,81
+O50424,2025-05-28,C10350,VIP,Organic Search,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,170.0,67
+O50425,2025-02-16,C10116,New,Email Campaign,Midwest,P1000,Tops,Classic Tee,78.0,1,0.15,66.3,192.0,49
+O50425,2025-02-16,C10116,New,Email Campaign,Midwest,P1010,Dresses,Shift Dress,142.0,1,0.15,120.7,284.0,75
+O50426,2025-02-20,C10222,Repeat,Email Campaign,South,P1013,Loungewear,Relaxed Jogger,91.8,1,0.15,78.03,372.0,79
+O50427,2025-11-21,C10389,Repeat,Web,South,P1010,Dresses,Shift Dress,142.0,3,0.0,426.0,281.0,75
+O50428,2025-02-21,C10360,New,Web,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.1,$144.00,205.0,40
+O50429,2025-03-27,C10227,VIP,Email Campaign,West,P1001,Tops,Air Tunic,62.0,1,0.15,52.7,100.0,72
+O50429,2025-03-27,C10227,VIP,Email Campaign,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.15,127.5,352.0,51
+O50430,2025-06-03,C10355,VIP,Web,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,351.0,51
+O50430,2025-06-03,C10355,VIP,Web,West,P1000,Tops,Classic Tee,78.0,2,0.05,148.2,190.0,49
+O50431,2025-01-24,C10014,New,Paid Social,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,225.0,41
+O50431,2025-01-24,C10014,New,Paid Social,West,P1004,Bottoms,Easy Trouser,116.0,1,0.05,110.2,141.0,79
+O50432,2025-01-29,C10166,New,Organic Search,West,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,99.0,72
+O50432,2025-01-29,C10166,New,Organic Search,West,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,140.0,79
+O50433,2025-07-03,C10150,Repeat,Paid Social,South,P1010,Dresses,Shift Dress,159.04,2,0.0,318.08,279.0,75
+O50434,2025-08-09,C10191,VIP,Mobile App,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,98.0,72
+O50434,2025-08-09,C10191,VIP,Mobile App,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,224.0,41
+O50435,2025-05-06,C10074,VIP,Web,Northeast,P1006,Outerwear,Commuter Blazer,150.0,2,0.05,285.0,349.0,51
+O50436,2025-07-30,C10271,Repeat,Web,West,P1000,Tops,Classic Tee,78.0,1,0.05,74.1,189.0,49
+O50437,2025-12-16,C10289,VIP,Paid Social,,P1014,Loungewear,Cozy Hoodie,126.36,1,0.0,126.36,88.0,49
+O50437,2025-12-16,C10289,VIP,Paid Social,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.15,92.65,223.0,41
+O50438,2025-04-03,C10405,Repeat,Mobile App,South,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,139.0,79
+O50439,2025-03-31,C10087,Repeat,Web,West,P1010,Dresses,Shift Dress,142.0,2,0.05,269.8,277.0,75
+O50440,2025-11-09,C10040,Repeat,Web,West,P1010,Dresses,Shift Dress,142.0,4,0.0,568.0,273.0,75
+O50441,2025-11-14,C10195,Repeat,Mobile App,Midwest,P1008,Outerwear,Transit Coat,252.88,1,,227.59,351.0,47
+O50442,2025-05-04,C10349,Repeat,Paid Social,South,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,322.0,81
+O50442,2025-05-04,C10349,Repeat,Paid Social,South,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,346.0,61
+O50443,2025-10-26,C10254,New,Web,West,P1005,Bottoms,Weekend Skirt,109.0,2,0.0,218.0,221.0,41
+O50443,2025-10-26,C10254,New,Web,West,P1008,outerwear,Transit Coat,252.88,4,0.15,859.79,347.0,47
+O50444,2025-04-29,C10073,Repeat,Paid Social,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,3,,242.25,369.0,79
+O50445,2025-11-23,C10236,Repeat,Web,South,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,321.0,81
+O50445,2025-11-23,C10236,Repeat,Web,South,P1013,Loungewear,Relaxed Jogger,85.0,2,0.0,170.0,367.0,79
+O50446,2025-08-24,C10130,VIP,Email Campaign,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.15,99.45,87.0,49
+O50447,2025-12-08,C10130,VIP,Organic Search,Northeast,P1008,Outerwear,Transit Coat,252.88,3,0.1,682.78,344.0,47
+O50447,2025-12-08,C10130,VIP,Organic Search,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,220.0,41
+O50447,2025-12-08,C10130,VIP,Organic Search,Northeast,P1012,Loungewear,Soft Set,84.24,1,0.0,84.24,320.0,81
+O50448,2025-08-27,C10004,Repeat,Organic Search,South,P1006,Outerwear,Commuter Blazer,150.0,2,0.0,300.0,347.0,51
+O50449,2025-12-13,C10147,VIP,Mobile App,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,272.0,75
+O50449,2025-12-13,C10147,VIP,Mobile App,Northeast,P1000,Tops,Classic Tee,78.0,3,0.15,198.9,186.0,49
+O50450,2025-03-22,C10279,New,Organic Search,South,P1010,Dresses,Shift Dress,142.0,1,0.05,134.9,271.0,75
+O50451,2025-08-15,C10037,VIP,Web,Northeast,P1003,Bottoms,Tailored Pant,89.0,3,0.05,253.65,343.0,61
+O50452,2025-10-28,C10176,VIP,Organic Search,West,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,341.0,61
+O50452,2025-10-28,C10176,VIP,Organic Search,West,P1009,Dresses,Wrap Dress,160.0,4,0.1,576.0,201.0,40
+O50452,2025-10-28,C10176,VIP,Organic Search,,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,168.0,67
+O50453,2025-11-24,C10153,Repeat,Email Campaign,Northeast,P1007,Outerwear,Layer Jacket,227.36,4,0.15,773.02,240.0,40
+O50454,2025-12-20,C10217,Repeat,Organic Search,South,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,200.0,40
+O50455,2025-08-22,C10128,Repeat,Email Campaign,Midwest,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,97.0,72
+O50455,2025-08-22,C10128,Repeat,Email Campaign,Midwest,P1010,Dresses,Shift Dress,142.0,1,0.15,120.7,270.0,75
+O50455,2025-08-22,C10128,Repeat,Email Campaign,Midwest,P1011,Dresses,Travel Dress,141.0,4,0.2,451.2,135.0,77
+O50456,2025-04-12,C10154,VIP,Paid Social,South,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,319.0,81
+O50457,2025-09-05,C10196,Repeat,Web,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.15,120.7,269.0,75
+O50458,2025-05-02,C10054,Repeat,Web,West,P1012,Loungewear,Soft Set,78.0,2,0.0,156.0,317.0,81
+O50459,2025-10-20,C10195,Repeat,Mobile App,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,316.0,81
+O50460,2025-10-22,C10183,Repeat,Web,,P1014,Loungewear,Cozy Hoodie,117.0,3,0.1,315.9,84.0,49
+O50460,2025-10-22,C10183,Repeat,Web,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,219.0,41
+O50461,2025-12-25,C10151,Repeat,Paid Social,West,P1013,Loungewear,Relaxed Jogger,91.8,2,0.05,174.42,365.0,79
+O50462,2025-01-12,C10151,New,Email Campaign,Northeast,P1013,Loungewear,Relaxed Jogger,91.8,4,0.15,312.12,361.0,79
+O50463,2025-07-22,C10337,Repeat,Organic Search,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,315.0,81
+O50463,2025-07-22,C10337,Repeat,Organic Search,Midwest,P1010,Dresses,Shift Dress,159.04,1,0.15,135.18,268.0,75
+O50464,2025-01-05,C10140,New,Web,Northeast,P1009,Dresses,Wrap Dress,160.0,2,0.0,320.0,198.0,40
+O50465,2025-12-18,C10289,Repeat,Web,Midwest,P1005,Bottoms,Weekend Skirt,109.0,3,0.0,327.0,216.0,41
+O50466,2025-01-26,C10398,New,Email Campaign,West,P1002,Tops,Everyday Shirt,71.0,2,0.15,120.7,166.0,67
+O50466,2025-01-26,C10398,New,Email Campaign,West,P1014,Loungewear,Cozy Hoodie,126.36,2,0.2,202.18,82.0,49
+O50467,2025-09-12,C10310,VIP,Paid Social,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,360.0,79
+O50467,2025-09-12,C10310,VIP,Paid Social,South,P1011,Dresses,Travel Dress,141.0,2,0.2,225.6,133.0,77
+O50468,2025-04-28,C10146,New,Web,West,P1009,Dresses,Wrap Dress,179.2,1,0.05,170.24,197.0,40
+O50469,2025-06-30,C10310,VIP,Paid Social,Midwest,P1002,Tops,Everyday Shirt,71.0,3,0.05,202.35,163.0,67
+O50470,2025-11-22,C10112,VIP,Web,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,96.0,72
+O50471,2025-11-14,C10097,Repeat,Paid Social,Midwest,P1007,Outerwear,Layer Jacket,227.36,4,0.0,909.44,236.0,40
+O50472,2025-12-14,C10128,VIP,Web,Midwest,P1007,Outerwear,Layer Jacket,227.36,1,0.05,215.99,235.0,40
+O50472,2025-12-14,C10128,VIP,Web,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,196.0,40
+O50472,2025-12-14,C10128,VIP,Web,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,4,0.05,480.17,78.0,49
+O50473,2025-12-04,C10386,VIP,Mobile App,Northeast,P1013,Loungewear,Relaxed Jogger,91.8,1,,73.44,359.0,79
+O50473,2025-12-04,C10386,VIP,Mobile App,Northeast,P1011,Dresses,Travel Dress,141.0,2,0.0,$282.00,131.0,77
+O50474,2025-03-12,C10348,Repeat,Email Campaign,Northeast,P1002,Tops,Everyday Shirt,71.0,2,0.1,127.8,161.0,67
+O50475,2025-02-19,C10321,New,Paid Social,West,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,159.0,67
+O50475,2025-02-19,C10321,New,Paid Social,West,P1014,Loungewear,Cozy Hoodie,126.36,2,0.1,227.45,76.0,49
+O50476,2025-11-27,C10321,Repeat,Paid Social,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,314.0,81
+O50477,2025-06-08,C10020,Repeat,Web,West,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,94.0,72
+O50477,2025-06-08,C10020,Repeat,Web,West,P1010,Dresses,Shift Dress,159.04,2,0.0,318.08,266.0,75
+O50478,2025-08-14,C10403,Repeat,Organic Search,West,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,130.0,77
+O50478,2025-08-14,C10403,Repeat,Organic Search,West,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,92.0,72
+O50479,2025-10-24,C10017,Repeat,Email Campaign,Northeast,P1008,Outerwear,Transit Coat,252.88,1,0.1,227.59,343.0,47
+O50479,2025-10-24,C10017,Repeat,Email Campaign,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,340.0,61
+O50480,2025-03-09,C10186,New,Organic Search,Northeast,P1008,Outerwear,Transit Coat,218.0,3,0.0,654.0,340.0,47
+O50480,2025-03-09,C10186,New,Organic Search,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,313.0,81
+O50481,2025-06-01,C10046,VIP,Mobile App,Midwest,P1010,Dresses,Shift Dress,159.04,2,0.0,318.08,264.0,75
+O50481,2025-06-01,C10046,VIP,Mobile App,Midwest,P1011,Dresses,Travel Dress,157.92,1,0.0,157.92,129.0,77
+O50482,2025-08-01,C10167,New,Mobile App,West,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,338.0,61
+O50483,2025-04-13,C10089,New,Web,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.15,127.5,346.0,51
+O50484,2025-10-04,C10067,VIP,Web,South,P1012,loungewear,Soft Set,78.0,2,0.05,148.2,311.0,81
+O50484,2025-10-04,C10067,VIP,Web,South,P1007,Outerwear,Layer Jacket,227.36,1,0.0,227.36,234.0,40
+O50485,2025-09-29,C10187,Repeat,Email Campaign,Midwest,P1011,Dresses,Travel Dress,141.0,1,0.1,126.9,128.0,77
+O50486,2025-05-20,C10256,Repeat,Paid Social,Northeast,P1009,Dresses,Wrap Dress,179.2,2,0.15,304.64,194.0,40
+O50487,2025-05-12,C10084,Repeat,Organic Search,Northeast,P1010,Dresses,Shift Dress,159.04,2,0.15,270.37,262.0,75
+O50487,2025-05-12,C10084,Repeat,Organic Search,Northeast,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,185.0,49
+O50487,2025-05-12,C10084,Repeat,Organic Search,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,310.0,81
+O50488,2025-06-01,C10246,Repeat,Mobile App,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,2,0.0,234.0,74.0,49
+O50489,2025-06-23,C10382,Repeat,Web,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.1,196.2,339.0,47
+O50490,2025-02-28,C10411,Repeat,Organic Search,West,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,91.0,72
+O50491,2025-02-08,C10239,New,Mobile App,West,P1005,bottoms,Weekend Skirt,109.0,2,0.0,218.0,214.0,41
+O50492,2025-04-26,C10072,Repeat,Organic Search,South,P1001,Tops,Air Tunic,62.0,1,0.2,49.6,90.0,72
+O50492,2025-04-26,C10072,Repeat,Organic Search,South,P1012,Loungewear,Soft Set,78.0,3,0.0,234.0,307.0,81
+O50493,2025-12-12,C10346,Repeat,Email Campaign,Northeast,P1005,Bottoms,Weekend Skirt,109.0,2,0.15,185.3,212.0,41
+O50494,2025-10-13,C10203,New,Organic Search,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,211.0,41
+O50495,2025-02-16,C10187,Repeat,Organic Search,Midwest,P1003,Bottoms,Tailored Pant,89.0,2,0.1,160.2,336.0,61
+O50496,2025-07-22,C10404,Repeat,Web,South,P1009,Dresses,Wrap Dress,179.2,1,0.0,179.2,193.0,40
+O50497,2025-05-16,C10007,Repeat,Organic Search,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,210.0,41
+O50497,2025-05-16,C10007,Repeat,Organic Search,Northeast,P1011,Dresses,Travel Dress,157.92,2,0.0,315.84,126.0,77
+O50498,2025-03-05,C10274,New,Mobile App,South,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,338.0,47
+O50498,2025-03-05,C10274,New,Mobile App,South,P1014,Loungewear,Cozy Hoodie,117.0,2,0.1,210.6,72.0,49
+O50499,2025-07-08,C10232,Repeat,Email Campaign,South,P1003,Bottoms,Tailored Pant,89.0,1,0.15,75.65,335.0,61
+O50499,2025-07-08,C10232,Repeat,Email Campaign,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.15,99.45,71.0,49
+O50500,2025-12-11,C10344,Repeat,Web,West,P1006,Outerwear,Commuter Blazer,174.0,1,0.2,139.2,345.0,51
+O50500,2025-12-11,C10344,Repeat,Web,West,P1001,Tops,Air Tunic,62.0,1,0.2,49.6,,72
+O50501,2025-10-27,C10134,Repeat,Mobile App,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,209.0,41
+O50502,2025-11-23,C10195,Repeat,Web,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,358.0,79
+O50503,2025-02-25,C10190,VIP,Mobile App,West,P1011,Dresses,Travel Dress,141.0,2,0.1,253.8,124.0,77
+O50504,2025-04-30,C10345,New,Web,West,P1004,Bottoms,Easy Trouser,116.0,1,0.05,110.2,138.0,79
+O50504,2025-04-30,C10345,New,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,357.0,79
+O50505,2025-01-13,C10241,New,Organic Search,West,P1012,Loungewear,Soft Set,84.24,2,0.0,168.48,305.0,81
+O50506,2025-10-15,C10317,VIP,Mobile App,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.1,105.3,70.0,49
+O50507,2025-11-09,C10167,Repeat,ORGANIC SEARCH,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,334.0,61
+O50507,2025-11-09,C10167,Repeat,Organic Search,Northeast,P1007,Outerwear,Layer Jacket,227.36,2,0.05,431.98,232.0,40
+O50508,2025-11-28,C10113,Repeat,Email Campaign,South,P1009,Dresses,Wrap Dress,160.0,1,0.15,136.0,192.0,40
+O50509,2025-11-22,C10032,Repeat,Organic Search,South,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,333.0,61
+O50510,2025-12-25,C10237,VIP,Mobile App,West,P1008,Outerwear,Transit Coat,252.88,2,0.15,429.9,336.0,47
+O50511,2025-11-29,C10154,VIP,Web,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.05,80.75,356.0,79
+O50512,2025-03-01,C10209,New,Paid Social,Midwest,P1009,Dresses,Wrap Dress,160.0,3,0.1,432.0,189.0,40
+O50513,2025-01-24,C10071,Repeat,Organic Search,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.05,133.95,123.0,77
+O50513,2025-01-24,C10071,Repeat,Organic Search,Northeast,P1003,Bottoms,Tailored Pant,89.0,2,0.05,169.1,331.0,61
+O50514,2025-06-05,C10019,VIP,Web,West,P1011,Dresses,Travel Dress,157.92,1,0.2,126.34,122.0,77
+O50515,2025-03-01,C10252,Repeat,Web,Midwest,P1002,Tops,Everyday Shirt,71.0,2,0.05,134.9,157.0,67
+O50515,2025-03-01,C10252,Repeat,Web,Midwest,P1007,Outerwear,Layer Jacket,196.0,2,0.0,392.0,230.0,40
+O50516,2025-05-01,C10049,VIP,Paid Social,South,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,330.0,61
+O50516,2025-05-01,C10049,VIP,Paid Social,South,P1012,Loungewear,Soft Set,78.0,2,0.0,156.0,303.0,81
+O50517,2025-03-11,C10275,New,Organic Search,West,P1013,Loungewear,Relaxed Jogger,85.0,2,0.05,161.5,354.0,79
+O50517,2025-03-11,C10275,New,Organic Search,West,P1001,Tops,Air Tunic,62.0,3,0.0,186.0,86.0,72
+O50518,2025-08-21,C10198,Repeat,Mobile App,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,208.0,41
+O50519,2025-12-10,C10189,VIP,Web,West,P1014,Loungewear,Cozy Hoodie,126.36,1,0.0,126.36,69.0,49
+O50519,2025-12-10,C10189,VIP,WEB,West,P1012,Loungewear,Soft Set,84.24,2,0.0,168.48,301.0,81
+O50520,2025-12-23,C10380,Repeat,Mobile App,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,188.0,40
+O50520,2025-12-23,C10380,Repeat,Mobile App,Midwest,P1010,Dresses,Shift Dress,142.0,1,0.05,134.9,261.0,75
+O50521,2025-08-03,C10276,Repeat,Web,South,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,85.0,72
+O50522,2025-03-21,C10300,New,Web,West,P1011,dresses,Travel Dress,141.0,1,0.2,112.8,121.0,77
+O50523,2025-12-02,C10212,Repeat,Mobile App,Northeast,P1006,Outerwear,Commuter Blazer,174.0,4,0.0,696.0,341.0,51
+O50524,2025-09-08,C10050,Repeat,Web,Midwest,P1012,Loungewear,Soft Set,78.0,2,0.05,148.2,299.0,81
+O50525,2025-07-28,C10315,VIP,Web,West,P1004,Bottoms,Easy Trouser,116.0,1,0.2,92.8,137.0,79
+O50525,2025-07-28,C10315,VIP,Web,West,P1005,Bottoms,Weekend Skirt,109.0,3,0.0,327.0,205.0,41
+O50526,2025-01-17,C10143,Repeat,Organic Search,South,P1011,dresses,Travel Dress,141.0,2,0.2,225.6,119.0,77
+O50527,2025-07-09,C10353,Repeat,Web,West,P1002,Tops,Everyday Shirt,71.0,3,0.2,170.4,154.0,67
+O50527,2025-07-09,C10353,Repeat,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,3,0.0,255.0,351.0,79
+O50527,2025-07-09,C10353,Repeat,Web,West,P1009,Dresses,Wrap Dress,179.2,1,0.05,170.24,187.0,40
+O50528,2025-08-16,C10111,Repeat,Web,West,P1001,Tops,Air Tunic,62.0,2,0.1,111.6,83.0,72
+O50529,2025-05-01,C10227,New,Web,South,P1007,Outerwear,Layer Jacket,196.0,2,0.1,352.8,228.0,40
+O50529,2025-05-01,C10227,New,Web,South,P1010,Dresses,Shift Dress,159.04,2,0.15,270.37,259.0,75
+O50529,2025-05-01,C10227,New,Web,South,P1000,Tops,Classic Tee,78.0,1,0.05,74.1,184.0,49
+O50530,2025-02-20,C10185,New,Mobile App,South,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,258.0,75
+O50531,2025-07-08,C10351,Repeat,Mobile App,Northeast,P1001,Tops,Air Tunic,62.0,2,0.15,105.4,81.0,72
+O50531,2025-07-08,C10351,Repeat,Mobile App,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.05,207.1,335.0,47
+O50531,2025-07-08,C10351,Repeat,Mobile App,Northeast,P1007,Outerwear,Layer Jacket,196.0,3,0.15,499.8,225.0,40
+O50532,2025-11-27,C10278,Repeat,Web,South,P1009,Dresses,Wrap Dress,160.0,2,0.15,272.0,185.0,40
+O50533,2025-02-01,C10183,New,Mobile App,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,80.0,72
+O50533,2025-02-01,C10183,New,Mobile App,South,P1007,Outerwear,Layer Jacket,196.0,1,0.05,186.2,224.0,40
+O50534,2025-05-22,C10203,Repeat,Paid Social,West,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,153.0,67
+O50535,2025-03-04,C10097,VIP,Organic Search,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,3,0.0,351.0,66.0,49
+O50536,2025-02-16,C10232,New,Email Campaign,South,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,79.0,72
+O50537,2025-04-19,C10339,New,Web,Northeast,P1010,Dresses,Shift Dress,159.04,1,0.0,159.04,257.0,75
+O50538,2025-11-24,C10328,Repeat,Mobile App,Midwest,P1008,Outerwear,Transit Coat,252.88,1,0.15,214.95,334.0,47
+O50538,2025-11-24,C10328,Repeat,Mobile App,Midwest,P1004,Bottoms,Easy Trouser,116.0,4,0.2,371.2,133.0,79
+O50539,2025-01-11,C10305,Repeat,Mobile App,Midwest,P1013,Loungewear,Relaxed Jogger,91.8,1,0.05,87.21,350.0,79
+O50540,2025-06-20,C10025,VIP,Email Campaign,South,P1012,Loungewear,Soft Set,78.0,1,0.15,66.3,298.0,81
+O50541,2025-03-06,C10124,Repeat,Email Campaign,South,P1013,Loungewear,Relaxed Jogger,85.0,2,0.15,144.5,348.0,79
+O50541,2025-03-06,C10124,Repeat,Email Campaign,South,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,152.0,67
+O50542,2025-10-17,C10402,Repeat,Paid Social,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,184.0,40
+O50542,2025-10-17,C10402,Repeat,Paid Social,Midwest,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,256.0,75
+O50542,2025-10-17,C10402,Repeat,Paid Social,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,204.0,41
+O50543,2025-02-05,C10105,New,Web,Northeast,P1012,Loungewear,Soft Set,84.24,1,0.05,80.03,297.0,81
+O50543,2025-02-05,C10105,New,Web,Northeast,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,183.0,49
+O50543,2025-02-05,C10105,New,Web,Northeast,P1013,Loungewear,Relaxed Jogger,91.8,1,0.05,87.21,347.0,79
+O50544,2025-10-11,C10391,New,Organic Search,South,P1002,tops,Everyday Shirt,71.0,2,0.05,134.9,150.0,67
+O50545,2025-10-28,C10106,Repeat,Mobile App,West,P1002,Tops,Everyday Shirt,71.0,2,0.05,134.9,148.0,67
+O50546,2025-04-30,C10110,Repeat,Web,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,346.0,79
+O50546,2025-04-30,C10110,Repeat,Web,Midwest,P1009,Dresses,Wrap Dress,179.2,1,0.05,170.24,183.0,40
+O50547,2025-03-17,C10168,Repeat,Email Campaign,South,P1008,Outerwear,Transit Coat,218.0,1,0.2,174.4,333.0,47
+O50547,2025-03-17,C10168,Repeat,Email Campaign,South,P1001,Tops,Air Tunic,62.0,1,0.2,49.6,78.0,72
+O50547,2025-03-17,C10168,Repeat,Email Campaign,South,P1011,Dresses,Travel Dress,141.0,1,0.2,112.8,118.0,77
+O50548,2025-11-02,C10403,Repeat,Organic Search,,P1003,Bottoms,Tailored Pant,89.0,4,0.05,338.2,326.0,61
+O50548,2025-11-02,C10403,Repeat,Organic Search,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,2,0.0,234.0,64.0,49
+O50549,2025-05-22,C10001,Repeat,Web,West,P1005,Bottoms,Weekend Skirt,109.0,3,0.05,310.65,201.0,41
+O50549,2025-05-22,C10001,Repeat,Web,West,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,182.0,49
+O50550,2025-03-08,C10074,Repeat,Web,West,P1010,Dresses,Shift Dress,142.0,1,0.15,120.7,255.0,75
+O50550,2025-03-08,C10074,Repeat,Web,West,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,147.0,67
+O50550,2025-03-08,C10074,Repeat,Web,West,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,77.0,72
+O50551,2025-05-09,C10276,VIP,Mobile App,South,P1009,Dresses,Wrap Dress,179.2,2,0.15,304.64,181.0,40
+O50552,2025-03-31,C10408,New,Web,South,P1009,Dresses,Wrap Dress,160.0,2,0.15,272.0,179.0,40
+O50553,2025-12-05,C10056,Repeat,Web,South,P1013,Loungewear,Relaxed Jogger,91.8,1,0.1,82.62,345.0,79
+O50553,2025-12-05,C10056,Repeat,Web,South,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,132.0,79
+O50554,2025-03-09,C10013,VIP,Organic Search,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,146.0,67
+O50555,2025-07-03,C10007,New,Web,Midwest,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,324.0,61
+O50555,2025-07-03,C10007,New,Web,Midwest,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,76.0,72
+O50556,2025-05-02,C10404,Repeat,Web,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,340.0,51
+O50556,2025-05-02,C10404,Repeat,Web,West,P1009,Dresses,Wrap Dress,179.2,1,0.0,179.2,178.0,40
+O50557,2025-06-15,C10301,Repeat,Web,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.1,105.3,63.0,49
+O50558,2025-03-31,C10008,Repeat,Mobile App,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.05,152.0,177.0,40
+O50558,2025-03-31,C10008,Repeat,Mobile App,Midwest,P1007,Outerwear,Layer Jacket,196.0,1,0.05,186.2,223.0,40
+O50558,2025-03-31,C10008,Repeat,Mobile App,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.2,71.2,323.0,61
+O50559,2025-01-27,C10135,New,Web,West,P1007,Outerwear,Layer Jacket,196.0,1,0.05,186.2,222.0,40
+O50560,2025-08-04,C10064,Repeat,Email Campaign,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,344.0,79
+O50561,2025-02-28,C10269,Repeat,Organic Search,West,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,322.0,61
+O50562,2025-02-02,C10381,New,PAID SOCIAL,West,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,117.0,77
+O50563,2025-08-18,C10243,Repeat,Email Campaign,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,343.0,79
+O50564,2025-07-05,C10398,VIP,Web,West,P1005,Bottoms,Weekend Skirt,109.0,2,0.15,185.3,199.0,41
+O50564,2025-07-05,C10398,VIP,Web,West,P1009,Dresses,Wrap Dress,179.2,1,0.2,$143.36,176.0,40
+O50564,2025-07-05,C10398,VIP,Web,West,P1004,Bottoms,Easy Trouser,116.0,1,0.05,110.2,131.0,79
+O50565,2025-10-31,C10262,VIP,Organic Search,South,P1010,Dresses,Shift Dress,142.0,2,0.0,284.0,253.0,75
+O50565,2025-10-31,C10262,VIP,Organic Search,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,198.0,41
+O50566,2025-08-20,C10055,Repeat,Mobile App,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,197.0,41
+O50566,2025-08-20,C10055,Repeat,Mobile App,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.05,134.9,252.0,75
+O50567,2025-04-24,C10257,Repeat,Organic Search,South,P1014,Loungewear,Cozy Hoodie,117.0,2,0.05,222.3,61.0,49
+O50568,2025-01-23,C10314,New,Email Campaign,West,P1006,Outerwear,Commuter Blazer,150.0,3,0.2,360.0,337.0,51
+O50569,2025-12-04,C10372,Repeat,ORGANIC SEARCH,West,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,130.0,79
+O50569,2025-12-04,C10372,Repeat,Organic Search,West,P1001,Tops,Air Tunic,62.0,2,0.05,117.8,74.0,72
+O50570,2025-06-04,C10266,VIP,Organic Search,Northeast,P1006,Outerwear,Commuter Blazer,150.0,1,0.15,127.5,336.0,51
+O50571,2025-11-26,C10234,New,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,0.05,74.1,181.0,49
+O50572,2025-02-01,C10015,New,Web,Midwest,P1009,dresses,Wrap Dress,160.0,1,0.0,160.0,175.0,40
+O50572,2025-02-01,C10015,New,Web,Midwest,P1013,Loungewear,Relaxed Jogger,91.8,1,0.1,82.62,342.0,79
+O50573,2025-07-25,C10245,Repeat,Mobile App,Midwest,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,320.0,61
+O50573,2025-07-25,C10245,Repeat,Mobile App,Midwest,P1011,Dresses,Travel Dress,157.92,2,0.0,315.84,115.0,77
+O50574,2025-12-18,C10218,Repeat,Mobile App,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,145.0,67
+O50575,2025-09-09,C10055,Repeat,Mobile App,,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,251.0,75
+O50575,2025-09-09,C10055,Repeat,Mobile App,Midwest,P1001,Tops,Air Tunic,62.0,2,0.05,117.8,72.0,72
+O50575,2025-09-09,C10055,Repeat,Mobile App,Midwest,P1006,Outerwear,Commuter Blazer,174.0,3,0.0,522.0,333.0,51
+O50576,2025-08-16,C10364,Repeat,Web,West,P1005,Bottoms,Weekend Skirt,109.0,3,0.05,310.65,194.0,41
+O50577,2025-02-11,C10037,New,WEB,West,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,250.0,75
+O50577,2025-02-11,C10037,New,Web,West,P1002,Tops,Everyday Shirt,71.0,1,0.15,60.35,144.0,67
+O50578,2025-11-08,C10164,VIP,Web,West,P1010,Dresses,Shift Dress,142.0,1,0.05,134.9,249.0,75
+O50578,2025-11-08,C10164,VIP,Web,West,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,296.0,81
+O50579,2025-02-03,C10075,New,Web,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,193.0,41
+O50579,2025-02-03,C10075,New,Web,Midwest,P1008,Outerwear,Transit Coat,218.0,2,0.0,436.0,331.0,47
+O50580,2025-05-21,C10064,VIP,Web,Northeast,P1008,Outerwear,Transit Coat,218.0,3,0.2,523.2,328.0,47
+O50581,2025-11-21,C10319,Repeat,Paid Social,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,$117.00,60.0,49
+O50582,2025-10-08,C10299,Repeat,Web,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.05,134.9,248.0,75
+O50583,2025-06-16,C10364,Repeat,Organic Search,Midwest,P1005,Bottoms,Weekend Skirt,109.0,2,0.2,174.4,191.0,41
+O50584,2025-11-02,C10195,Repeat,Mobile App,Midwest,P1002,Tops,Everyday Shirt,71.0,3,0.0,213.0,141.0,67
+O50585,2025-05-31,C10271,Repeat,Web,Northeast,P1008,Outerwear,Transit Coat,218.0,2,0.1,392.4,326.0,47
+O50585,2025-05-31,C10271,Repeat,Web,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,140.0,67
+O50586,2025-09-16,C10232,Repeat,Paid Social,Northeast,P1007,Outerwear,Layer Jacket,227.36,1,0.0,227.36,221.0,40
+O50587,2025-08-09,C10309,VIP,Web,Northeast,P1006,Outerwear,Commuter Blazer,150.0,1,0.05,142.5,332.0,51
+O50588,2025-12-26,C10050,New,Web,Midwest,P1008,Outerwear,Transit Coat,252.88,1,0.0,252.88,325.0,47
+O50588,2025-12-26,C10050,New,Web,Midwest,P1007,Outerwear,Layer Jacket,227.36,2,0.05,431.98,219.0,40
+O50589,2025-12-02,C10058,Repeat,Mobile App,West,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,139.0,67
+O50590,2025-10-10,C10333,New,Web,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,59.0,49
+O50591,2025-04-21,C10369,New,Mobile App,West,P1013,Loungewear,Relaxed Jogger,85.0,2,0.15,144.5,340.0,79
+O50592,2025-08-20,C10220,VIP,Email Campaign,South,P1004,Bottoms,Easy Trouser,116.0,1,0.1,$104.40,129.0,79
+O50592,2025-08-20,C10220,VIP,Email Campaign,South,P1008,Outerwear,Transit Coat,218.0,1,0.15,185.3,324.0,47
+O50593,2025-07-31,C10116,Repeat,Web,South,P1000,tops,Classic Tee,78.0,1,0.1,70.2,180.0,49
+O50594,2025-08-21,C10173,New,Web,West,P1012,Loungewear,Soft Set,78.0,2,0.1,140.4,294.0,81
+O50595,2025-08-01,C10204,Repeat,Web,West,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,319.0,61
+O50595,2025-08-01,C10204,Repeat,Web,West,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,293.0,81
+O50596,2025-02-18,C10373,New,Web,Midwest,P1013,Loungewear,Relaxed Jogger,91.8,2,0.15,156.06,338.0,79
+O50596,2025-02-18,C10373,New,Web,Midwest,P1000,Tops,Classic Tee,78.0,2,0.1,140.4,178.0,49
+O50597,2025-08-07,C10160,VIP,Web,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.0,78.0,292.0,81
+O50598,2025-12-07,C10160,Repeat,Mobile App,Midwest,P1012,Loungewear,Soft Set,84.24,1,0.1,75.82,291.0,81
+O50598,2025-12-07,C10160,Repeat,Mobile App,Midwest,P1013,Loungewear,Relaxed Jogger,91.8,1,0.0,91.8,337.0,79
+O50598,2025-12-07,C10160,Repeat,Mobile App,Midwest,P1007,Outerwear,Layer Jacket,227.36,2,0.1,409.25,217.0,40
+O50599,2025-07-11,C10130,Repeat,Email Campaign,South,P1002,Tops,Everyday Shirt,71.0,2,0.1,127.8,137.0,67
+O50600,2025-12-18,C10078,Repeat,Web,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,190.0,41
+O50600,2025-12-18,C10078,Repeat,Web,South,P1011,Dresses,Travel Dress,141.0,1,0.1,126.9,114.0,77
+O50601,2025-02-04,C10242,Repeat,Mobile App,West,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,135.0,67
+O50601,2025-02-04,C10242,Repeat,Mobile App,West,P1003,Bottoms,Tailored Pant,89.0,2,0.1,160.2,317.0,61
+O50601,2025-02-04,C10242,Repeat,Mobile App,West,P1012,Loungewear,Soft Set,84.24,1,0.05,80.03,290.0,81
+O50602,2025-02-13,C10046,New,Web,Northeast,P1014,Loungewear,Cozy Hoodie,126.36,1,0.1,113.72,58.0,49
+O50603,2025-08-10,C10047,Repeat,Mobile App,,P1000,Tops,Classic Tee,78.0,4,0.0,312.0,174.0,49
+O50603,2025-08-10,C10047,Repeat,Mobile App,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,336.0,79
+O50604,2025-07-10,C10049,Repeat,Organic Search,Northeast,P1000,Tops,Classic Tee,78.0,2,0.0,156.0,172.0,49
+O50604,2025-07-10,C10049,Repeat,Organic Search,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,289.0,81
+O50605,2025-03-08,C10415,New,Mobile App,Midwest,P1005,Bottoms,Weekend Skirt,109.0,2,0.05,207.1,188.0,41
+O50605,2025-03-08,C10415,New,Mobile App,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,134.0,67
+O50605,2025-03-08,C10415,New,Mobile App,Midwest,P1007,Outerwear,Layer Jacket,196.0,1,0.1,176.4,216.0,40
+O50606,2025-01-31,C10284,New,Web,South,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,174.0,40
+O50606,2025-01-31,C10284,New,Web,South,P1006,Outerwear,Commuter Blazer,150.0,2,0.05,285.0,330.0,51
+O50607,2025-10-15,C10300,New,Mobile App,Northeast,P1000,Tops,Classic Tee,78.0,2,0.15,132.6,170.0,49
+O50607,2025-10-15,C10300,New,Mobile App,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.2,112.8,113.0,77
+O50608,2025-06-18,C10287,VIP,Organic Search,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,2,0.1,153.0,334.0,79
+O50609,2025-03-04,C10343,Repeat,Organic Search,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,333.0,79
+O50609,2025-03-04,C10343,Repeat,Organic Search,South,P1005,Bottoms,Weekend Skirt,109.0,2,0.2,174.4,186.0,41
+O50610,2025-07-01,C10210,VIP,Mobile App,South,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,133.0,67
+O50611,2025-08-05,C10340,New,Web,West,P1004,Bottoms,Easy Trouser,116.0,1,,98.6,128.0,79
+O50612,2025-01-27,C10369,New,Email Campaign,West,P1002,Tops,Everyday Shirt,71.0,2,0.1,127.8,131.0,67
+O50612,2025-01-27,C10369,New,Email Campaign,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.15,92.65,185.0,41
+O50613,2025-11-04,C10147,New,Mobile App,West,P1011,Dresses,Travel Dress,141.0,3,0.0,423.0,110.0,77
+O50614,2025-06-30,C10159,VIP,Web,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,4,0.15,289.0,329.0,79
+O50615,2025-10-23,C10053,New,Mobile App,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.05,80.75,328.0,79
+O50616,2025-04-19,C10259,VIP,MOBILE APP,South,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,,81
+O50616,2025-04-19,C10259,VIP,Mobile App,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,184.0,41
+O50617,2025-12-03,C10079,VIP,Web,West,P1005,bottoms,Weekend Skirt,109.0,1,0.05,103.55,183.0,41
+O50618,2025-04-25,C10246,Repeat,Mobile App,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,316.0,61
+O50619,2025-06-29,C10055,Repeat,Web,Midwest,P1014,Loungewear,Cozy Hoodie,117.0,2,0.05,222.3,,49
+O50619,2025-06-29,C10055,Repeat,Web,Midwest,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,329.0,51
+O50620,2025-07-08,C10284,Repeat,Mobile App,Midwest,P1005,Bottoms,Weekend Skirt,109.0,3,0.05,310.65,180.0,41
+O50621,2025-05-23,C10058,New,Web,West,P1001,Tops,Air Tunic,62.0,1,0.05,$58.90,218.0,72
+O50621,2025-05-23,C10058,New,Web,West,P1010,Dresses,Shift Dress,159.04,1,0.0,159.04,247.0,75
+O50622,2025-08-08,C10413,Repeat,Web,Midwest,P1010,Dresses,Shift Dress,142.0,2,0.15,241.4,245.0,75
+O50622,2025-08-08,C10413,Repeat,Web,Midwest,P1014,Loungewear,Cozy Hoodie,117.0,1,0.1,105.3,55.0,49
+O50623,2025-11-15,C10287,Repeat,Email Campaign,West,P1000,Tops,Classic Tee,78.0,1,0.15,66.3,169.0,49
+O50624,2025-12-12,C10314,VIP,Mobile App,South,P1004,Bottoms,Easy Trouser,116.0,1,0.05,110.2,127.0,79
+O50624,2025-12-12,C10314,VIP,Mobile App,South,P1014,Loungewear,Cozy Hoodie,126.36,4,0.2,404.35,51.0,49
+O50624,2025-12-12,C10314,VIP,Mobile App,South,P1006,Outerwear,Commuter Blazer,174.0,1,0.0,174.0,328.0,51
+O50625,2025-10-13,C10329,Repeat,Web,Midwest,P1014,Loungewear,Cozy Hoodie,117.0,1,0.05,111.15,50.0,49
+O50626,2025-11-08,C10013,Repeat,Web,Midwest,P1008,Outerwear,Transit Coat,252.88,1,0.1,227.59,323.0,47
+O50627,2025-12-22,C10336,Repeat,Email Campaign,South,P1012,Loungewear,Soft Set,84.24,3,0.15,214.81,285.0,81
+O50628,2025-01-15,C10136,New,Paid Social,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.05,152.0,173.0,40
+O50628,2025-01-15,C10136,New,Paid Social,Midwest,P1000,Tops,Classic Tee,78.0,2,0.1,140.4,167.0,49
+O50629,2025-05-20,C10092,Repeat,Mobile App,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,315.0,61
+O50629,2025-05-20,C10092,Repeat,Mobile App,Northeast,P1006,Outerwear,Commuter Blazer,150.0,2,0.05,285.0,326.0,51
+O50630,2025-06-08,C10359,Repeat,Paid Social,Midwest,P1009,Dresses,Wrap Dress,179.2,1,0.05,170.24,172.0,40
+O50631,2025-06-29,C10173,New,Web,South,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,166.0,49
+O50631,2025-06-29,C10173,New,Web,South,P1013,Loungewear,Relaxed Jogger,85.0,2,,170.0,326.0,79
+O50632,2025-04-03,C10003,Repeat,Email Campaign,West,P1008,Outerwear,Transit Coat,218.0,3,0.15,555.9,320.0,47
+O50633,2025-10-17,C10073,Repeat,Email Campaign,Midwest,P1008,Outerwear,Transit Coat,252.88,2,0.15,429.9,318.0,47
+O50634,2025-07-25,C10336,Repeat,Mobile App,South,P1005,Bottoms,Weekend Skirt,109.0,3,0.0,327.0,177.0,41
+O50635,2025-03-14,C10035,New,Mobile App,West,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,171.0,40
+O50636,2025-11-21,C10379,Repeat,Organic Search,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,2,0.1,153.0,324.0,79
+O50636,2025-11-21,C10379,Repeat,Organic Search,Northeast,P1008,Outerwear,Transit Coat,252.88,4,0.1,910.37,314.0,47
+O50636,2025-11-21,C10379,Repeat,Organic Search,Northeast,P1006,Outerwear,Commuter Blazer,174.0,1,0.2,139.2,325.0,51
+O50637,2025-02-16,C10015,New,Web,Midwest,P1009,Dresses,Wrap Dress,160.0,2,0.1,288.0,169.0,40
+O50637,2025-02-16,C10015,New,Web,Midwest,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,313.0,47
+O50638,2025-09-29,C10382,Repeat,PAID SOCIAL,Northeast,P1006,Outerwear,Commuter Blazer,174.0,1,0.1,156.6,324.0,51
+O50639,2025-07-12,C10110,Repeat,Mobile App,South,P1010,Dresses,Shift Dress,159.04,1,0.0,159.04,244.0,75
+O50639,2025-07-12,C10110,Repeat,Mobile App,South,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,129.0,67
+O50639,2025-07-12,C10110,Repeat,Mobile App,South,P1013,Loungewear,Relaxed Jogger,85.0,2,0.0,170.0,322.0,79
+O50640,2025-08-21,C10214,Repeat,Web,West,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,126.0,79
+O50641,2025-03-22,C10174,Repeat,Web,Midwest,P1004,Bottoms,Easy Trouser,116.0,2,0.0,232.0,124.0,79
+O50641,2025-03-22,C10174,Repeat,Web,Midwest,P1009,Dresses,Wrap Dress,160.0,2,0.05,304.0,167.0,40
+O50642,2025-06-09,C10189,Repeat,Organic Search,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,176.0,41
+O50643,2025-06-16,C10369,Repeat,Paid Social,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,175.0,41
+O50644,2025-10-18,C10397,VIP,Web,West,P1004,Bottoms,Easy Trouser,116.0,2,0.1,208.8,122.0,79
+O50645,2025-02-13,C10305,Repeat,Web,West,P1007,Outerwear,Layer Jacket,196.0,2,0.15,333.2,214.0,40
+O50645,2025-02-13,C10305,Repeat,Web,West,P1000,tops,Classic Tee,78.0,1,,$70.20,165.0,49
+O50646,2025-03-21,C10026,New,Paid Social,Northeast,P1012,Loungewear,Soft Set,78.0,2,0.1,$140.40,283.0,81
+O50647,2025-11-13,C10080,VIP,Organic Search,South,P1012,Loungewear,Soft Set,78.0,2,0.05,148.2,281.0,81
+O50647,2025-11-13,C10080,VIP,Organic Search,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,49.0,49
+O50648,2025-12-12,C10025,Repeat,Mobile App,Midwest,P1010,Dresses,Shift Dress,142.0,2,0.15,241.4,242.0,75
+O50649,2025-05-20,C10041,New,Web,South,P1014,Loungewear,Cozy Hoodie,117.0,2,0.0,234.0,250.0,49
+O50649,2025-05-20,C10041,New,Web,South,P1013,Loungewear,Relaxed Jogger,85.0,3,0.05,242.25,,79
+O50649,2025-05-20,C10041,New,Web,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,217.0,72
+O50650,2025-08-06,C10338,Repeat,Web,Northeast,P1012,Loungewear,Soft Set,78.0,2,0.05,148.2,279.0,81
+O50651,2025-11-07,C10248,Repeat,Mobile App,West,P1002,Tops,Everyday Shirt,71.0,3,0.05,202.35,126.0,67
+O50652,2025-08-01,C10226,New,Web,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,2,0.0,170.0,317.0,79
+O50652,2025-08-01,C10226,New,Web,Northeast,P1007,Outerwear,Layer Jacket,196.0,1,0.2,156.8,213.0,40
+O50653,2025-04-21,C10139,Repeat,Paid Social,West,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,216.0,72
+O50654,2025-09-20,C10386,Repeat,EMAIL CAMPAIGN,Northeast,P1008,Outerwear,Transit Coat,252.88,3,0.2,606.91,310.0,47
+O50655,2025-06-26,C10058,Repeat,Email Campaign,West,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,278.0,81
+O50656,2025-02-26,C10220,New,Organic Search,West,P1007,Outerwear,Layer Jacket,196.0,2,0.0,392.0,211.0,40
+O50657,2025-12-14,C10145,Repeat,Web,West,P1011,Dresses,Travel Dress,141.0,1,0.15,119.85,109.0,77
+O50658,2025-10-31,C10347,New,Mobile App,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.2,$56.80,125.0,67
+O50659,2025-09-27,C10249,Repeat,PAID SOCIAL,West,P1004,Bottoms,Easy Trouser,116.0,4,0.0,464.0,118.0,79
+O50660,2025-06-07,C10341,Repeat,Web,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,323.0,51
+O50661,2025-04-23,C10023,New,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.2,68.0,316.0,79
+O50662,2025-11-03,C10202,Repeat,Paid Social,South,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,314.0,61
+O50663,2025-01-04,C10028,New,WEB,South,P1014,Loungewear,Cozy Hoodie,126.36,3,0.0,379.08,247.0,49
+O50664,2025-06-04,C10104,Repeat,Organic Search,Midwest,P1008,Outerwear,Transit Coat,218.0,4,0.05,828.4,306.0,47
+O50665,2025-03-12,C10108,New,Email Campaign,Northeast,P1005,Bottoms,Weekend Skirt,109.0,2,0.15,185.3,173.0,41
+O50665,2025-03-12,C10108,New,Email Campaign,Northeast,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,215.0,72
+O50666,2025-05-11,C10391,Repeat,Web,West,P1008,Outerwear,Transit Coat,218.0,2,0.0,436.0,304.0,47
+O50667,2025-06-17,C10148,Repeat,Email Campaign,Northeast,P1006,Outerwear,Commuter Blazer,150.0,3,0.2,360.0,320.0,51
+O50667,2025-06-17,C10148,Repeat,Email Campaign,Northeast,P1012,Loungewear,Soft Set,78.0,2,0.1,140.4,276.0,81
+O50667,2025-06-17,C10148,Repeat,Email Campaign,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,1,0.15,99.45,246.0,49
+O50668,2025-01-04,C10061,New,Paid Social,South,P1007,Outerwear,Layer Jacket,196.0,1,0.05,186.2,210.0,40
+O50668,2025-01-04,C10061,New,Paid Social,South,P1002,tops,Everyday Shirt,71.0,3,0.05,202.35,122.0,67
+O50669,2025-08-09,C10254,VIP,Web,Northeast,P1012,Loungewear,Soft Set,78.0,2,0.0,$156.00,274.0,81
+O50670,2025-03-08,C10089,New,Paid Social,Midwest,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,117.0,79
+O50671,2025-09-30,C10194,Repeat,Mobile App,South,P1009,Dresses,Wrap Dress,160.0,1,,160.0,166.0,40
+O50672,2025-04-28,C10360,New,Email Campaign,,P1011,Dresses,Travel Dress,157.92,1,0.15,134.23,108.0,77
+O50672,2025-04-28,C10360,New,Email Campaign,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,315.0,79
+O50673,2025-10-14,C10256,Repeat,Email Campaign,West,P1013,Loungewear,Relaxed Jogger,85.0,4,0.1,306.0,311.0,79
+O50674,2025-07-01,C10342,Repeat,Mobile App,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,303.0,47
+O50675,2025-07-23,C10036,VIP,Paid Social,Midwest,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,214.0,72
+O50676,2025-01-22,C10379,New,Organic Search,West,P1002,Tops,Everyday Shirt,71.0,3,0.1,$191.70,119.0,67
+O50677,2025-01-10,C10223,New,Web,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.2,56.8,118.0,67
+O50678,2025-02-09,C10235,Repeat,Organic Search,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,172.0,41
+O50679,2025-10-22,C10160,VIP,Mobile App,West,P1003,Bottoms,Tailored Pant,89.0,3,0.0,267.0,311.0,61
+O50679,2025-10-22,C10160,VIP,Mobile App,West,P1011,Dresses,Travel Dress,141.0,3,0.15,359.55,105.0,77
+O50680,2025-10-21,C10219,Repeat,Paid Social,South,P1013,Loungewear,Relaxed Jogger,85.0,2,,161.5,309.0,79
+O50680,2025-10-21,C10219,Repeat,Paid Social,South,P1005,Bottoms,Weekend Skirt,109.0,2,0.05,207.1,170.0,41
+O50681,2025-12-30,C10207,VIP,Web,West,P1004,Bottoms,Easy Trouser,116.0,2,0.2,185.6,115.0,79
+O50681,2025-12-30,C10207,VIP,Web,West,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,165.0,40
+O50682,2025-08-02,C10327,VIP,Mobile App,South,P1011,Dresses,Travel Dress,141.0,1,0.15,119.85,104.0,77
+O50682,2025-08-02,C10327,VIP,Mobile App,South,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,114.0,79
+O50683,2025-02-28,C10148,New,Mobile App,Northeast,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,209.0,40
+O50684,2025-01-11,C10207,New,Paid Social,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,169.0,41
+O50684,2025-01-11,C10207,New,Paid Social,Northeast,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,116.0,67
+O50685,2025-03-29,C10166,New,Web,Northeast,P1011,Dresses,Travel Dress,141.0,2,0.0,282.0,102.0,77
+O50686,2025-11-13,C10410,Repeat,Web,South,P1009,Dresses,Wrap Dress,160.0,2,0.05,304.0,163.0,40
+O50687,2025-12-20,C10235,Repeat,Mobile App,West,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,212.0,72
+O50688,2025-02-15,C10185,Repeat,Mobile App,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.15,92.65,168.0,41
+O50688,2025-02-15,C10185,Repeat,Mobile App,South,P1001,Tops,Air Tunic,62.0,2,0.05,117.8,210.0,72
+O50689,2025-02-24,C10223,VIP,Mobile App,South,P1000,Tops,Classic Tee,78.0,3,0.0,234.0,162.0,49
+O50689,2025-02-24,C10223,VIP,Mobile App,South,P1012,Loungewear,Soft Set,84.24,2,0.0,168.48,272.0,81
+O50690,2025-08-12,C10124,VIP,Mobile App,South,P1011,Dresses,Travel Dress,141.0,2,0.1,253.8,100.0,77
+O50690,2025-08-12,C10124,VIP,Mobile App,South,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,162.0,40
+O50691,2025-07-25,C10301,VIP,Paid Social,South,P1010,Dresses,Shift Dress,159.04,1,0.05,151.09,241.0,75
+O50692,2025-02-10,C10268,Repeat,Email Campaign,Northeast,P1013,Loungewear,Relaxed Jogger,91.8,2,0.1,165.24,307.0,79
+O50692,2025-02-10,C10268,Repeat,Email Campaign,Northeast,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,161.0,49
+O50693,2025-06-08,C10202,Repeat,Paid Social,West,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,302.0,47
+O50694,2025-06-23,C10381,Repeat,Paid Social,Midwest,P1003,Bottoms,Tailored Pant,89.0,2,0.15,151.3,309.0,61
+O50695,2025-06-20,C10113,Repeat,Mobile App,West,P1001,Tops,Air Tunic,62.0,1,0.15,52.7,209.0,72
+O50695,2025-06-20,C10113,Repeat,Mobile App,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,245.0,49
+O50695,2025-06-20,C10113,Repeat,Mobile App,West,P1003,Bottoms,Tailored Pant,89.0,1,0.15,75.65,308.0,61
+O50696,2025-03-28,C10398,Repeat,Mobile App,Northeast,P1001,Tops,Air Tunic,62.0,3,0.05,176.7,206.0,72
+O50696,2025-03-28,C10398,Repeat,Mobile App,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.1,$80.10,307.0,61
+O50697,2025-09-19,C10039,Repeat,Web,West,P1000,Tops,Classic Tee,78.0,1,0.15,$66.30,160.0,49
+O50698,2025-02-28,C10324,New,Web,South,P1011,Dresses,Travel Dress,141.0,2,0.0,282.0,98.0,77
+O50698,2025-02-28,C10324,New,Web,South,P1000,Tops,Classic Tee,78.0,3,0.05,222.3,157.0,49
+O50699,2025-09-19,C10271,Repeat,Organic Search,South,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,115.0,67
+O50700,2025-06-28,C10099,VIP,Web,West,P1011,Dresses,Travel Dress,157.92,2,0.1,284.26,96.0,77
+O50701,2025-11-27,C10179,VIP,Web,Midwest,P1003,Bottoms,Tailored Pant,89.0,3,0.1,240.3,304.0,61
+O50702,2025-03-17,C10417,Repeat,Mobile App,South,P1001,Tops,Air Tunic,62.0,3,0.0,$186.00,203.0,72
+O50703,2025-02-22,C10120,New,Organic Search,South,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,113.0,79
+O50704,2025-05-12,C10074,New,Mobile App,West,P1008,Outerwear,Transit Coat,218.0,3,0.1,588.6,299.0,47
+O50705,2025-03-30,C10101,Repeat,Mobile App,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.2,120.0,319.0,51
+O50706,2025-03-20,C10308,New,Email Campaign,Northeast,P1009,Dresses,Wrap Dress,160.0,2,0.2,256.0,160.0,40
+O50706,2025-03-20,C10308,New,Email Campaign,Northeast,P1005,Bottoms,Weekend Skirt,109.0,2,0.15,185.3,166.0,41
+O50707,2025-12-02,C10389,Repeat,Paid Social,Midwest,P1007,Outerwear,Layer Jacket,227.36,1,0.1,204.62,208.0,40
+O50708,2025-04-01,C10038,New,Web,Midwest,P1010,Dresses,Shift Dress,159.04,1,0.15,135.18,240.0,75
+O50709,2025-11-18,C10395,VIP,Paid Social,South,P1003,Bottoms,Tailored Pant,89.0,1,0.05,84.55,303.0,61
+O50710,2025-08-26,C10252,Repeat,Mobile App,West,P1004,Bottoms,Easy Trouser,116.0,2,0.0,232.0,111.0,79
+O50711,2025-10-16,C10386,VIP,Organic Search,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,202.0,72
+O50711,2025-10-16,C10386,VIP,Organic Search,South,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,114.0,67
+O50712,2025-10-24,C10389,VIP,EMAIL CAMPAIGN,South,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,239.0,75
+O50713,2025-12-15,C10229,VIP,Organic Search,South,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,238.0,75
+O50714,2025-11-26,C10289,VIP,Mobile App,Northeast,P1008,Outerwear,Transit Coat,252.88,2,0.2,404.61,297.0,47
+O50714,2025-11-26,C10289,VIP,Mobile App,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.15,119.85,95.0,77
+O50715,2025-11-16,C10325,Repeat,Mobile App,West,P1010,Dresses,Shift Dress,142.0,1,0.05,134.9,237.0,75
+O50715,2025-11-16,C10325,Repeat,MOBILE APP,West,P1004,Bottoms,Easy Trouser,116.0,3,0.05,330.6,108.0,79
+O50715,2025-11-16,C10325,Repeat,Mobile App,West,P1000,Tops,Classic Tee,78.0,3,0.0,234.0,154.0,49
+O50716,2025-11-18,C10165,VIP,Paid Social,Midwest,P1006,Outerwear,Commuter Blazer,174.0,1,0.0,174.0,318.0,51
+O50717,2025-03-19,C10161,Repeat,Email Campaign,Northeast,P1010,Dresses,Shift Dress,142.0,3,0.15,362.1,234.0,75
+O50717,2025-03-19,C10161,Repeat,Email Campaign,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.2,92.8,107.0,79
+O50718,2025-02-04,C10225,New,Email Campaign,Midwest,P1006,Outerwear,Commuter Blazer,150.0,1,0.1,135.0,317.0,51
+O50719,2025-08-15,C10240,New,Web,South,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,153.0,49
+O50720,2025-06-05,C10323,VIP,Web,West,P1010,Dresses,Shift Dress,159.04,1,0.0,159.04,233.0,75
+O50721,2025-05-21,C10407,Repeat,Organic Search,West,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,106.0,79
+O50721,2025-05-21,C10407,Repeat,Organic Search,,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,207.0,40
+O50722,2025-01-29,C10302,New,Mobile App,West,P1011,Dresses,Travel Dress,141.0,2,0.1,$253.80,93.0,77
+O50722,2025-01-29,C10302,New,Mobile App,West,P1013,Loungewear,Relaxed Jogger,91.8,1,0.05,87.21,306.0,79
+O50723,2025-09-17,C10180,VIP,Email Campaign,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,105.0,79
+O50724,2025-06-08,C10037,Repeat,Web,West,P1010,Dresses,Shift Dress,159.04,1,0.05,151.09,232.0,75
+O50725,2025-08-20,C10236,VIP,Organic Search,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.05,207.1,296.0,47
+O50726,2025-01-30,C10019,New,WEB,Midwest,P1013,Loungewear,Relaxed Jogger,91.8,1,0.1,82.62,305.0,79
+O50727,2025-05-27,C10188,Repeat,Web,West,P1009,Dresses,Wrap Dress,179.2,1,0.1,161.28,159.0,40
+O50728,2025-11-27,C10039,Repeat,Web,West,P1012,Loungewear,Soft Set,78.0,3,0.15,198.9,269.0,81
+O50729,2025-11-11,C10046,Repeat,Web,West,P1004,Bottoms,Easy Trouser,116.0,3,0.05,330.6,102.0,79
+O50730,2025-09-17,C10304,VIP,Organic Search,Northeast,P1002,Tops,Everyday Shirt,71.0,2,0.1,127.8,112.0,67
+O50731,2025-08-25,C10196,Repeat,Paid Social,West,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,201.0,72
+O50731,2025-08-25,C10196,Repeat,Paid Social,West,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,101.0,79
+O50732,2025-10-11,C10297,Repeat,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,152.0,49
+O50732,2025-10-11,C10297,Repeat,Mobile App,West,P1001,Tops,Air Tunic,62.0,2,0.05,117.8,199.0,72
+O50732,2025-10-11,C10297,Repeat,Mobile App,West,P1006,Outerwear,Commuter Blazer,174.0,1,0.05,165.3,316.0,51
+O50733,2025-01-22,C10405,New,Organic Search,Northeast,P1000,Tops,Classic Tee,78.0,3,0.05,222.3,149.0,49
+O50733,2025-01-22,C10405,New,Organic Search,,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,111.0,67
+O50734,2025-10-20,C10230,VIP,Web,Northeast,P1006,Outerwear,Commuter Blazer,174.0,1,0.05,165.3,315.0,51
+O50735,2025-04-07,C10333,New,Paid Social,,P1014,Loungewear,Cozy Hoodie,117.0,4,0.0,468.0,241.0,49
+O50735,2025-04-07,C10333,New,Paid Social,West,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,110.0,67
+O50735,2025-04-07,C10333,New,Paid Social,West,P1005,Bottoms,Weekend Skirt,109.0,2,0.15,185.3,164.0,41
+O50736,2025-11-06,C10164,VIP,Mobile App,Midwest,P1002,Tops,Everyday Shirt,71.0,2,0.05,134.9,108.0,67
+O50736,2025-11-06,C10164,VIP,Mobile App,Midwest,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,198.0,72
+O50737,2025-09-14,C10243,Repeat,Paid Social,South,P1008,outerwear,Transit Coat,252.88,3,0.2,606.91,293.0,47
+O50738,2025-02-01,C10077,New,Web,Northeast,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,148.0,49
+O50739,2025-02-22,C10230,New,Web,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,292.0,47
+O50740,2025-06-25,C10415,New,Mobile App,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,4,0.0,468.0,237.0,49
+O50741,2025-02-13,C10365,New,Email Campaign,West,P1008,Outerwear,Transit Coat,218.0,1,0.15,185.3,291.0,47
+O50741,2025-02-13,C10365,New,Email Campaign,West,P1011,Dresses,Travel Dress,141.0,1,0.15,119.85,92.0,77
+O50742,2025-11-27,C10258,VIP,Mobile App,West,P1006,Outerwear,Commuter Blazer,174.0,1,0.2,$139.20,314.0,51
+O50743,2025-01-21,C10088,New,Mobile App,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,100.0,79
+O50744,2025-12-29,C10126,VIP,Mobile App,West,P1012,Loungewear,Soft Set,84.24,2,0.0,168.48,267.0,81
+O50745,2025-08-13,C10224,VIP,Web,Northeast,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,147.0,49
+O50746,2025-09-25,C10268,VIP,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,146.0,49
+O50747,2025-03-23,C10312,VIP,Paid Social,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.2,112.8,91.0,77
+O50748,2025-07-10,C10186,New,Mobile App,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.2,71.2,302.0,61
+O50748,2025-07-10,C10186,New,Mobile App,,P1004,Bottoms,Easy Trouser,116.0,1,0.15,98.6,99.0,79
+O50748,2025-07-10,C10186,New,Mobile App,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,266.0,81
+O50749,2025-07-18,C10144,Repeat,Paid Social,Midwest,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,290.0,47
+O50749,2025-07-18,C10144,Repeat,Paid Social,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.15,75.65,301.0,61
+O50750,2025-06-23,C10209,Repeat,Web,Northeast,P1006,Outerwear,Commuter Blazer,150.0,1,0.2,120.0,313.0,51
+O50750,2025-06-23,C10209,Repeat,Web,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,3,0.1,229.5,302.0,79
+O50751,2025-11-03,C10347,New,Paid Social,West,P1006,Outerwear,Commuter Blazer,174.0,1,0.0,174.0,312.0,51
+O50752,2025-11-20,C10026,Repeat,Mobile App,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.15,98.6,98.0,79
+O50752,2025-11-20,C10026,Repeat,Mobile App,Northeast,P1012,Loungewear,Soft Set,78.0,2,0.2,124.8,264.0,81
+O50753,2025-06-21,C10331,New,Web,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,311.0,51
+O50753,2025-06-21,C10331,New,Web,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,197.0,72
+O50754,2025-06-18,C10033,Repeat,Email Campaign,Midwest,P1009,Dresses,Wrap Dress,179.2,1,0.15,152.32,158.0,40
+O50755,2025-10-13,C10048,VIP,Mobile App,West,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,195.0,72
+O50756,2025-07-17,C10347,New,Email Campaign,South,P1002,Tops,Everyday Shirt,71.0,3,0.2,170.4,105.0,67
+O50757,2025-05-10,C10145,VIP,Paid Social,,P1011,Dresses,Travel Dress,157.92,1,0.0,157.92,90.0,77
+O50758,2025-12-03,C10370,Repeat,Mobile App,West,P1006,Outerwear,Commuter Blazer,174.0,1,,174.0,310.0,51
+O50759,2025-03-18,C10308,New,Email Campaign,Midwest,P1001,Tops,Air Tunic,62.0,1,0.15,52.7,194.0,72
+O50759,2025-03-18,C10308,New,Email Campaign,Midwest,P1007,Outerwear,Layer Jacket,196.0,1,0.1,176.4,206.0,40
+O50760,2025-02-11,C10170,New,Web,Midwest,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,193.0,72
+O50760,2025-02-11,C10170,New,Web,Midwest,P1012,Loungewear,Soft Set,84.24,2,0.05,160.06,262.0,81
+O50760,2025-02-11,C10170,New,Web,Midwest,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,231.0,75
+O50761,2025-12-06,C10298,New,Web,Northeast,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,145.0,49
+O50761,2025-12-06,C10298,New,Web,Northeast,P1005,Bottoms,Weekend Skirt,109.0,2,0.0,218.0,162.0,41
+O50762,2025-06-29,C10072,Repeat,Web,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,236.0,49
+O50763,2025-12-02,C10158,Repeat,Mobile App,West,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,230.0,75
+O50763,2025-12-02,C10158,Repeat,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,0.2,62.4,144.0,49
+O50764,2025-12-06,C10357,Repeat,Organic Search,,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,161.0,41
+O50765,2025-03-08,C10200,New,Paid Social,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,2,0.15,144.5,300.0,79
+O50765,2025-03-08,C10200,New,Paid Social,Northeast,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,157.0,40
+O50766,2025-12-29,C10304,Repeat,Web,West,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,97.0,79
+O50766,2025-12-29,C10304,Repeat,Web,West,P1002,tops,Everyday Shirt,71.0,3,0.15,181.05,102.0,67
+O50767,2025-06-08,C10043,VIP,Mobile App,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,261.0,81
+O50767,2025-06-08,C10043,VIP,Mobile App,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.1,196.2,289.0,47
+O50767,2025-06-08,C10043,VIP,Mobile App,Northeast,P1011,Dresses,Travel Dress,157.92,3,0.1,426.38,87.0,77
+O50768,2025-07-12,C10286,Repeat,Organic Search,Northeast,P1010,Dresses,Shift Dress,159.04,1,0.0,159.04,229.0,75
+O50768,2025-07-12,C10286,Repeat,Organic Search,Northeast,P1003,Bottoms,Tailored Pant,89.0,4,0.0,356.0,297.0,61
+O50769,2025-06-18,C10329,Repeat,Web,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.1,$135.00,309.0,51
+O50769,2025-06-18,C10329,Repeat,Web,West,P1012,Loungewear,Soft Set,78.0,3,0.1,210.6,258.0,81
+O50769,2025-06-18,C10329,Repeat,Web,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,160.0,41
+O50770,2025-03-07,C10416,Repeat,Mobile App,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,257.0,81
+O50770,2025-03-07,C10416,Repeat,Mobile App,Midwest,P1002,Tops,Everyday Shirt,71.0,2,0.15,120.7,100.0,67
+O50771,2025-12-26,C10343,Repeat,Web,Northeast,P1013,Loungewear,Relaxed Jogger,91.8,1,0.0,91.8,299.0,79
+O50772,2025-12-17,C10378,Repeat,Paid Social,West,P1013,Loungewear,Relaxed Jogger,91.8,2,0.05,174.42,297.0,79
+O50772,2025-12-17,C10378,Repeat,Paid Social,West,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,86.0,77
+O50772,2025-12-17,C10378,Repeat,Paid Social,West,P1003,Bottoms,Tailored Pant,89.0,3,0.1,240.3,294.0,61
+O50773,2025-02-17,C10269,New,Mobile App,South,P1014,Loungewear,Cozy Hoodie,126.36,2,0.0,252.72,234.0,49
+O50774,2025-12-10,C10330,Repeat,Email Campaign,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,228.0,75
+O50774,2025-12-10,C10330,Repeat,Email Campaign,Northeast,P1007,Outerwear,Layer Jacket,227.36,1,0.1,204.62,205.0,40
+O50775,2025-09-18,C10216,VIP,Paid Social,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.0,78.0,256.0,81
+O50775,2025-09-18,C10216,VIP,Paid Social,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.2,112.8,85.0,77
+O50776,2025-01-10,C10185,New,Mobile App,South,P1008,Outerwear,Transit Coat,218.0,1,0.05,207.1,288.0,47
+O50777,2025-06-08,C10185,Repeat,Paid Social,South,P1007,outerwear,Layer Jacket,196.0,1,0.0,196.0,204.0,40
+O50778,2025-04-20,C10092,New,Paid Social,Midwest,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,192.0,72
+O50778,2025-04-20,C10092,New,Paid Social,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,293.0,61
+O50779,2025-09-06,C10174,New,Paid Social,West,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,143.0,49
+O50780,2025-04-26,C10098,Repeat,MOBILE APP,Midwest,P1010,Dresses,Shift Dress,159.04,3,0.0,477.12,225.0,75
+O50781,2025-03-21,C10070,New,Web,South,P1002,Tops,Everyday Shirt,71.0,3,0.0,213.0,97.0,67
+O50781,2025-03-21,C10070,New,Web,South,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,287.0,47
+O50781,2025-03-21,C10070,New,Web,South,P1009,Dresses,Wrap Dress,160.0,1,0.15,136.0,156.0,40
+O50782,2025-06-01,C10039,Repeat,Paid Social,South,P1014,Loungewear,Cozy Hoodie,117.0,2,0.1,210.6,232.0,49
+O50783,2025-02-21,C10403,Repeat,Web,South,P1010,Dresses,Shift Dress,142.0,1,0.05,134.9,224.0,75
+O50784,2025-10-04,C10259,VIP,Web,Midwest,P1008,Outerwear,Transit Coat,252.88,1,0.15,214.95,286.0,47
+O50784,2025-10-04,C10259,VIP,Web,Midwest,P1014,Loungewear,Cozy Hoodie,117.0,2,0.1,210.6,230.0,49
+O50785,2025-09-27,C10378,Repeat,Organic Search,Northeast,P1010,Dresses,Shift Dress,142.0,2,0.0,284.0,222.0,75
+O50786,2025-12-05,C10019,New,Mobile App,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,159.0,41
+O50787,2025-11-13,C10172,VIP,Mobile App,Northeast,P1010,dresses,Shift Dress,142.0,1,0.05,134.9,221.0,75
+O50788,2025-11-02,C10067,Repeat,Organic Search,West,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,292.0,61
+O50788,2025-11-02,C10067,Repeat,Organic Search,West,P1013,Loungewear,Relaxed Jogger,85.0,2,0.15,144.5,295.0,79
+O50789,2025-03-20,C10192,New,Email Campaign,Midwest,P1008,Outerwear,Transit Coat,218.0,2,0.15,370.6,284.0,47
+O50790,2025-04-03,C10083,New,Email Campaign,Midwest,P1001,Tops,Air Tunic,62.0,1,0.15,52.7,191.0,72
+O50791,2025-11-16,C10354,VIP,Web,South,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,142.0,49
+O50792,2025-03-26,C10414,New,Email Campaign,South,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,291.0,61
+O50792,2025-03-26,C10414,New,Email Campaign,South,P1008,outerwear,Transit Coat,218.0,1,0.1,196.2,283.0,47
+O50793,2025-08-13,C10369,VIP,Paid Social,Northeast,P1009,Dresses,Wrap Dress,160.0,4,0.0,640.0,152.0,40
+O50794,2025-07-30,C10022,VIP,Mobile App,Northeast,P1004,Bottoms,Easy Trouser,116.0,3,0.0,348.0,94.0,79
+O50795,2025-12-13,C10186,VIP,Mobile App,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,3,0.0,379.08,227.0,49
+O50796,2025-05-02,C10368,Repeat,Web,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.15,99.45,226.0,49
+O50796,2025-05-02,C10368,Repeat,Web,South,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,290.0,61
+O50797,2025-11-09,C10227,Repeat,Paid Social,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,$103.55,158.0,41
+O50798,2025-08-18,C10145,Repeat,Web,South,P1009,Dresses,Wrap Dress,160.0,1,0.15,136.0,151.0,40
+O50799,2025-10-01,C10119,VIP,Web,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.2,87.2,157.0,41
+O50800,2025-06-08,C10122,VIP,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,294.0,79
+O50801,2025-08-29,C10414,Repeat,Mobile App,West,P1006,Outerwear,Commuter Blazer,150.0,2,0.1,270.0,307.0,51
+O50801,2025-08-29,C10414,Repeat,Mobile App,West,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,96.0,67
+O50802,2025-07-08,C10099,VIP,Email Campaign,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.2,68.0,,79
+O50803,2025-10-20,C10347,Repeat,Email Campaign,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,2,0.1,153.0,291.0,79
+O50804,2025-08-25,C10225,Repeat,Paid Social,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,290.0,79
+O50805,2025-05-25,C10393,Repeat,Organic Search,West,P1000,Tops,Classic Tee,78.0,2,0.2,124.8,140.0,49
+O50806,2025-07-15,C10398,VIP,Web,Northeast,P1006,Outerwear,Commuter Blazer,150.0,2,0.1,270.0,305.0,51
+O50807,2025-09-28,C10257,Repeat,Email Campaign,South,P1012,Loungewear,Soft Set,78.0,2,0.15,132.6,254.0,81
+O50808,2025-03-24,C10214,New,Mobile App,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,289.0,61
+O50808,2025-03-24,C10214,New,Mobile App,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,95.0,67
+O50808,2025-03-24,C10214,New,Mobile App,Midwest,P1010,Dresses,Shift Dress,142.0,2,0.0,284.0,219.0,75
+O50809,2025-04-13,C10418,Repeat,Mobile App,South,P1011,Dresses,Travel Dress,157.92,1,0.15,134.23,84.0,77
+O50810,2025-11-06,C10410,Repeat,Mobile App,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,156.0,41
+O50810,2025-11-06,C10410,Repeat,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,139.0,49
+O50811,2025-05-09,C10070,New,Email Campaign,South,P1014,Loungewear,Cozy Hoodie,117.0,2,0.1,210.6,224.0,49
+O50812,2025-11-25,C10026,Repeat,Paid Social,Northeast,P1005,Bottoms,Weekend Skirt,109.0,2,0.1,196.2,154.0,41
+O50812,2025-11-25,C10026,Repeat,Paid Social,Northeast,P1010,Dresses,Shift Dress,142.0,3,0.0,426.0,216.0,75
+O50813,2025-07-10,C10246,New,Organic Search,Midwest,P1014,loungewear,Cozy Hoodie,117.0,2,0.1,210.6,222.0,49
+O50814,2025-02-22,C10283,New,Paid Social,South,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,83.0,77
+O50815,2025-09-22,C10364,Repeat,Web,Northeast,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,150.0,40
+O50816,2025-05-26,C10063,Repeat,Mobile App,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.05,84.55,288.0,61
+O50817,2025-03-24,C10042,VIP,Organic Search,South,P1009,Dresses,Wrap Dress,160.0,1,0.2,128.0,149.0,40
+O50818,2025-08-19,C10139,Repeat,Paid Social,South,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,203.0,40
+O50819,2025-03-17,C10262,Repeat,Email Campaign,Northeast,P1012,loungewear,Soft Set,78.0,1,0.1,70.2,253.0,81
+O50820,2025-02-16,C10223,Repeat,Web,South,P1005,Bottoms,Weekend Skirt,109.0,4,0.0,436.0,150.0,41
+O50820,2025-02-16,C10223,Repeat,Web,South,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,94.0,67
+O50821,2025-08-19,C10113,VIP,Paid Social,Midwest,P1014,Loungewear,Cozy Hoodie,117.0,3,0.0,351.0,219.0,49
+O50822,2025-01-14,C10178,New,Mobile App,Northeast,P1006,Outerwear,Commuter Blazer,150.0,2,0.0,300.0,303.0,51
+O50823,2025-01-28,C10212,Repeat,Web,South,P1008,Outerwear,Transit Coat,218.0,2,0.0,436.0,281.0,47
+O50824,2025-09-15,C10202,VIP,Organic Search,South,P1006,Outerwear,Commuter Blazer,174.0,1,0.0,174.0,302.0,51
+O50824,2025-09-15,C10202,VIP,Organic Search,South,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,93.0,67
+O50825,2025-05-01,C10191,New,Web,South,P1005,Bottoms,Weekend Skirt,109.0,2,0.0,218.0,148.0,41
+O50826,2025-02-11,C10197,New,Web,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,$109.00,147.0,41
+O50826,2025-02-11,C10197,New,Web,South,P1011,Dresses,Travel Dress,141.0,2,0.0,282.0,81.0,77
+O50826,2025-02-11,C10197,New,Web,South,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,287.0,61
+O50827,2025-04-25,C10191,New,Mobile App,Midwest,P1009,Dresses,Wrap Dress,179.2,3,0.0,537.6,146.0,40
+O50828,2025-06-13,C10014,Repeat,Mobile App,South,P1011,Dresses,Travel Dress,157.92,3,0.0,473.76,78.0,77
+O50829,2025-11-29,C10050,VIP,Web,West,P1007,Outerwear,Layer Jacket,227.36,2,0.1,409.25,201.0,40
+O50829,2025-11-29,C10050,VIP,Web,West,P1008,Outerwear,Transit Coat,252.88,1,0.0,252.88,,47
+O50829,2025-11-29,C10050,VIP,Web,West,P1012,Loungewear,Soft Set,78.0,1,0.15,66.3,252.0,81
+O50830,2025-03-16,C10171,New,Mobile App,West,P1005,Bottoms,Weekend Skirt,109.0,3,0.0,327.0,144.0,41
+O50831,2025-01-20,C10070,Repeat,Web,Northeast,P1012,Loungewear,Soft Set,84.24,3,0.0,252.72,249.0,81
+O50832,2025-08-30,C10146,VIP,Email Campaign,West,P1003,Bottoms,Tailored Pant,89.0,3,0.15,226.95,284.0,61
+O50832,2025-08-30,C10146,VIP,Email Campaign,West,P1002,Tops,Everyday Shirt,71.0,3,0.1,191.7,90.0,67
+O50833,2025-03-13,C10356,New,Organic Search,West,P1000,Tops,Classic Tee,78.0,2,0.0,156.0,137.0,49
+O50834,2025-12-28,C10388,VIP,Mobile App,Midwest,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,215.0,75
+O50835,2025-08-18,C10240,Repeat,Web,,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,136.0,49
+O50836,2025-01-03,C10315,New,Web,South,P1009,Dresses,Wrap Dress,160.0,2,0.15,$272.00,144.0,40
+O50837,2025-01-10,C10040,New,Web,Midwest,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,279.0,47
+O50838,2025-04-21,C10131,New,Web,West,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,135.0,49
+O50838,2025-04-21,C10131,New,Web,West,P1004,Bottoms,Easy Trouser,116.0,3,0.0,348.0,91.0,79
+O50838,2025-04-21,C10131,New,Web,West,P1010,Dresses,Shift Dress,159.04,1,0.0,159.04,214.0,75
+O50839,2025-10-08,C10076,Repeat,Web,South,P1003,Bottoms,Tailored Pant,89.0,2,0.05,169.1,282.0,61
+O50839,2025-10-08,C10076,Repeat,Web,,P1011,Dresses,Travel Dress,141.0,1,0.15,119.85,77.0,77
+O50840,2025-11-08,C10372,Repeat,Web,Midwest,P1012,Loungewear,Soft Set,78.0,2,0.05,148.2,247.0,81
+O50840,2025-11-08,C10372,Repeat,Web,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.05,80.75,289.0,79
+O50841,2025-08-05,C10270,Repeat,Mobile App,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.1,105.3,218.0,49
+O50841,2025-08-05,C10270,Repeat,MOBILE APP,,P1008,Outerwear,Transit Coat,218.0,4,0.0,872.0,275.0,47
+O50842,2025-05-28,C10056,Repeat,Organic Search,Northeast,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,190.0,72
+O50843,2025-06-04,C10121,Repeat,Web,,P1006,Outerwear,Commuter Blazer,150.0,1,0.1,135.0,301.0,51
+O50844,2025-01-25,C10062,New,Mobile App,Northeast,P1004,bottoms,Easy Trouser,116.0,1,0.0,116.0,90.0,79
+O50845,2025-08-03,C10122,New,Email Campaign,West,P1000,Tops,Classic Tee,78.0,2,0.2,124.8,133.0,49
+O50845,2025-08-03,C10122,New,Email Campaign,West,P1011,Dresses,Travel Dress,141.0,3,0.15,359.55,281.0,77
+O50846,2025-02-26,C10032,New,Mobile App,West,P1012,Loungewear,Soft Set,84.24,1,0.15,71.6,246.0,81
+O50847,2025-11-02,C10255,VIP,Web,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,89.0,79
+O50848,2025-01-09,C10274,New,Mobile App,Northeast,P1012,Loungewear,Soft Set,84.24,1,0.2,67.39,245.0,81
+O50849,2025-09-21,C10323,VIP,Paid Social,South,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,244.0,81
+O50850,2025-05-04,C10294,Repeat,Web,South,P1011,Dresses,Travel Dress,157.92,2,0.0,315.84,,77
+O50850,2025-05-04,C10294,Repeat,Web,South,P1006,Outerwear,Commuter Blazer,150.0,3,0.1,405.0,298.0,51
+O50851,2025-03-15,C10367,Repeat,Organic Search,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,288.0,79
+O50852,2025-08-08,C10149,VIP,Web,Northeast,P1003,Bottoms,Tailored Pant,89.0,3,0.05,253.65,279.0,61
+O50852,2025-08-08,C10149,VIP,Web,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,243.0,81
+O50852,2025-08-08,C10149,VIP,Web,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,143.0,41
+O50853,2025-11-11,C10000,VIP,Web,South,P1009,dresses,Wrap Dress,160.0,1,0.0,160.0,143.0,40
+O50854,2025-05-04,C10180,New,Paid Social,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,4,0.05,323.0,284.0,79
+O50854,2025-05-04,C10180,New,Paid Social,Northeast,P1002,Tops,Everyday Shirt,71.0,3,0.0,213.0,87.0,67
+O50855,2025-08-02,C10292,Repeat,Email Campaign,South,P1013,Loungewear,Relaxed Jogger,85.0,2,0.1,153.0,282.0,79
+O50855,2025-08-02,C10292,Repeat,Email Campaign,South,P1014,Loungewear,Cozy Hoodie,117.0,3,0.15,298.35,215.0,49
+O50856,2025-12-07,C10095,VIP,Organic Search,Northeast,P1013,Loungewear,Relaxed Jogger,91.8,1,0.05,87.21,281.0,79
+O50857,2025-02-13,C10342,Repeat,Paid Social,South,P1005,Bottoms,Weekend Skirt,109.0,3,0.1,294.3,140.0,41
+O50857,2025-02-13,C10342,Repeat,Paid Social,South,P1013,Loungewear,Relaxed Jogger,91.8,1,0.0,91.8,280.0,79
+O50858,2025-07-04,C10268,Repeat,Web,Northeast,P1012,Loungewear,Soft Set,78.0,3,0.0,234.0,240.0,81
+O50859,2025-09-27,C10034,Repeat,Mobile App,Midwest,P1009,Dresses,Wrap Dress,160.0,2,0.1,288.0,141.0,40
+O50859,2025-09-27,C10034,Repeat,Mobile App,Midwest,P1011,Dresses,Travel Dress,141.0,2,0.0,282.0,277.0,77
+O50860,2025-09-17,C10278,Repeat,Web,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,139.0,41
+O50861,2025-09-17,C10402,Repeat,Paid Social,West,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,140.0,40
+O50862,2025-01-11,C10283,New,Mobile App,West,P1011,Dresses,Travel Dress,141.0,1,0.05,133.95,276.0,77
+O50863,2025-08-29,C10199,Repeat,Email Campaign,South,P1005,Bottoms,Weekend Skirt,109.0,2,0.2,174.4,137.0,41
+O50863,2025-08-29,C10199,Repeat,Email Campaign,South,P1011,Dresses,Travel Dress,141.0,1,0.2,112.8,275.0,77
+O50864,2025-11-22,C10022,VIP,Web,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,136.0,41
+O50864,2025-11-22,C10022,VIP,Web,Northeast,P1006,Outerwear,Commuter Blazer,174.0,2,0.2,278.4,296.0,51
+O50865,2025-07-11,C10198,VIP,Paid Social,Midwest,P1011,Dresses,Travel Dress,157.92,1,0.0,157.92,274.0,77
+O50866,2025-01-09,C10129,Repeat,Web,,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,189.0,72
+O50866,2025-01-09,C10129,Repeat,Web,South,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,273.0,77
+O50866,2025-01-09,C10129,Repeat,Web,South,P1009,Dresses,Wrap Dress,160.0,1,0.15,136.0,139.0,40
+O50867,2025-02-04,C10182,New,Web,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,138.0,40
+O50868,2025-05-04,C10176,VIP,Web,West,P1007,Outerwear,Layer Jacket,196.0,1,0.05,186.2,200.0,40
+O50869,2025-12-03,C10375,Repeat,Mobile App,Northeast,P1002,Tops,Everyday Shirt,71.0,2,0.1,127.8,85.0,67
+O50870,2025-02-23,C10321,New,Organic Search,Northeast,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,277.0,61
+O50870,2025-02-23,C10321,New,Organic Search,Northeast,P1009,Dresses,Wrap Dress,160.0,4,0.1,576.0,134.0,40
+O50871,2025-10-25,C10395,New,Mobile App,South,P1012,Loungewear,Soft Set,78.0,1,0.05,$74.10,239.0,81
+O50871,2025-10-25,C10395,New,Mobile App,South,P1009,Dresses,Wrap Dress,160.0,2,0.0,320.0,132.0,40
+O50872,2025-06-20,C10376,Repeat,Mobile App,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,279.0,79
+O50872,2025-06-20,C10376,Repeat,Mobile App,Northeast,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,188.0,72
+O50873,2025-01-23,C10068,New,Organic Search,South,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,274.0,47
+O50874,2025-10-07,C10180,Repeat,Mobile App,Northeast,P1007,Outerwear,Layer Jacket,227.36,2,0.1,409.25,198.0,40
+O50874,2025-10-07,C10180,Repeat,Mobile App,Northeast,P1008,Outerwear,Transit Coat,252.88,2,0.0,505.76,272.0,47
+O50874,2025-10-07,C10180,Repeat,Mobile App,Northeast,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,275.0,61
+O50875,2025-11-26,C10173,Repeat,Mobile App,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.05,111.15,214.0,49
+O50876,2025-12-17,C10089,VIP,Email Campaign,South,P1005,Bottoms,Weekend Skirt,109.0,2,0.15,185.3,134.0,41
+O50877,2025-12-23,C10237,VIP,Mobile App,Midwest,P1012,Loungewear,Soft Set,84.24,2,0.15,143.21,237.0,81
+O50877,2025-12-23,C10237,VIP,Mobile App,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,3,0.0,379.08,211.0,49
+O50878,2025-11-20,C10245,Repeat,Web,South,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,272.0,77
+O50879,2025-03-11,C10093,New,Paid Social,Northeast,P1010,dresses,Shift Dress,142.0,1,0.1,127.8,213.0,75
+O50880,2025-08-23,C10032,Repeat,Organic Search,Northeast,P1001,Tops,Air Tunic,62.0,4,0.05,235.6,184.0,72
+O50880,2025-08-23,C10032,Repeat,Organic Search,Northeast,P1008,Outerwear,Transit Coat,218.0,3,0.05,621.3,269.0,47
+O50881,2025-05-31,C10018,New,Email Campaign,West,P1009,Dresses,Wrap Dress,179.2,1,0.2,143.36,131.0,40
+O50882,2025-01-23,C10103,Repeat,Web,Northeast,P1007,Outerwear,Layer Jacket,196.0,3,0.0,588.0,195.0,40
+O50883,2025-04-13,C10405,VIP,Web,Northeast,P1011,Dresses,Travel Dress,157.92,1,0.0,$157.92,271.0,77
+O50884,2025-06-11,C10021,New,Paid Social,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,133.0,41
+O50884,2025-06-11,C10021,New,Paid Social,Midwest,P1001,Tops,Air Tunic,62.0,1,0.15,52.7,183.0,72
+O50885,2025-09-21,C10158,VIP,Web,West,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,274.0,61
+O50886,2025-10-06,C10203,Repeat,Mobile App,South,P1014,loungewear,Cozy Hoodie,117.0,2,0.0,234.0,209.0,49
+O50886,2025-10-06,C10203,Repeat,Mobile App,South,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,273.0,61
+O50887,2025-05-10,C10242,VIP,Mobile App,West,P1011,Dresses,Travel Dress,157.92,2,0.05,300.05,269.0,77
+O50887,2025-05-10,C10242,VIP,Mobile App,West,P1008,Outerwear,Transit Coat,218.0,1,0.05,$207.10,268.0,47
+O50888,2025-11-28,C10018,VIP,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,278.0,79
+O50888,2025-11-28,C10018,VIP,WEB,West,P1011,Dresses,Travel Dress,141.0,1,0.0,$141.00,268.0,77
+O50889,2025-05-27,C10097,Repeat,Organic Search,South,P1001,Tops,Air Tunic,62.0,3,0.15,158.1,180.0,72
+O50889,2025-05-27,C10097,Repeat,Organic Search,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,208.0,49
+O50890,2025-01-25,C10182,Repeat,Web,Northeast,P1014,Loungewear,Cozy Hoodie,126.36,2,0.05,$240.08,206.0,49
+O50890,2025-01-25,C10182,Repeat,Web,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,267.0,77
+O50891,2025-06-19,C10335,Repeat,Paid Social,Northeast,P1001,Tops,Air Tunic,62.0,3,0.05,176.7,177.0,72
+O50891,2025-06-19,C10335,Repeat,Paid Social,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,$85.00,277.0,79
+O50892,2025-03-05,C10139,New,WEB,Northeast,P1007,Outerwear,Layer Jacket,196.0,1,0.2,156.8,194.0,40
+O50892,2025-03-05,C10139,New,Web,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,276.0,79
+O50893,2025-07-08,C10409,Repeat,Mobile App,West,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,88.0,79
+O50893,2025-07-08,C10409,Repeat,Mobile App,West,P1010,Dresses,Shift Dress,159.04,1,0.1,143.14,212.0,75
+O50894,2025-07-24,C10223,VIP,Web,West,P1011,Dresses,Travel Dress,157.92,4,0.0,631.68,263.0,77
+O50895,2025-08-14,C10380,Repeat,WEB,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,211.0,75
+O50895,2025-08-14,C10380,Repeat,Web,Northeast,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,271.0,61
+O50896,2025-06-23,C10197,Repeat,Mobile App,Midwest,P1008,Outerwear,Transit Coat,218.0,2,0.0,436.0,266.0,47
+O50897,2025-09-12,C10095,Repeat,Web,South,P1000,Tops,Classic Tee,78.0,3,0.0,234.0,130.0,49
+O50898,2025-09-12,C10354,Repeat,Web,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.05,111.15,205.0,49
+O50898,2025-09-12,C10354,Repeat,Web,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.2,68.0,275.0,79
+O50899,2025-09-23,C10188,Repeat,Paid Social,West,P1001,tops,Air Tunic,62.0,1,0.05,58.9,176.0,72
+O50899,2025-09-23,C10188,Repeat,Paid Social,West,P1013,Loungewear,Relaxed Jogger,85.0,2,0.0,170.0,273.0,79
+O50900,2025-02-12,C10136,Repeat,Web,West,P1008,Outerwear,Transit Coat,218.0,2,0.15,370.6,264.0,47
+O50901,2025-08-06,C10372,Repeat,Mobile App,South,P1010,Dresses,Shift Dress,142.0,1,0.05,134.9,210.0,75
+O50902,2025-08-09,C10040,Repeat,Paid Social,West,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,269.0,61
+O50902,2025-08-09,C10040,Repeat,Paid Social,West,P1010,Dresses,Shift Dress,142.0,4,0.0,568.0,206.0,75
+O50903,2025-04-03,C10308,New,Web,West,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,263.0,47
+O50903,2025-04-03,C10308,New,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,272.0,79
+O50903,2025-04-03,C10308,New,Web,West,P1014,Loungewear,Cozy Hoodie,117.0,2,0.15,198.9,203.0,49
+O50904,2025-05-31,C10279,New,Email Campaign,Midwest,P1011,Dresses,Travel Dress,157.92,1,0.1,142.13,262.0,77
+O50904,2025-05-31,C10279,New,Email Campaign,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,271.0,79
+O50905,2025-02-22,C10164,New,Web,Northeast,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,130.0,40
+O50905,2025-02-22,C10164,New,Web,Northeast,P1008,Outerwear,Transit Coat,218.0,3,0.2,523.2,260.0,47
+O50906,2025-06-17,C10040,New,Mobile App,,P1009,Dresses,Wrap Dress,179.2,1,0.05,170.24,129.0,40
+O50907,2025-06-01,C10338,Repeat,Mobile App,Northeast,P1008,Outerwear,Transit Coat,218.0,2,0.0,436.0,258.0,47
+O50908,2025-08-17,C10156,Repeat,Web,Midwest,P1000,Tops,Classic Tee,78.0,2,0.0,156.0,128.0,49
+O50909,2025-08-07,C10308,Repeat,Web,South,P1010,Dresses,Shift Dress,142.0,2,0.2,227.2,204.0,75
+O50910,2025-12-20,C10085,VIP,Paid Social,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,268.0,61
+O50910,2025-12-20,C10085,VIP,Paid Social,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,84.0,67
+O50911,2025-06-29,C10227,Repeat,Mobile App,Northeast,P1000,Tops,Classic Tee,78.0,3,0.05,222.3,125.0,49
+O50911,2025-06-29,C10227,Repeat,Mobile App,Northeast,P1002,Tops,Everyday Shirt,71.0,2,0.05,134.9,82.0,67
+O50911,2025-06-29,C10227,Repeat,Mobile App,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.05,84.55,267.0,61
+O50912,2025-01-22,C10228,New,Mobile App,Northeast,P1006,Outerwear,Commuter Blazer,150.0,1,0.1,135.0,295.0,51
+O50912,2025-01-22,C10228,New,Mobile App,Northeast,P1014,Loungewear,Cozy Hoodie,126.36,1,0.05,120.04,202.0,49
+O50912,2025-01-22,C10228,New,Mobile App,Northeast,P1009,Dresses,Wrap Dress,160.0,1,0.2,128.0,128.0,40
+O50913,2025-06-30,C10372,Repeat,Mobile App,West,P1012,Loungewear,Soft Set,78.0,3,0.2,187.2,234.0,81
+O50914,2025-08-11,C10314,New,Email Campaign,South,P1012,Loungewear,Soft Set,78.0,2,0.15,132.6,232.0,81
+O50915,2025-11-24,C10140,Repeat,Web,South,P1011,Dresses,Travel Dress,141.0,4,0.0,564.0,258.0,77
+O50915,2025-11-24,C10140,Repeat,Web,South,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,231.0,81
+O50916,2025-01-30,C10405,New,Email Campaign,South,P1007,Outerwear,Layer Jacket,196.0,2,0.1,352.8,192.0,40
+O50917,2025-12-10,C10038,Repeat,Paid Social,South,P1004,Bottoms,Easy Trouser,116.0,2,0.15,197.2,86.0,79
+O50917,2025-12-10,C10038,Repeat,Paid Social,South,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,257.0,77
+O50918,2025-07-27,C10326,Repeat,Web,West,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,175.0,72
+O50918,2025-07-27,C10326,Repeat,Web,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.1,135.0,294.0,51
+O50919,2025-09-20,C10186,VIP,Web,Midwest,P1005,Bottoms,Weekend Skirt,109.0,2,0.0,218.0,131.0,41
+O50920,2025-12-14,C10410,New,Email Campaign,Northeast,P1013,Loungewear,Relaxed Jogger,91.8,1,0.15,78.03,270.0,79
+O50920,2025-12-14,C10410,New,Email Campaign,Northeast,P1001,Tops,Air Tunic,62.0,1,0.15,52.7,174.0,72
+O50921,2025-01-16,C10081,New,Web,South,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,85.0,79
+O50922,2025-11-08,C10073,New,Web,West,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,81.0,67
+O50923,2025-08-13,C10347,Repeat,Mobile App,,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,,75
+O50923,2025-08-13,C10347,Repeat,Mobile App,Midwest,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,124.0,49
+O50923,2025-08-13,C10347,Repeat,Mobile App,Midwest,P1009,Dresses,Wrap Dress,160.0,4,0.0,640.0,124.0,40
+O50924,2025-03-06,C10017,New,Mobile App,South,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,123.0,49
+O50925,2025-05-01,C10034,VIP,Email Campaign,Northeast,P1005,Bottoms,Weekend Skirt,109.0,3,0.2,261.6,128.0,41
+O50926,2025-11-27,C10398,Repeat,Web,South,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,256.0,77
+O50927,2025-07-05,C10187,Repeat,Organic Search,Midwest,P1000,Tops,Classic Tee,78.0,1,0.0,$78.00,122.0,49
+O50928,2025-10-18,C10196,Repeat,Web,West,P1014,Loungewear,Cozy Hoodie,117.0,2,0.0,234.0,200.0,49
+O50929,2025-11-06,C10016,VIP,Web,Midwest,P1011,Dresses,Travel Dress,141.0,1,0.15,119.85,255.0,77
+O50930,2025-12-14,C10078,New,Web,Midwest,P1013,Loungewear,Relaxed Jogger,91.8,2,0.05,174.42,268.0,79
+O50931,2025-07-09,C10230,Repeat,Paid Social,Northeast,P1010,Dresses,Shift Dress,159.04,2,0.0,318.08,201.0,75
+O50932,2025-08-16,C10190,VIP,Web,West,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,200.0,75
+O50932,2025-08-16,C10190,VIP,Web,West,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,257.0,47
+O50932,2025-08-16,C10190,VIP,Web,West,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,80.0,67
+O50933,2025-02-09,C10390,New,Email Campaign,South,P1001,Tops,Air Tunic,62.0,1,0.2,49.6,173.0,72
+O50934,2025-03-12,C10293,VIP,Web,South,P1008,outerwear,Transit Coat,218.0,3,0.0,654.0,254.0,47
+O50935,2025-07-07,C10271,Repeat,Web,South,P1004,Bottoms,Easy Trouser,116.0,4,0.0,464.0,81.0,79
+O50936,2025-06-10,C10203,New,Email Campaign,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.15,127.5,293.0,51
+O50937,2025-05-23,C10332,Repeat,Mobile App,West,P1002,tops,Everyday Shirt,71.0,1,0.0,71.0,79.0,67
+O50938,2025-02-28,C10127,New,Web,Midwest,P1011,Dresses,Travel Dress,141.0,1,0.05,133.95,254.0,77
+O50938,2025-02-28,C10127,New,Web,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,1,0.0,126.36,199.0,49
+O50939,2025-04-06,C10013,Repeat,Web,West,P1000,Tops,Classic Tee,78.0,2,0.05,148.2,120.0,49
+O50939,2025-04-06,C10013,Repeat,Web,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,292.0,51
+O50940,2025-09-23,C10255,Repeat,Mobile App,West,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,230.0,81
+O50940,2025-09-23,C10255,Repeat,Mobile App,West,P1005,Bottoms,Weekend Skirt,109.0,2,0.0,$218.00,126.0,41
+O50941,2025-10-15,C10198,New,Mobile App,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.05,111.15,198.0,49
+O50942,2025-05-15,C10060,New,Web,West,P1005,bottoms,Weekend Skirt,109.0,1,0.05,103.55,125.0,41
+O50943,2025-05-14,C10396,VIP,Email Campaign,South,P1008,Outerwear,Transit Coat,218.0,2,0.1,392.4,252.0,47
+O50943,2025-05-14,C10396,VIP,Email Campaign,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,267.0,79
+O50943,2025-05-14,C10396,VIP,Email Campaign,South,P1007,Outerwear,Layer Jacket,196.0,2,0.1,352.8,190.0,40
+O50944,2025-08-17,C10360,Repeat,Email Campaign,South,P1013,Loungewear,Relaxed Jogger,85.0,2,0.15,144.5,265.0,79
+O50944,2025-08-17,C10360,Repeat,Email Campaign,South,P1002,Tops,Everyday Shirt,71.0,1,0.2,56.8,78.0,67
+O50944,2025-08-17,C10360,Repeat,Email Campaign,South,P1007,Outerwear,Layer Jacket,196.0,1,0.1,176.4,189.0,40
+O50945,2025-11-10,C10109,New,Mobile App,South,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,253.0,77
+O50946,2025-12-22,C10146,VIP,Web,South,P1004,Bottoms,Easy Trouser,116.0,1,0.2,92.8,80.0,79
+O50947,2025-04-13,C10251,New,Web,West,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,119.0,49
+O50948,2025-03-11,C10062,Repeat,Organic Search,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,199.0,75
+O50949,2025-08-20,C10037,VIP,Mobile App,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,2,0.1,153.0,263.0,79
+O50950,2025-08-16,C10088,Repeat,Web,Midwest,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,188.0,40
+O50950,2025-08-16,C10088,Repeat,Web,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.15,92.65,124.0,41
+O50951,2025-12-16,C10044,Repeat,Paid Social,South,P1004,Bottoms,Easy Trouser,116.0,1,0.15,98.6,79.0,79
+O50951,2025-12-16,C10044,Repeat,PAID SOCIAL,South,P1013,Loungewear,Relaxed Jogger,91.8,1,0.1,82.62,262.0,79
+O50952,2025-12-08,C10163,Repeat,Web,South,P1012,Loungewear,Soft Set,84.24,1,0.1,75.82,229.0,81
+O50952,2025-12-08,C10163,Repeat,Web,South,P1008,Outerwear,Transit Coat,252.88,1,0.1,227.59,251.0,47
+O50953,2025-12-30,C10177,New,Mobile App,Midwest,P1010,Dresses,Shift Dress,142.0,2,0.0,284.0,197.0,75
+O50954,2025-10-09,C10033,VIP,Web,West,P1000,Tops,Classic Tee,78.0,4,0.05,296.4,115.0,49
+O50955,2025-05-29,C10277,Repeat,Mobile App,West,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,77.0,67
+O50956,2025-03-22,C10153,Repeat,Paid Social,Midwest,P1004,Bottoms,Easy Trouser,116.0,2,0.0,232.0,211.0,79
+O50957,2025-07-05,C10406,Repeat,Paid Social,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,197.0,49
+O50957,2025-07-05,C10406,Repeat,Paid Social,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.05,142.5,291.0,51
+O50958,2025-04-25,C10260,New,Organic Search,South,P1003,Bottoms,Tailored Pant,89.0,3,0.1,240.3,264.0,61
+O50959,2025-04-13,C10062,Repeat,Web,Northeast,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,290.0,51
+O50960,2025-03-13,C10405,VIP,Organic Search,West,P1002,tops,Everyday Shirt,71.0,1,0.1,63.9,76.0,67
+O50960,2025-03-13,C10405,VIP,Organic Search,West,P1009,Dresses,Wrap Dress,160.0,2,0.1,288.0,122.0,40
+O50961,2025-09-10,C10121,Repeat,WEB,Northeast,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,171.0,72
+O50961,2025-09-10,C10121,Repeat,Web,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,1,0.05,$111.15,196.0,49
+O50962,2025-07-04,C10013,Repeat,Organic Search,Midwest,P1011,Dresses,Travel Dress,157.92,1,0.1,142.13,252.0,77
+O50963,2025-10-21,C10283,VIP,PAID SOCIAL,West,P1007,Outerwear,Layer Jacket,227.36,2,0.05,431.98,186.0,40
+O50964,2025-08-28,C10188,VIP,Email Campaign,Northeast,P1012,Loungewear,Soft Set,78.0,2,0.15,132.6,227.0,81
+O50965,2025-10-10,C10411,Repeat,Organic Search,West,P1003,Bottoms,Tailored Pant,89.0,1,0.15,75.65,263.0,61
+O50965,2025-10-10,C10411,Repeat,Organic Search,West,P1006,Outerwear,Commuter Blazer,174.0,1,0.15,147.9,289.0,51
+O50966,2025-11-10,C10066,Repeat,Paid Social,South,P1000,Tops,Classic Tee,78.0,1,0.05,74.1,114.0,49
+O50966,2025-11-10,C10066,Repeat,Paid Social,South,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,196.0,75
+O50967,2025-02-03,C10044,Repeat,Web,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.1,$144.00,121.0,40
+O50968,2025-07-23,C10158,Repeat,Paid Social,South,P1010,Dresses,Shift Dress,159.04,1,0.05,151.09,195.0,75
+O50969,2025-09-03,C10367,Repeat,Organic Search,South,P1009,Dresses,Wrap Dress,160.0,2,0.0,$320.00,119.0,40
+O50970,2025-07-30,C10269,Repeat,Paid Social,West,P1009,Dresses,Wrap Dress,179.2,1,0.05,170.24,118.0,40
+O50970,2025-07-30,C10269,Repeat,Paid Social,West,P1004,Bottoms,Easy Trouser,116.0,3,0.1,313.2,208.0,79
+O50971,2025-07-29,C10393,VIP,Mobile App,South,P1008,Outerwear,Transit Coat,218.0,1,0.2,174.4,250.0,47
+O50972,2025-02-07,C10294,Repeat,Organic Search,Northeast,P1010,Dresses,Shift Dress,142.0,2,0.05,269.8,193.0,75
+O50972,2025-02-07,C10294,Repeat,Organic Search,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,251.0,77
+O50973,2025-06-12,C10064,Repeat,Web,South,P1010,Dresses,Shift Dress,159.04,1,0.0,159.04,192.0,75
+O50974,2025-02-07,C10328,New,Mobile App,West,P1004,Bottoms,Easy Trouser,116.0,2,0.1,208.8,206.0,79
+O50975,2025-08-27,C10230,VIP,Mobile App,Midwest,P1007,Outerwear,Layer Jacket,196.0,3,,558.6,183.0,40
+O50975,2025-08-27,C10230,VIP,Mobile App,Midwest,P1014,loungewear,Cozy Hoodie,117.0,1,0.05,111.15,195.0,49
+O50976,2025-09-22,C10348,VIP,Mobile App,West,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,205.0,79
+O50977,2025-03-07,C10176,Repeat,Organic Search,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,204.0,79
+O50978,2025-10-10,C10399,Repeat,Email Campaign,West,P1006,Outerwear,Commuter Blazer,174.0,1,0.1,156.6,288.0,51
+O50979,2025-10-28,C10327,Repeat,Mobile App,South,P1001,Tops,Air Tunic,62.0,3,0.15,158.1,168.0,72
+O50980,2025-03-08,C10093,New,Organic Search,South,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,250.0,77
+O50981,2025-09-15,C10221,Repeat,Web,Northeast,P1010,dresses,Shift Dress,142.0,1,0.0,142.0,191.0,75
+O50982,2025-03-05,C10028,VIP,Organic Search,South,P1001,Tops,Air Tunic,62.0,1,,62.0,167.0,72
+O50983,2025-03-20,C10265,Repeat,Web,South,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,117.0,40
+O50984,2025-03-26,C10155,Repeat,Mobile App,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.0,$116.00,203.0,79
+O50984,2025-03-26,C10155,Repeat,Mobile App,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,75.0,67
+O50984,2025-03-26,C10155,Repeat,Mobile App,Northeast,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,287.0,51
+O50985,2025-06-15,C10082,Repeat,Web,Midwest,P1009,Dresses,Wrap Dress,179.2,1,0.0,179.2,116.0,40
+O50986,2025-04-26,C10363,Repeat,Web,Northeast,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,286.0,51
+O50987,2025-09-23,C10177,Repeat,Web,West,P1009,Dresses,Wrap Dress,160.0,1,0.05,$152.00,115.0,40
+O50987,2025-09-23,C10177,Repeat,Web,West,P1007,Outerwear,Layer Jacket,227.36,2,0.05,431.98,181.0,40
+O50987,2025-09-23,C10177,Repeat,Web,West,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,190.0,75
+O50988,2025-02-10,C10145,New,Mobile App,South,P1000,Tops,Classic Tee,78.0,2,0.15,132.6,112.0,49
+O50989,2025-04-11,C10128,Repeat,Web,West,P1007,Outerwear,Layer Jacket,196.0,3,0.0,588.0,178.0,40
+O50989,2025-04-11,C10128,Repeat,Web,West,P1008,Outerwear,Transit Coat,218.0,1,0.1,196.2,249.0,47
+O50990,2025-10-10,C10325,VIP,Organic Search,Northeast,P1008,Outerwear,Transit Coat,252.88,1,0.0,252.88,248.0,47
+O50991,2025-03-06,C10140,Repeat,Paid Social,Midwest,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,249.0,77
+O50992,2025-06-05,C10320,Repeat,Organic Search,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.15,98.6,202.0,79
+O50993,2025-10-01,C10314,Repeat,Email Campaign,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.2,68.0,261.0,79
+O50994,2025-09-15,C10047,Repeat,Mobile App,Northeast,P1007,Outerwear,Layer Jacket,227.36,1,0.05,215.99,177.0,40
+O50995,2025-03-28,C10328,VIP,Web,Midwest,P1002,Tops,Everyday Shirt,71.0,2,0.05,134.9,73.0,67
+O50995,2025-03-28,C10328,VIP,Web,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,3,0.1,229.5,258.0,79
+O50996,2025-10-25,C10303,VIP,Mobile App,South,P1001,Tops,Air Tunic,62.0,1,0.05,58.9,166.0,72
+O50996,2025-10-25,C10303,VIP,Mobile App,South,P1009,Dresses,Wrap Dress,160.0,2,0.0,320.0,113.0,40
+O50997,2025-03-29,C10078,Repeat,Mobile App,South,P1005,Bottoms,Weekend Skirt,109.0,3,0.0,327.0,121.0,41
+O50998,2025-11-16,C10337,VIP,Mobile App,Midwest,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,261.0,61
+O50998,2025-11-16,C10337,VIP,Mobile App,Midwest,P1008,Outerwear,Transit Coat,252.88,1,0.05,240.24,247.0,47
+O50999,2025-11-06,C10368,New,Mobile App,South,P1004,Bottoms,Easy Trouser,116.0,1,0.05,110.2,201.0,79
+O51000,2025-10-16,C10172,Repeat,Web,Northeast,P1000,Tops,Classic Tee,78.0,2,0.0,156.0,110.0,49
+O51001,2025-01-15,C10021,New,Organic Search,West,P1010,dresses,Shift Dress,142.0,3,0.1,383.4,187.0,75
+O51001,2025-01-15,C10021,New,Organic Search,West,P1013,Loungewear,Relaxed Jogger,91.8,1,0.0,91.8,257.0,79
+O51001,2025-01-15,C10021,New,ORGANIC SEARCH,West,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,200.0,79
+O51002,2025-01-24,C10041,New,Web,South,P1008,Outerwear,Transit Coat,218.0,1,0.2,174.4,246.0,47
+O51002,2025-01-24,C10041,New,Web,South,P1013,Loungewear,Relaxed Jogger,91.8,4,0.0,367.2,253.0,79
+O51002,2025-01-24,C10041,New,Web,South,P1007,Outerwear,Layer Jacket,196.0,3,0.0,588.0,174.0,40
+O51003,2025-10-23,C10328,VIP,Web,West,P1001,Tops,Air Tunic,62.0,2,0.05,117.8,164.0,72
+O51004,2025-11-30,C10135,Repeat,Mobile App,South,P1004,Bottoms,Easy Trouser,116.0,2,0.05,220.4,198.0,79
+O51004,2025-11-30,C10135,Repeat,Mobile App,South,P1007,Outerwear,Layer Jacket,227.36,1,0.15,193.26,173.0,40
+O51004,2025-11-30,C10135,Repeat,Mobile App,South,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,186.0,75
+O51005,2025-10-20,C10107,Repeat,Email Campaign,South,P1006,Outerwear,Commuter Blazer,174.0,1,0.1,156.6,285.0,51
+O51006,2025-11-13,C10213,New,Paid Social,Northeast,P1010,Dresses,Shift Dress,142.0,2,0.0,284.0,184.0,75
+O51007,2025-01-16,C10327,New,Organic Search,South,P1008,Outerwear,Transit Coat,218.0,1,0.05,207.1,245.0,47
+O51007,2025-01-16,C10327,New,Organic Search,South,P1001,Tops,Air Tunic,62.0,4,0.05,235.6,160.0,72
+O51008,2025-11-18,C10254,Repeat,Web,South,P1005,Bottoms,Weekend Skirt,109.0,2,0.0,218.0,119.0,41
+O51009,2025-05-29,C10279,Repeat,Email Campaign,Midwest,P1011,Dresses,Travel Dress,157.92,1,0.15,134.23,248.0,77
+O51010,2025-06-04,C10328,Repeat,Email Campaign,West,P1011,Dresses,Travel Dress,157.92,1,0.2,126.34,247.0,77
+O51010,2025-06-04,C10328,Repeat,Email Campaign,West,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,226.0,81
+O51010,2025-06-04,C10328,Repeat,Email Campaign,West,P1000,Tops,Classic Tee,78.0,3,0.1,210.6,107.0,49
+O51011,2025-05-06,C10247,Repeat,Web,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.15,60.35,72.0,67
+O51012,2025-12-17,C10412,Repeat,Web,West,P1003,Bottoms,Tailored Pant,89.0,3,0.0,$267.00,258.0,61
+O51013,2025-06-02,C10207,Repeat,Web,South,P1007,Outerwear,Layer Jacket,196.0,2,0.05,372.4,171.0,40
+O51014,2025-02-07,C10232,New,Organic Search,Northeast,P1014,Loungewear,Cozy Hoodie,126.36,1,0.2,101.09,194.0,49
+O51015,2025-01-31,C10352,New,Organic Search,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,112.0,40
+O51015,2025-01-31,C10352,New,Organic Search,Midwest,P1013,Loungewear,Relaxed Jogger,91.8,2,0.0,183.6,251.0,79
+O51016,2025-08-14,C10080,Repeat,Email Campaign,West,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,111.0,40
+O51016,2025-08-14,C10080,Repeat,Email Campaign,West,P1007,Outerwear,Layer Jacket,196.0,2,0.1,352.8,169.0,40
+O51017,2025-09-05,C10212,Repeat,Email Campaign,Midwest,P1000,Tops,Classic Tee,78.0,3,0.15,198.9,104.0,49
+O51017,2025-09-05,C10212,Repeat,Email Campaign,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.15,60.35,71.0,67
+O51018,2025-04-15,C10237,New,Organic Search,Midwest,P1008,Outerwear,Transit Coat,218.0,3,0.05,621.3,242.0,47
+O51018,2025-04-15,C10237,New,Organic Search,Midwest,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,103.0,49
+O51019,2025-11-07,C10174,VIP,Mobile App,Northeast,P1008,Outerwear,Transit Coat,252.88,2,0.0,505.76,240.0,47
+O51019,2025-11-07,C10174,VIP,Mobile App,Northeast,P1007,Outerwear,Layer Jacket,227.36,1,0.0,227.36,168.0,40
+O51020,2025-06-10,C10073,Repeat,Organic Search,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,70.0,67
+O51020,2025-06-10,C10073,Repeat,Organic Search,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.15,75.65,257.0,61
+O51020,2025-06-10,C10073,Repeat,Organic Search,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,225.0,81
+O51021,2025-06-13,C10367,Repeat,Mobile App,South,P1009,Dresses,Wrap Dress,179.2,1,0.15,152.32,110.0,40
+O51022,2025-06-26,C10375,New,Web,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,197.0,79
+O51022,2025-06-26,C10375,New,Web,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,250.0,79
+O51023,2025-03-08,C10204,Repeat,Mobile App,Midwest,P1013,loungewear,Relaxed Jogger,85.0,1,0.0,85.0,249.0,79
+O51023,2025-03-08,C10204,Repeat,Mobile App,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,69.0,67
+O51024,2025-07-09,C10389,Repeat,Organic Search,West,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,102.0,49
+O51025,2025-10-15,C10263,New,WEB,South,P1007,Outerwear,Layer Jacket,227.36,1,0.0,227.36,167.0,40
+O51025,2025-10-15,C10263,New,Web,South,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,255.0,61
+O51025,2025-10-15,C10263,New,Web,South,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,224.0,81
+O51026,2025-06-13,C10054,Repeat,Mobile App,South,P1001,Tops,Air Tunic,62.0,2,0.1,111.6,158.0,72
+O51026,2025-06-13,C10054,Repeat,Mobile App,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,118.0,41
+O51027,2025-08-27,C10123,VIP,Organic Search,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,254.0,61
+O51028,2025-05-17,C10062,Repeat,Email Campaign,Midwest,P1009,Dresses,Wrap Dress,179.2,1,0.1,161.28,109.0,40
+O51029,2025-05-07,C10230,Repeat,Mobile App,Northeast,P1004,Bottoms,Easy Trouser,116.0,2,0.05,220.4,195.0,79
+O51030,2025-02-19,C10072,New,Organic Search,West,P1005,bottoms,Weekend Skirt,109.0,1,0.0,109.0,117.0,41
+O51031,2025-05-29,C10025,New,Paid Social,Midwest,P1014,Loungewear,Cozy Hoodie,117.0,2,0.05,222.3,192.0,49
+O51031,2025-05-29,C10025,New,Paid Social,Midwest,P1004,Bottoms,Easy Trouser,116.0,2,0.05,220.4,193.0,79
+O51032,2025-11-12,C10196,New,Paid Social,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.05,80.75,248.0,79
+O51032,2025-11-12,C10196,New,Paid Social,Northeast,P1008,Outerwear,Transit Coat,252.88,1,0.0,252.88,239.0,47
+O51033,2025-05-08,C10214,Repeat,Web,Northeast,P1010,Dresses,Shift Dress,159.04,2,0.0,318.08,182.0,75
+O51034,2025-06-17,C10081,Repeat,Mobile App,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,$109.00,116.0,41
+O51034,2025-06-17,C10081,Repeat,Mobile App,Northeast,P1009,Dresses,Wrap Dress,179.2,2,0.15,304.64,107.0,40
+O51035,2025-06-10,C10295,Repeat,Paid Social,South,P1002,Tops,Everyday Shirt,71.0,2,0.05,134.9,67.0,67
+O51035,2025-06-10,C10295,Repeat,Paid Social,South,P1001,Tops,Air Tunic,62.0,1,0.15,52.7,157.0,72
+O51036,2025-03-23,C10097,New,Organic Search,Northeast,P1003,Bottoms,Tailored Pant,89.0,2,0.05,169.1,252.0,61
+O51037,2025-09-21,C10255,Repeat,Organic Search,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,275.0,67
+O51038,2025-06-07,C10255,Repeat,Paid Social,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.0,218.0,238.0,47
+O51038,2025-06-07,C10255,Repeat,Paid Social,Northeast,P1004,Bottoms,Easy Trouser,116.0,2,0.0,232.0,191.0,79
+O51038,2025-06-07,C10255,Repeat,Paid Social,Northeast,P1001,Tops,Air Tunic,62.0,1,0.15,52.7,156.0,72
+O51039,2025-01-12,C10254,New,Email Campaign,Northeast,P1004,Bottoms,Easy Trouser,116.0,2,0.2,$185.60,189.0,79
+O51040,2025-07-21,C10046,VIP,Mobile App,West,P1007,Outerwear,Layer Jacket,196.0,1,0.05,186.2,166.0,40
+O51040,2025-07-21,C10046,VIP,Mobile App,West,P1014,Loungewear,Cozy Hoodie,117.0,2,0.0,234.0,190.0,49
+O51041,2025-08-23,C10258,Repeat,Web,Northeast,P1001,Tops,Air Tunic,62.0,2,0.1,111.6,154.0,72
+O51042,2025-04-21,C10123,Repeat,Organic Search,West,P1003,Bottoms,Tailored Pant,89.0,2,0.1,160.2,250.0,61
+O51042,2025-04-21,C10123,Repeat,ORGANIC SEARCH,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.15,72.25,247.0,79
+O51043,2025-06-30,C10298,Repeat,Paid Social,South,P1013,Loungewear,Relaxed Jogger,85.0,2,0.1,153.0,245.0,79
+O51044,2025-01-26,C10024,Repeat,Web,West,P1012,Loungewear,Soft Set,84.24,1,0.2,67.39,223.0,81
+O51045,2025-09-11,C10144,Repeat,Web,South,P1008,Outerwear,Transit Coat,252.88,1,0.05,240.24,237.0,47
+O51046,2025-12-01,C10305,Repeat,Organic Search,South,P1000,Tops,Classic Tee,78.0,3,0.1,210.6,99.0,49
+O51047,2025-08-29,C10344,Repeat,Email Campaign,West,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,188.0,79
+O51047,2025-08-29,C10344,Repeat,Email Campaign,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.1,135.0,284.0,51
+O51048,2025-10-02,C10146,VIP,Mobile App,West,P1014,Loungewear,Cozy Hoodie,117.0,3,0.0,351.0,187.0,49
+O51049,2025-02-25,C10004,New,Organic Search,West,P1000,Tops,Classic Tee,78.0,2,0.05,148.2,97.0,49
+O51050,2025-03-10,C10220,Repeat,Paid Social,South,P1000,Tops,Classic Tee,78.0,3,0.0,234.0,94.0,49
+O51051,2025-07-07,C10135,Repeat,WEB,,P1010,Dresses,Shift Dress,159.04,1,0.0,159.04,181.0,75
+O51051,2025-07-07,C10135,Repeat,Web,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,115.0,41
+O51052,2025-07-26,C10391,Repeat,Web,Northeast,P1011,Dresses,Travel Dress,157.92,1,0.0,157.92,246.0,77
+O51053,2025-01-24,C10187,Repeat,Web,Northeast,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,273.0,67
+O51053,2025-01-24,C10187,Repeat,Web,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,187.0,79
+O51054,2025-01-27,C10205,New,Paid Social,West,P1003,Bottoms,Tailored Pant,89.0,1,0.05,84.55,249.0,61
+O51055,2025-10-15,C10291,Repeat,Organic Search,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,114.0,41
+O51056,2025-07-05,C10099,Repeat,Web,West,P1009,Dresses,Wrap Dress,179.2,1,0.0,179.2,106.0,40
+O51057,2025-05-28,C10283,Repeat,Paid Social,West,P1001,Tops,Air Tunic,62.0,3,0.05,176.7,151.0,72
+O51058,2025-07-17,C10037,Repeat,Mobile App,West,P1011,Dresses,Travel Dress,157.92,1,0.0,157.92,245.0,77
+O51059,2025-08-19,C10258,Repeat,Web,South,P1014,Loungewear,Cozy Hoodie,117.0,1,0.1,105.3,186.0,49
+O51060,2025-10-09,C10391,Repeat,Organic Search,Northeast,P1001,Tops,Air Tunic,62.0,3,0.05,176.7,148.0,72
+O51060,2025-10-09,C10391,Repeat,Organic Search,Northeast,P1005,Bottoms,Weekend Skirt,109.0,2,0.1,196.2,112.0,41
+O51061,2025-11-16,C10143,VIP,Email Campaign,West,P1001,Tops,Air Tunic,62.0,2,0.1,111.6,146.0,72
+O51062,2025-11-09,C10348,VIP,Email Campaign,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.2,87.2,111.0,41
+O51063,2025-03-07,C10060,New,Mobile App,Midwest,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,186.0,79
+O51063,2025-03-07,C10060,New,Mobile App,Midwest,P1000,Tops,Classic Tee,78.0,1,0.2,62.4,93.0,49
+O51064,2025-07-21,C10049,Repeat,Web,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,272.0,67
+O51064,2025-07-21,C10049,Repeat,Web,Northeast,P1008,Outerwear,Transit Coat,218.0,3,0.0,654.0,234.0,47
+O51065,2025-06-23,C10191,Repeat,Organic Search,South,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,165.0,40
+O51066,2025-07-07,C10285,Repeat,Organic Search,Midwest,P1011,Dresses,Travel Dress,157.92,1,0.0,157.92,244.0,77
+O51066,2025-07-07,C10285,Repeat,Organic Search,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,248.0,61
+O51066,2025-07-07,C10285,Repeat,Organic Search,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,222.0,81
+O51067,2025-03-15,C10386,Repeat,Web,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.2,113.6,180.0,75
+O51068,2025-11-05,C10101,VIP,Paid Social,West,P1007,Outerwear,Layer Jacket,227.36,1,0.0,227.36,164.0,40
+O51069,2025-07-25,C10260,Repeat,Mobile App,Midwest,P1010,Dresses,Shift Dress,159.04,2,0.0,318.08,178.0,75
+O51069,2025-07-25,C10260,Repeat,Mobile App,Midwest,P1002,Tops,Everyday Shirt,71.0,2,0.05,134.9,270.0,67
+O51070,2025-01-21,C10256,New,Paid Social,South,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,269.0,67
+O51070,2025-01-21,C10256,New,Paid Social,South,P1010,Dresses,Shift Dress,142.0,2,0.0,284.0,176.0,75
+O51071,2025-01-20,C10023,New,Paid Social,Northeast,P1014,Loungewear,Cozy Hoodie,126.36,2,0.0,252.72,184.0,49
+O51072,2025-06-20,C10070,Repeat,Email Campaign,Northeast,P1008,outerwear,Transit Coat,218.0,2,0.1,392.4,232.0,47
+O51072,2025-06-20,C10070,Repeat,Email Campaign,Northeast,P1004,Bottoms,Easy Trouser,116.0,2,0.1,208.8,184.0,79
+O51073,2025-08-31,C10411,Repeat,Paid Social,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,110.0,41
+O51073,2025-08-31,C10411,Repeat,Paid Social,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.05,152.0,105.0,40
+O51074,2025-08-22,C10265,VIP,Paid Social,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,244.0,79
+O51074,2025-08-22,C10265,VIP,Paid Social,Midwest,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,283.0,51
+O51075,2025-11-07,C10076,VIP,Web,West,P1003,Bottoms,Tailored Pant,89.0,2,0.05,169.1,246.0,61
+O51075,2025-11-07,C10076,VIP,Web,West,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,104.0,40
+O51076,2025-03-13,C10263,Repeat,Paid Social,West,P1007,Outerwear,Layer Jacket,196.0,1,0.1,176.4,163.0,40
+O51076,2025-03-13,C10263,Repeat,Paid Social,West,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,221.0,81
+O51077,2025-11-10,C10167,Repeat,Web,West,P1001,Tops,Air Tunic,62.0,4,0.0,248.0,142.0,72
+O51078,2025-03-25,C10163,Repeat,Web,Northeast,P1009,Dresses,Wrap Dress,160.0,4,0.0,640.0,100.0,40
+O51078,2025-03-25,C10163,Repeat,Web,Northeast,P1003,Bottoms,Tailored Pant,89.0,2,0.1,160.2,244.0,61
+O51079,2025-11-12,C10201,VIP,Organic Search,South,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,220.0,81
+O51079,2025-11-12,C10201,VIP,Organic Search,South,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,268.0,67
+O51080,2025-06-03,C10378,Repeat,Organic Search,South,P1004,Bottoms,Easy Trouser,116.0,4,0.0,464.0,180.0,79
+O51081,2025-06-22,C10303,New,Web,South,P1006,outerwear,Commuter Blazer,150.0,3,0.1,405.0,280.0,51
+O51082,2025-09-18,C10259,Repeat,Organic Search,South,P1013,Loungewear,Relaxed Jogger,85.0,2,0.05,161.5,242.0,79
+O51083,2025-09-08,C10272,VIP,Mobile App,West,P1004,Bottoms,Easy Trouser,116.0,1,0.0,$116.00,179.0,79
+O51083,2025-09-08,C10272,VIP,Mobile App,West,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,267.0,67
+O51084,2025-10-16,C10362,New,Paid Social,Midwest,P1004,Bottoms,Easy Trouser,116.0,3,0.15,295.8,176.0,79
+O51084,2025-10-16,C10362,New,Paid Social,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,109.0,41
+O51084,2025-10-16,C10362,New,Paid Social,Midwest,P1000,Tops,Classic Tee,78.0,1,0.05,74.1,92.0,49
+O51085,2025-09-01,C10153,VIP,Organic Search,West,P1007,Outerwear,Layer Jacket,227.36,1,0.0,227.36,162.0,40
+O51086,2025-01-09,C10417,New,Mobile App,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,279.0,51
+O51087,2025-06-19,C10188,New,Email Campaign,Midwest,P1005,Bottoms,Weekend Skirt,109.0,2,0.1,196.2,107.0,41
+O51087,2025-06-19,C10188,New,Email Campaign,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.15,66.3,219.0,81
+O51088,2025-02-26,C10344,New,Web,West,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,266.0,67
+O51089,2025-10-26,C10213,VIP,Web,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.2,68.0,241.0,79
+O51089,2025-10-26,C10213,VIP,Web,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.05,133.95,243.0,77
+O51090,2025-12-19,C10157,Repeat,Paid Social,South,P1013,Loungewear,Relaxed Jogger,91.8,4,0.05,348.84,237.0,79
+O51091,2025-01-14,C10322,New,Email Campaign,Midwest,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,91.0,49
+O51091,2025-01-14,C10322,New,EMAIL CAMPAIGN,Midwest,P1013,Loungewear,Relaxed Jogger,91.8,1,0.1,82.62,236.0,79
+O51092,2025-08-31,C10305,New,Organic Search,Northeast,P1003,Bottoms,Tailored Pant,89.0,3,0.0,267.0,241.0,61
+O51092,2025-08-31,C10305,New,Organic Search,Northeast,P1002,Tops,Everyday Shirt,71.0,3,0.05,202.35,263.0,67
+O51093,2025-12-02,C10135,Repeat,Organic Search,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,106.0,41
+O51093,2025-12-02,C10135,Repeat,Organic Search,West,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,,40
+O51094,2025-10-24,C10400,Repeat,Email Campaign,South,P1002,Tops,Everyday Shirt,71.0,1,0.2,56.8,262.0,67
+O51095,2025-04-27,C10295,VIP,Mobile App,West,P1014,Loungewear,Cozy Hoodie,117.0,2,0.05,222.3,182.0,49
+O51095,2025-04-27,C10295,VIP,Mobile App,West,P1011,dresses,Travel Dress,157.92,1,0.0,157.92,242.0,77
+O51095,2025-04-27,C10295,VIP,Mobile App,West,P1006,Outerwear,Commuter Blazer,150.0,4,0.0,600.0,275.0,51
+O51096,2025-01-27,C10369,Repeat,Mobile App,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.15,92.65,105.0,41
+O51097,2025-09-03,C10298,Repeat,Web,Northeast,P1013,Loungewear,Relaxed Jogger,85.0,1,0.1,76.5,235.0,79
+O51098,2025-09-26,C10087,VIP,Web,Northeast,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,140.0,72
+O51098,2025-09-26,C10087,VIP,Web,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.05,84.55,240.0,61
+O51098,2025-09-26,C10087,VIP,Web,Northeast,P1008,Outerwear,Transit Coat,252.88,2,0.0,505.76,230.0,47
+O51099,2025-11-14,C10322,Repeat,Web,South,P1005,Bottoms,Weekend Skirt,109.0,2,0.0,218.0,103.0,41
+O51100,2025-07-14,C10396,Repeat,Paid Social,Northeast,P1008,Outerwear,Transit Coat,218.0,3,0.05,$621.30,227.0,47
+O51101,2025-12-15,C10075,Repeat,Paid Social,West,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,261.0,67
+O51102,2025-01-17,C10124,New,Email Campaign,West,P1006,Outerwear,Commuter Blazer,150.0,1,0.15,127.5,274.0,51
+O51102,2025-01-17,C10124,New,Email Campaign,West,P1011,Dresses,Travel Dress,141.0,1,0.1,126.9,241.0,77
+O51102,2025-01-17,C10124,New,Email Campaign,West,P1010,Dresses,Shift Dress,142.0,3,0.2,340.8,173.0,75
+O51103,2025-12-25,C10293,Repeat,Paid Social,South,P1009,Dresses,Wrap Dress,160.0,4,0.0,640.0,95.0,40
+O51104,2025-04-08,C10056,VIP,Web,South,P1011,Dresses,Travel Dress,157.92,2,0.0,315.84,239.0,77
+O51105,2025-08-14,C10009,Repeat,Organic Search,Northeast,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,273.0,51
+O51106,2025-08-03,C10160,Repeat,Web,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.1,196.2,226.0,47
+O51107,2025-07-31,C10077,VIP,Web,Midwest,P1010,Dresses,Shift Dress,159.04,3,0.0,477.12,170.0,75
+O51107,2025-07-31,C10077,VIP,Web,Midwest,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,161.0,40
+O51107,2025-07-31,C10077,VIP,Web,Midwest,P1012,Loungewear,Soft Set,78.0,3,0.2,187.2,216.0,81
+O51108,2025-04-15,C10353,Repeat,Web,West,P1000,Tops,Classic Tee,78.0,1,0.2,62.4,90.0,49
+O51109,2025-09-14,C10210,Repeat,Email Campaign,South,P1011,Dresses,Travel Dress,141.0,1,0.15,119.85,238.0,77
+O51109,2025-09-14,C10210,Repeat,EMAIL CAMPAIGN,South,P1003,Bottoms,Tailored Pant,89.0,2,0.1,160.2,238.0,61
+O51110,2025-11-10,C10396,VIP,Web,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.15,92.65,102.0,41
+O51110,2025-11-10,C10396,VIP,Web,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,2,0.0,234.0,180.0,49
+O51111,2025-02-01,C10241,Repeat,Web,West,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,175.0,79
+O51112,2025-03-12,C10361,New,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.05,80.75,234.0,79
+O51113,2025-04-17,C10265,VIP,Paid Social,Northeast,P1012,Loungewear,Soft Set,78.0,2,0.05,148.2,214.0,81
+O51114,2025-06-16,C10287,Repeat,Web,Midwest,P1011,Dresses,Travel Dress,157.92,1,0.15,134.23,237.0,77
+O51114,2025-06-16,C10287,Repeat,Web,Midwest,P1001,Tops,Air Tunic,62.0,1,0.15,52.7,139.0,72
+O51114,2025-06-16,C10287,Repeat,Web,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.0,$89.00,237.0,61
+O51115,2025-09-02,C10339,Repeat,Web,West,P1007,Outerwear,Layer Jacket,227.36,1,0.1,204.62,160.0,40
+O51115,2025-09-02,C10339,Repeat,Web,West,P1001,Tops,Air Tunic,62.0,3,,176.7,136.0,72
+O51115,2025-09-02,C10339,Repeat,Web,West,P1000,Tops,Classic Tee,78.0,2,0.1,140.4,88.0,49
+O51116,2025-07-12,C10269,New,Mobile App,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.05,111.15,179.0,49
+O51117,2025-03-30,C10160,Repeat,Paid Social,West,P1013,Loungewear,Relaxed Jogger,85.0,2,0.1,153.0,232.0,79
+O51118,2025-09-30,C10235,VIP,Web,West,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,174.0,79
+O51118,2025-09-30,C10235,VIP,Web,West,P1006,Outerwear,Commuter Blazer,174.0,1,0.05,165.3,272.0,51
+O51118,2025-09-30,C10235,VIP,Web,West,P1010,Dresses,Shift Dress,142.0,3,0.0,426.0,167.0,75
+O51119,2025-10-07,C10175,Repeat,Organic Search,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,135.0,72
+O51119,2025-10-07,C10175,Repeat,Organic Search,South,P1002,Tops,Everyday Shirt,71.0,2,0.0,142.0,259.0,67
+O51120,2025-12-13,C10181,Repeat,Mobile App,Midwest,P1010,Dresses,Shift Dress,142.0,1,0.15,120.7,166.0,75
+O51121,2025-12-15,C10395,VIP,Web,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,1,0.05,$120.04,178.0,49
+O51121,2025-12-15,C10395,VIP,Web,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.05,67.45,258.0,67
+O51122,2025-12-21,C10329,Repeat,Paid Social,West,P1010,Dresses,Shift Dress,142.0,1,0.1,127.8,165.0,75
+O51122,2025-12-21,C10329,Repeat,Paid Social,West,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,236.0,77
+O51123,2025-11-09,C10135,Repeat,Mobile App,West,P1008,Outerwear,Transit Coat,252.88,1,0.1,227.59,225.0,47
+O51124,2025-04-09,C10247,New,Organic Search,West,P1009,Dresses,Wrap Dress,179.2,2,0.1,322.56,93.0,40
+O51125,2025-05-23,C10126,Repeat,Paid Social,West,P1009,Dresses,Wrap Dress,179.2,4,0.05,680.96,89.0,40
+O51126,2025-06-02,C10285,Repeat,Mobile App,Northeast,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,134.0,72
+O51126,2025-06-02,C10285,Repeat,Mobile App,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.0,$78.00,213.0,81
+O51126,2025-06-02,C10285,Repeat,Mobile App,Northeast,P1007,outerwear,Layer Jacket,196.0,1,0.1,176.4,159.0,40
+O51127,2025-06-02,C10115,New,Web,Northeast,P1007,Outerwear,Layer Jacket,196.0,1,0.1,176.4,158.0,40
+O51128,2025-05-28,C10394,Repeat,Web,South,P1008,Outerwear,Transit Coat,218.0,1,0.05,207.1,224.0,47
+O51129,2025-04-17,C10360,Repeat,Web,Northeast,P1009,Dresses,Wrap Dress,179.2,1,0.0,179.2,88.0,40
+O51130,2025-12-27,C10353,Repeat,Paid Social,South,P1011,Dresses,Travel Dress,141.0,1,0.1,126.9,235.0,77
+O51131,2025-06-12,C10250,Repeat,Web,Midwest,P1011,Dresses,Travel Dress,157.92,1,0.0,157.92,234.0,77
+O51131,2025-06-12,C10250,Repeat,Web,Midwest,P1007,Outerwear,Layer Jacket,196.0,4,0.1,705.6,154.0,40
+O51132,2025-06-28,C10245,Repeat,Organic Search,South,P1011,Dresses,Travel Dress,157.92,1,0.0,157.92,233.0,77
+O51133,2025-05-21,C10286,Repeat,Web,Midwest,P1009,Dresses,Wrap Dress,179.2,2,0.1,322.56,86.0,40
+O51133,2025-05-21,C10286,Repeat,Web,,P1013,loungewear,Relaxed Jogger,85.0,1,0.1,76.5,231.0,79
+O51134,2025-03-04,C10147,New,Web,South,P1012,Loungewear,Soft Set,78.0,1,0.0,78.0,212.0,81
+O51135,2025-12-13,C10293,New,Paid Social,Northeast,P1003,Bottoms,Tailored Pant,89.0,2,0.05,169.1,235.0,61
+O51136,2025-07-14,C10278,Repeat,Web,South,P1012,Loungewear,Soft Set,78.0,1,0.0,78.0,211.0,81
+O51137,2025-06-26,C10202,New,Paid Social,Northeast,P1004,Bottoms,Easy Trouser,116.0,2,0.0,232.0,172.0,79
+O51138,2025-03-16,C10395,Repeat,Organic Search,Midwest,P1011,dresses,Travel Dress,141.0,1,0.0,$141.00,232.0,77
+O51139,2025-01-22,C10148,New,Mobile App,South,P1013,Loungewear,Relaxed Jogger,91.8,3,0.05,261.63,228.0,79
+O51139,2025-01-22,C10148,New,Mobile App,South,P1001,Tops,Air Tunic,62.0,1,0.1,55.8,133.0,72
+O51140,2025-02-10,C10147,New,Paid Social,Northeast,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,271.0,51
+O51141,2025-08-15,C10177,New,Paid Social,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,257.0,67
+O51141,2025-08-15,C10177,New,Paid Social,Northeast,P1004,Bottoms,Easy Trouser,116.0,1,0.0,$116.00,171.0,79
+O51142,2025-05-12,C10335,Repeat,Web,Midwest,P1000,Tops,Classic Tee,78.0,3,0.0,234.0,85.0,49
+O51142,2025-05-12,C10335,Repeat,Web,Midwest,P1012,Loungewear,Soft Set,78.0,4,0.0,312.0,207.0,81
+O51143,2025-09-03,C10382,Repeat,Organic Search,West,P1004,Bottoms,Easy Trouser,116.0,2,0.05,220.4,169.0,79
+O51144,2025-04-14,C10109,Repeat,PAID SOCIAL,West,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,227.0,79
+O51144,2025-04-14,C10109,Repeat,Paid Social,West,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,84.0,49
+O51145,2025-05-19,C10275,Repeat,Email Campaign,West,P1013,Loungewear,Relaxed Jogger,85.0,2,0.15,144.5,225.0,79
+O51146,2025-12-23,C10287,VIP,MOBILE APP,West,P1001,Tops,Air Tunic,62.0,2,0.05,117.8,131.0,72
+O51147,2025-03-12,C10139,Repeat,Mobile App,Northeast,P1012,Loungewear,Soft Set,78.0,2,0.2,124.8,205.0,81
+O51148,2025-11-12,C10055,Repeat,Email Campaign,South,P1008,Outerwear,Transit Coat,252.88,1,0.2,202.3,223.0,47
+O51148,2025-11-12,C10055,Repeat,Email Campaign,South,P1009,Dresses,Wrap Dress,160.0,2,0.2,256.0,84.0,40
+O51149,2025-10-28,C10379,VIP,Email Campaign,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.15,92.65,101.0,41
+O51150,2025-05-05,C10122,Repeat,Web,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.2,68.0,224.0,79
+O51151,2025-12-09,C10025,Repeat,Paid Social,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,2,0.1,227.45,176.0,49
+O51152,2025-04-26,C10271,New,Organic Search,Midwest,P1002,Tops,Everyday Shirt,71.0,1,0.2,$56.80,256.0,67
+O51152,2025-04-26,C10271,New,Organic Search,Midwest,P1010,Dresses,Shift Dress,159.04,2,0.0,318.08,163.0,75
+O51152,2025-04-26,C10271,New,Organic Search,Midwest,P1008,Outerwear,Transit Coat,218.0,1,0.2,174.4,222.0,47
+O51153,2025-04-30,C10326,New,Organic Search,South,P1006,Outerwear,Commuter Blazer,150.0,3,0.0,450.0,268.0,51
+O51153,2025-04-30,C10326,New,Organic Search,South,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,168.0,79
+O51154,2025-02-21,C10026,Repeat,Organic Search,Northeast,P1000,Tops,Classic Tee,78.0,1,0.05,74.1,83.0,49
+O51154,2025-02-21,C10026,Repeat,Organic Search,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.05,103.55,100.0,41
+O51155,2025-06-19,C10211,Repeat,Paid Social,West,P1008,Outerwear,Transit Coat,218.0,3,0.0,654.0,219.0,47
+O51155,2025-06-19,C10211,Repeat,Paid Social,West,P1001,Tops,Air Tunic,62.0,4,0.1,223.2,127.0,72
+O51156,2025-08-30,C10367,New,Web,South,P1008,Outerwear,Transit Coat,218.0,2,0.05,414.2,217.0,47
+O51156,2025-08-30,C10367,New,Web,South,P1001,Tops,Air Tunic,62.0,2,0.15,105.4,125.0,72
+O51157,2025-12-15,C10051,Repeat,Web,West,P1013,Loungewear,Relaxed Jogger,91.8,1,0.0,91.8,223.0,79
+O51158,2025-03-12,C10394,VIP,Organic Search,West,P1006,Outerwear,Commuter Blazer,150.0,2,0.05,285.0,266.0,51
+O51158,2025-03-12,C10394,VIP,Organic Search,West,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,233.0,61
+O51158,2025-03-12,C10394,VIP,Organic Search,West,P1011,Dresses,Travel Dress,141.0,3,0.0,423.0,229.0,77
+O51159,2025-10-09,C10002,Repeat,Paid Social,South,P1007,Outerwear,Layer Jacket,227.36,2,0.0,454.72,152.0,40
+O51159,2025-10-09,C10002,Repeat,Paid Social,South,P1012,Loungewear,Soft Set,78.0,1,0.0,78.0,204.0,81
+O51160,2025-07-28,C10080,Repeat,Paid Social,Northeast,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,231.0,61
+O51161,2025-09-01,C10334,VIP,Organic Search,Midwest,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,99.0,41
+O51161,2025-09-01,C10334,VIP,Organic Search,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,83.0,40
+O51162,2025-11-30,C10244,VIP,Web,Northeast,P1002,Tops,Everyday Shirt,71.0,1,0.0,71.0,255.0,67
+O51163,2025-05-28,C10102,Repeat,Web,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.0,78.0,203.0,81
+O51164,2025-05-27,C10164,Repeat,Web,South,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,167.0,79
+O51165,2025-01-31,C10330,New,Web,Midwest,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,265.0,51
+O51166,2025-02-15,C10393,New,WEB,West,P1013,Loungewear,Relaxed Jogger,91.8,1,0.2,73.44,222.0,79
+O51167,2025-10-21,C10333,Repeat,Mobile App,,P1004,Bottoms,Easy Trouser,116.0,1,0.1,104.4,166.0,79
+O51168,2025-10-01,C10118,Repeat,Organic Search,West,P1000,Tops,Classic Tee,78.0,2,0.0,156.0,81.0,49
+O51169,2025-01-20,C10378,New,Organic Search,Northeast,P1012,Loungewear,Soft Set,84.24,1,0.0,84.24,202.0,81
+O51170,2025-08-02,C10089,Repeat,Organic Search,South,P1012,Loungewear,Soft Set,78.0,1,0.1,70.2,201.0,81
+O51171,2025-01-19,C10090,New,Organic Search,South,P1007,Outerwear,Layer Jacket,196.0,3,0.05,558.6,149.0,40
+O51172,2025-09-11,C10203,VIP,Web,West,P1004,Bottoms,Easy Trouser,116.0,3,0.0,348.0,163.0,79
+O51172,2025-09-11,C10203,VIP,Web,West,P1009,Dresses,Wrap Dress,160.0,2,0.05,304.0,81.0,40
+O51173,2025-05-29,C10095,Repeat,Web,South,P1004,Bottoms,Easy Trouser,116.0,3,0.1,313.2,160.0,79
+O51174,2025-01-05,C10019,New,Web,South,P1005,Bottoms,Weekend Skirt,109.0,3,0.05,310.65,96.0,41
+O51175,2025-10-18,C10152,VIP,Web,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,95.0,41
+O51175,2025-10-18,C10152,VIP,Web,Northeast,P1000,Tops,Classic Tee,78.0,3,0.1,210.6,78.0,49
+O51176,2025-02-24,C10308,New,Organic Search,West,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,230.0,61
+O51176,2025-02-24,C10308,New,Organic Search,West,P1012,Loungewear,Soft Set,84.24,2,0.1,151.63,199.0,81
+O51177,2025-05-26,C10171,Repeat,Web,Northeast,P1009,Dresses,Wrap Dress,179.2,1,0.05,170.24,80.0,40
+O51178,2025-11-25,C10232,Repeat,Email Campaign,West,P1002,Tops,Everyday Shirt,71.0,1,0.15,60.35,254.0,67
+O51179,2025-09-26,C10278,Repeat,Web,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,228.0,77
+O51180,2025-03-10,C10252,New,Email Campaign,Midwest,P1009,dresses,Wrap Dress,160.0,2,0.15,272.0,78.0,40
+O51181,2025-08-28,C10258,Repeat,Organic Search,Midwest,P1007,Outerwear,Layer Jacket,196.0,1,0.15,166.6,148.0,40
+O51181,2025-08-28,C10258,Repeat,ORGANIC SEARCH,Midwest,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,162.0,75
+O51182,2025-04-09,C10139,Repeat,Web,,P1006,Outerwear,Commuter Blazer,150.0,4,0.05,570.0,261.0,51
+O51182,2025-04-09,C10139,Repeat,Web,Midwest,P1007,Outerwear,Layer Jacket,196.0,1,0.0,196.0,147.0,40
+O51182,2025-04-09,C10139,Repeat,Web,Midwest,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,159.0,79
+O51183,2025-02-27,C10414,New,Mobile App,South,P1010,Dresses,Shift Dress,142.0,4,0.0,568.0,158.0,75
+O51184,2025-03-25,C10169,Repeat,Email Campaign,South,P1006,Outerwear,Commuter Blazer,150.0,1,,120.0,260.0,51
+O51184,2025-03-25,C10169,Repeat,Email Campaign,South,P1007,Outerwear,Layer Jacket,196.0,1,0.15,166.6,146.0,40
+O51185,2025-08-23,C10374,Repeat,Paid Social,South,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,158.0,79
+O51185,2025-08-23,C10374,Repeat,Paid Social,South,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,77.0,40
+O51186,2025-05-12,C10331,Repeat,Organic Search,Northeast,P1007,Outerwear,Layer Jacket,196.0,3,0.2,470.4,143.0,40
+O51186,2025-05-12,C10331,Repeat,Organic Search,Northeast,P1000,Tops,Classic Tee,78.0,3,0.1,210.6,75.0,49
+O51187,2025-04-06,C10367,VIP,Mobile App,Northeast,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,229.0,61
+O51187,2025-04-06,C10367,VIP,Mobile App,Northeast,P1011,Dresses,Travel Dress,157.92,1,0.15,134.23,227.0,77
+O51188,2025-06-22,C10007,Repeat,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,0.0,78.0,74.0,49
+O51188,2025-06-22,C10007,Repeat,Mobile App,West,P1008,Outerwear,Transit Coat,218.0,3,0.05,621.3,214.0,47
+O51188,2025-06-22,C10007,Repeat,Mobile App,West,P1003,Bottoms,Tailored Pant,89.0,1,0.0,89.0,228.0,61
+O51189,2025-06-01,C10404,Repeat,Organic Search,West,P1013,Loungewear,Relaxed Jogger,85.0,4,0.15,289.0,218.0,79
+O51190,2025-12-12,C10290,Repeat,Paid Social,West,P1011,Dresses,Travel Dress,141.0,1,0.05,133.95,226.0,77
+O51190,2025-12-12,C10290,Repeat,Paid Social,West,P1004,Bottoms,Easy Trouser,116.0,2,0.0,232.0,156.0,79
+O51191,2025-04-09,C10387,Repeat,Paid Social,South,P1010,Dresses,Shift Dress,159.04,1,0.0,159.04,157.0,75
+O51191,2025-04-09,C10387,Repeat,Paid Social,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,124.0,72
+O51192,2025-11-09,C10089,New,Web,South,P1009,Dresses,Wrap Dress,160.0,2,0.0,320.0,75.0,40
+O51192,2025-11-09,C10089,New,Web,South,P1006,Outerwear,Commuter Blazer,174.0,3,0.1,469.8,257.0,51
+O51193,2025-07-27,C10327,VIP,Organic Search,West,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,226.0,61
+O51193,2025-07-27,C10327,VIP,Organic Search,West,P1011,Dresses,Travel Dress,157.92,2,0.2,252.67,224.0,77
+O51194,2025-09-21,C10218,New,Web,Northeast,P1014,Loungewear,Cozy Hoodie,117.0,1,0.2,93.6,175.0,49
+O51195,2025-02-14,C10167,New,Web,South,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,256.0,51
+O51195,2025-02-14,C10167,New,Web,South,P1013,Loungewear,Relaxed Jogger,91.8,1,0.05,87.21,217.0,79
+O51195,2025-02-14,C10167,New,Web,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,123.0,72
+O51196,2025-12-09,C10205,VIP,Organic Search,South,P1008,Outerwear,Transit Coat,252.88,2,0.1,455.18,212.0,47
+O51197,2025-04-05,C10048,Repeat,Web,Northeast,P1005,Bottoms,Weekend Skirt,109.0,2,0.0,218.0,93.0,41
+O51198,2025-09-02,C10071,Repeat,Paid Social,South,P1002,Tops,Everyday Shirt,71.0,3,0.05,202.35,251.0,67
+O51198,2025-09-02,C10071,Repeat,Paid Social,South,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,92.0,41
+O51199,2025-05-08,C10165,Repeat,Organic Search,West,P1005,Bottoms,Weekend Skirt,109.0,1,0.0,109.0,91.0,41
+O51200,2025-05-14,C10003,VIP,Mobile App,West,P1008,Outerwear,Transit Coat,218.0,1,0.05,207.1,211.0,47
+O51201,2025-05-01,C10196,Repeat,Web,West,P1007,Outerwear,Layer Jacket,196.0,1,0.05,186.2,142.0,40
+O51201,2025-05-01,C10196,Repeat,Web,West,P1013,Loungewear,Relaxed Jogger,85.0,2,0.05,161.5,215.0,79
+O51202,2025-05-17,C10228,Repeat,Paid Social,West,P1000,Tops,Classic Tee,78.0,1,0.05,74.1,73.0,49
+O51203,2025-06-04,C10168,Repeat,Mobile App,Midwest,P1012,Loungewear,Soft Set,78.0,3,0.0,234.0,196.0,81
+O51204,2025-10-21,C10298,Repeat,Mobile App,Northeast,P1009,Dresses,Wrap Dress,160.0,2,0.1,$288.00,73.0,40
+O51204,2025-10-21,C10298,Repeat,Mobile App,Northeast,P1005,Bottoms,Weekend Skirt,109.0,4,0.0,436.0,87.0,41
+O51204,2025-10-21,C10298,Repeat,Mobile App,Northeast,P1012,Loungewear,Soft Set,78.0,1,0.0,78.0,195.0,81
+O51205,2025-05-14,C10005,Repeat,Web,Midwest,P1002,Tops,Everyday Shirt,71.0,4,0.05,269.8,247.0,67
+O51205,2025-05-14,C10005,Repeat,Web,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,,89.0,225.0,61
+O51206,2025-07-04,C10334,VIP,Organic Search,,P1011,Dresses,Travel Dress,157.92,2,0.05,300.05,222.0,77
+O51207,2025-05-01,C10354,Repeat,Organic Search,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,122.0,72
+O51208,2025-12-08,C10031,New,Email Campaign,West,P1000,Tops,Classic Tee,78.0,1,0.1,70.2,72.0,49
+O51209,2025-08-27,C10060,Repeat,Mobile App,West,P1000,Tops,Classic Tee,78.0,1,,78.0,71.0,49
+O51210,2025-03-23,C10157,New,WEB,South,P1002,Tops,Everyday Shirt,71.0,1,0.1,63.9,246.0,67
+O51210,2025-03-23,C10157,New,Web,South,P1012,Loungewear,Soft Set,78.0,1,0.05,74.1,194.0,81
+O51211,2025-12-18,C10207,Repeat,Web,South,P1000,Tops,Classic Tee,78.0,3,0.05,222.3,68.0,49
+O51211,2025-12-18,C10207,Repeat,Web,South,P1013,Loungewear,Relaxed Jogger,91.8,1,0.0,91.8,214.0,79
+O51212,2025-12-27,C10257,VIP,MOBILE APP,Northeast,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,121.0,72
+O51213,2025-06-09,C10394,Repeat,Organic Search,,P1006,Outerwear,Commuter Blazer,150.0,1,0.0,150.0,255.0,51
+O51214,2025-03-02,C10353,New,Email Campaign,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.1,80.1,224.0,61
+O51215,2025-06-01,C10327,VIP,Mobile App,Midwest,P1008,Outerwear,Transit Coat,218.0,1,0.15,185.3,210.0,47
+O51215,2025-06-01,C10327,VIP,Mobile App,Midwest,P1009,Dresses,Wrap Dress,179.2,3,0.05,510.72,70.0,40
+O51215,2025-06-01,C10327,VIP,Mobile App,Midwest,P1005,Bottoms,Weekend Skirt,109.0,4,0.0,436.0,83.0,41
+O51216,2025-11-11,C10188,Repeat,Mobile App,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,213.0,79
+O51216,2025-11-11,C10188,Repeat,Mobile App,Midwest,P1006,Outerwear,Commuter Blazer,174.0,1,0.0,$174.00,254.0,51
+O51217,2025-04-23,C10113,Repeat,Web,Northeast,P1008,Outerwear,Transit Coat,218.0,1,0.1,196.2,209.0,47
+O51217,2025-04-23,C10113,Repeat,Web,Northeast,P1010,Dresses,Shift Dress,159.04,1,0.05,151.09,156.0,75
+O51218,2025-09-02,C10068,VIP,Web,Midwest,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,174.0,49
+O51218,2025-09-02,C10068,VIP,Web,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.2,62.4,193.0,81
+O51219,2025-08-21,C10078,VIP,Mobile App,South,P1007,Outerwear,Layer Jacket,196.0,1,0.1,176.4,141.0,40
+O51220,2025-11-07,C10382,VIP,Mobile App,South,P1001,Tops,Air Tunic,62.0,1,0.0,62.0,120.0,72
+O51221,2025-08-01,C10191,Repeat,PAID SOCIAL,Northeast,P1011,Dresses,Travel Dress,141.0,1,0.0,141.0,221.0,77
+O51222,2025-10-09,C10359,Repeat,Web,South,P1000,Tops,Classic Tee,78.0,1,0.05,74.1,67.0,49
+O51223,2025-10-03,C10241,VIP,Web,West,P1003,Bottoms,Tailored Pant,89.0,1,0.05,84.55,223.0,61
+O51224,2025-12-07,C10410,VIP,Mobile App,West,P1014,Loungewear,Cozy Hoodie,126.36,1,0.2,101.09,173.0,49
+O51225,2025-05-07,C10111,Repeat,Mobile App,Midwest,P1007,Outerwear,Layer Jacket,196.0,1,0.1,176.4,140.0,40
+O51226,2025-11-02,C10348,Repeat,Organic Search,South,P1010,Dresses,Shift Dress,142.0,3,0.1,383.4,153.0,75
+O51227,2025-02-11,C10403,Repeat,Web,Midwest,P1003,Bottoms,Tailored Pant,89.0,2,0.0,178.0,221.0,61
+O51227,2025-02-11,C10403,Repeat,Web,Midwest,P1014,Loungewear,Cozy Hoodie,126.36,1,0.05,120.04,172.0,49
+O51227,2025-02-11,C10403,Repeat,Web,Midwest,P1000,Tops,Classic Tee,78.0,1,0.2,62.4,66.0,49
+O51228,2025-08-17,C10269,Repeat,Paid Social,Midwest,P1012,Loungewear,Soft Set,78.0,1,0.15,66.3,192.0,81
+O51229,2025-12-27,C10270,New,Paid Social,West,P1012,Loungewear,Soft Set,84.24,3,0.1,227.45,189.0,81
+O51230,2025-02-09,C10185,Repeat,Web,Midwest,P1008,Outerwear,Transit Coat,218.0,2,0.15,370.6,207.0,47
+O51230,2025-02-09,C10185,Repeat,Web,Midwest,P1012,Loungewear,Soft Set,84.24,1,0.0,84.24,188.0,81
+O51230,2025-02-09,C10185,Repeat,Web,Midwest,P1009,Dresses,Wrap Dress,160.0,1,0.0,160.0,69.0,40
+O51231,2025-02-27,C10288,New,Mobile App,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,152.0,75
+O51231,2025-02-27,C10288,New,MOBILE APP,Northeast,P1014,Loungewear,Cozy Hoodie,126.36,2,0.0,252.72,170.0,49
+O51232,2025-10-08,C10031,Repeat,Organic Search,West,P1012,Loungewear,Soft Set,78.0,3,0.0,234.0,185.0,81
+O51233,2025-04-14,C10258,New,Web,West,P1014,Loungewear,Cozy Hoodie,117.0,1,0.0,117.0,169.0,49
+O51233,2025-04-14,C10258,New,Web,West,P1008,Outerwear,Transit Coat,218.0,1,0.05,207.1,206.0,47
+O51234,2025-10-02,C10293,Repeat,Mobile App,West,P1003,Bottoms,Tailored Pant,89.0,1,,80.1,220.0,61
+O51235,2025-03-26,C10076,VIP,Web,Northeast,P1010,Dresses,Shift Dress,142.0,1,0.0,142.0,151.0,75
+O51235,2025-03-26,C10076,VIP,Web,Northeast,P1008,Outerwear,Transit Coat,218.0,1,,207.1,205.0,47
+O51236,2025-09-24,C10167,VIP,Mobile App,West,P1001,Tops,Air Tunic,62.0,2,0.0,124.0,118.0,72
+O51237,2025-03-01,C10226,Repeat,Web,West,P1010,Dresses,Shift Dress,142.0,2,0.05,269.8,149.0,75
+O51238,2025-04-16,C10348,New,Web,Midwest,P1004,Bottoms,Easy Trouser,116.0,1,0.0,116.0,155.0,79
+O51239,2025-10-26,C10367,Repeat,Email Campaign,Midwest,P1010,Dresses,Shift Dress,142.0,2,0.1,255.6,147.0,75
+O51240,2025-02-16,C10250,Repeat,Mobile App,Northeast,P1010,Dresses,Shift Dress,142.0,2,0.1,255.6,145.0,75
+O51241,2025-08-17,C10261,VIP,Paid Social,Midwest,P1013,Loungewear,Relaxed Jogger,85.0,2,0.0,170.0,211.0,79
+O51241,2025-08-17,C10261,VIP,Paid Social,Midwest,P1005,Bottoms,Weekend Skirt,109.0,2,0.0,218.0,81.0,41
+O51242,2025-01-29,C10414,New,Mobile App,Midwest,P1012,Loungewear,Soft Set,84.24,1,0.05,80.03,184.0,81
+O51242,2025-01-29,C10414,New,Mobile App,Midwest,P1001,tops,Air Tunic,62.0,1,0.0,62.0,117.0,72
+O51243,2025-03-09,C10232,Repeat,Mobile App,West,P1007,Outerwear,Layer Jacket,196.0,1,0.1,176.4,139.0,40
+O51243,2025-03-09,C10232,Repeat,Mobile App,West,P1004,Bottoms,Easy Trouser,116.0,2,0.05,220.4,153.0,79
+O51244,2025-08-01,C10262,Repeat,Email Campaign,West,P1009,Dresses,Wrap Dress,160.0,1,0.1,144.0,68.0,40
+O51244,2025-08-01,C10262,Repeat,Email Campaign,West,P1012,Loungewear,Soft Set,78.0,2,0.2,124.8,182.0,81
+O51245,2025-10-16,C10233,Repeat,Email Campaign,Northeast,P1009,Dresses,Wrap Dress,160.0,1,0.15,136.0,67.0,40
+O51245,2025-10-16,C10233,Repeat,Email Campaign,Northeast,P1005,Bottoms,Weekend Skirt,109.0,1,0.1,98.1,80.0,41
+O51246,2025-10-14,C10029,Repeat,Email Campaign,Midwest,P1003,Bottoms,Tailored Pant,89.0,1,0.2,71.2,219.0,61
+O51247,2025-12-11,C10236,VIP,Paid Social,West,P1003,Bottoms,Tailored Pant,89.0,1,0.2,71.2,218.0,61
+O51247,2025-12-11,C10236,VIP,Paid Social,West,P1007,Outerwear,Layer Jacket,227.36,1,0.05,215.99,138.0,40
+O51248,2025-06-07,C10413,Repeat,Web,South,P1009,Dresses,Wrap Dress,179.2,2,0.1,322.56,65.0,40
+O51248,2025-06-07,C10413,Repeat,Web,South,P1013,Loungewear,Relaxed Jogger,85.0,1,0.0,85.0,210.0,79
+O51248,2025-06-07,C10413,Repeat,Web,South,P1012,Loungewear,Soft Set,78.0,1,0.0,78.0,181.0,81
+O51249,2025-01-12,C10370,New,Organic Search,West,P1004,Bottoms,Easy Trouser,116.0,2,0.0,232.0,151.0,79
